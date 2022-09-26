@@ -67,5 +67,5 @@ Deben entregar el script Ex2.pm y su input file con una breve descripción de lo
 #### Ejercicio 2.b – Interpretación del resultado del Blast
 Dar una explicación del resultado blast obtenido en términos de las secuencias encontradas y dar una explicación sobre que significan los valores estadísticos asociados a las secuencias encontradas (el capítulo 4 del libro de David Mount puede ayudarlos).
 
-####Ejercicio 3 – Multiple Sequence Alignment (MSA) 
+#### Ejercicio 3 – Multiple Sequence Alignment (MSA) 
 Descargar las secuencias (en formato fasta) de 3 o más organismos distintos pertenecientes a otras especies que hayan salido en los resultados del Blast y realizar un alineamiento múltiple con tu secuencia de consulta más estas otras encontradas. Si no pueden hacerlo localmente pueden utilizar algún programa de MSA online. Intenten realizar una interpretación del resultado del alineamiento múltiple. Entregar información del MSA.
