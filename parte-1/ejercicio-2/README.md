@@ -18,3 +18,6 @@ perl script2.pl ./sequence.gb out
 
 ## Resultados
 Como resultado obtenemos 12 archivos *.out* dado que procesamos los 6 archivos fasta generados en el punto 1, de manera local y de forma remota. La salida generada aporta información sobre la secuencia de aminoacidos de entrada, siempre y cuando esta sea válida.
+
+## Comentarios
+Para más información sobre bioperl, ver: https://bioperl.org/howtos/BlastPlus_HOWTO.html
