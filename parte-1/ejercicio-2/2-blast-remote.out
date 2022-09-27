@@ -1,0 +1,3666 @@
+BLASTP 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+           507,975,733 sequences; 197,816,729,863 total letters
+
+
+
+Query= NC_000011 Homo sapiens chromosome 11, GRCh38.p14 Primary Assembly.
+
+Length=476
+
+RID: K4R4PWAH013
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+AKI70565.1 INS [synthetic construct]                                  102     4e-22
+UFQ90408.1 ZZ-proinsulin [Cloning vector pET28a_ZZ_proinsulin]        105     5e-22
+UOG94042.1 H-insulin [synthetic construct]                            102     5e-22
+AAA72531.1 proinsulin [synthetic construct] >dbj|BAH59081.1| huma...  101     6e-22
+2KQP_A Chain A, Insulin [Homo sapiens]                                101     6e-22
+UIK24472.1 SUMO-Lispro proinsulin fusion protein [synthetic const...  105     8e-22
+AEG19452.1 insulin [Homo sapiens]                                     100     2e-21
+NP_000198.1 insulin preproprotein [Homo sapiens] >ref|NP_00117202...  100     3e-21
+AAP36446.1 Homo sapiens insulin, partial [synthetic construct] >g...  100     3e-21
+XP_024110665.1 insulin isoform X2 [Pongo abelii] >ref|XP_02411066...  100     3e-21
+prf||1006230A insulin,pro- [Macaca mulatta]                           99.4    3e-21
+AKI70564.1 INS [synthetic construct]                                  100     3e-21
+NP_001008996.1 insulin preproprotein [Pan troglodytes] >sp|P30410...  100     3e-21
+AAA72172.1 synthetic preproinsulin [synthetic construct]              100     3e-21
+QMS45324.1 insulin isoform UB [Homo sapiens]                          101     4e-21
+AGG11869.1 HPPI [synthetic construct]                                 99.4    5e-21
+AAA59179.1 insulin [Homo sapiens]                                     99.0    7e-21
+XP_025211013.1 insulin isoform X4 [Theropithecus gelada] >ref|XP_...  98.6    1e-20
+XP_032009711.1 insulin isoform X2 [Hylobates moloch] >ref|XP_0320...  98.6    1e-20
+XP_003909425.2 insulin isoform X2 [Papio anubis] >ref|XP_00918361...  98.6    1e-20
+XP_003281399.1 insulin isoform X2 [Nomascus leucogenys] >ref|XP_0...  98.2    1e-20
+AKI70566.1 INS [synthetic construct]                                  97.8    2e-20
+XP_008002825.1 insulin isoform X2 [Chlorocebus sabaeus]               98.6    3e-20
+XP_034787832.1 insulin [Pan paniscus]                                 100     3e-20
+AKI70567.1 INS [synthetic construct]                                  97.4    3e-20
+QMS45321.1 insulin isoform U1 [Homo sapiens]                          100     3e-20
+XP_016775240.1 insulin isoform X1 [Pan troglodytes]                   100     4e-20
+XP_011896559.1 PREDICTED: insulin [Cercocebus atys] >ref|XP_01189...  97.4    4e-20
+XP_023039285.1 insulin isoform X1 [Piliocolobus tephrosceles] >re...  97.1    5e-20
+XP_025211011.1 insulin isoform X2 [Theropithecus gelada]              97.8    6e-20
+XP_017743290.1 PREDICTED: insulin isoform X2 [Rhinopithecus bieti]    97.8    6e-20
+XP_017803627.2 insulin isoform X1 [Papio anubis]                      97.8    6e-20
+WP_170078534.1 insulin-like growth factor [Sneathiella chungangen...  94.7    2e-19
+XP_023039287.1 insulin isoform X2 [Piliocolobus tephrosceles]         96.3    2e-19
+XP_008002752.1 insulin isoform X1 [Chlorocebus sabaeus]               97.8    3e-19
+AWO14628.1 proinsulin glargine analogue [synthetic construct]         94.4    4e-19
+XP_006141129.1 insulin [Tupaia chinensis] >gb|ELW71922.1| Insulin...  89.7    2e-17
+NP_001123565.1 insulin precursor [Canis lupus familiaris] >ref|XP...  88.6    5e-17
+XP_004403859.1 PREDICTED: insulin [Odobenus rosmarus divergens] >...  88.2    6e-17
+XP_032269837.1 insulin [Phoca vitulina]                               88.2    6e-17
+XP_034868296.1 insulin [Mirounga leonina] >ref|XP_045748484.1| in...  87.4    1e-16
+XP_041578098.1 insulin [Vulpes lagopus]                               87.4    1e-16
+NP_001353985.1 insulin precursor [Oryctolagus cuniculus] >gb|ACK4...  87.4    1e-16
+XP_021540854.1 insulin [Neomonachus schauinslandi]                    87.0    2e-16
+XP_031244809.1 insulin-2 isoform X2 [Mastomys coucha]                 87.0    2e-16
+XP_007466015.1 PREDICTED: insulin [Lipotes vexillifer]                86.7    2e-16
+XP_035930639.1 insulin [Halichoerus grypus]                           88.6    2e-16
+XP_021060484.1 insulin-2 [Mus pahari] >ref|XP_021060492.1| insuli...  85.9    5e-16
+XP_021024412.1 insulin-2 [Mus caroli] >ref|XP_021024413.1| insuli...  85.5    5e-16
+ABB89749.1 preproinsulin 2 [Mus caroli]                               85.5    5e-16
+NP_001172012.1 insulin-2 preproprotein [Mus musculus] >ref|NP_001...  85.5    5e-16
+XP_031244810.1 insulin-2 isoform X3 [Mastomys coucha]                 85.5    6e-16
+NP_062003.1 insulin-2 preproprotein [Rattus norvegicus] >sp|P0132...  85.1    7e-16
+XP_032747262.1 insulin-2 [Rattus rattus]                              85.1    7e-16
+ABB89748.1 preproinsulin 2 [Apodemus semotus]                         85.1    7e-16
+XP_006977353.1 insulin [Peromyscus maniculatus bairdii] >ref|XP_0...  85.1    9e-16
+ABB89752.1 preproinsulin [Microtus kikuchii]                          84.7    9e-16
+XP_038173309.1 insulin [Arvicola amphibius]                           84.7    9e-16
+XP_005351628.2 insulin [Microtus ochrogaster]                         84.7    1e-15
+XP_021070669.1 insulin-1 [Mus pahari]                                 84.7    1e-15
+XP_038952432.1 insulin-2 isoform X1 [Rattus norvegicus] >ref|XP_0...  84.7    1e-15
+prf||720460B insulin 2,pro [Rattus norvegicus]                        83.6    1e-15
+XP_031240877.1 insulin-1 [Mastomys coucha] >ref|XP_031240878.1| i...  84.3    1e-15
+XP_003508128.1 insulin [Cricetulus griseus] >ref|XP_027265003.1| ...  84.3    2e-15
+XP_008837426.1 insulin isoform X1 [Nannospalax galili]                84.0    2e-15
+XP_049992438.1 insulin [Microtus fortis]                              84.3    2e-15
+XP_028642854.1 insulin-2 [Grammomys surdaster] >ref|XP_028642855....  83.6    2e-15
+XP_029770545.1 insulin [Suricata suricatta]                           83.6    2e-15
+ABB89747.1 preproinsulin 2 [Rattus losea]                             83.6    3e-15
+CAH6793397.1 Ins [Phodopus roborovskii]                               83.6    3e-15
+XP_034379025.1 insulin-2 [Arvicanthis niloticus]                      83.6    3e-15
+P01313.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  83.2    3e-15
+XP_012968060.1 insulin [Mesocricetus auratus]                         83.2    3e-15
+XP_048314329.1 insulin [Myodes glareolus]                             83.2    4e-15
+XP_006911039.1 insulin [Pteropus alecto] >ref|XP_039696307.1| ins...  83.2    4e-15
+ACX53313.1 insulin-2 precursor [Mus musculus]                         82.8    5e-15
+KAH0508191.1 Insulin [Microtus ochrogaster]                           82.4    7e-15
+EGW08477.1 Insulin [Cricetulus griseus]                               85.9    9e-15
+prf||720460A insulin 1,pro [Rattus norvegicus]                        81.3    1e-14
+ABB89750.1 preproinsulin 2 [Niviventer coninga]                       81.6    1e-14
+XP_032748073.1 insulin-1 [Rattus rattus]                              81.3    2e-14
+NP_062002.1 insulin-1 preproprotein [Rattus norvegicus] >sp|P0132...  80.9    2e-14
+EDL94405.1 rCG57477 [Rattus norvegicus]                               81.3    2e-14
+ABB89746.1 preproinsulin 1 [Niviventer coninga]                       80.9    3e-14
+EDL94406.1 rCG57481, isoform CRA_a [Rattus norvegicus]                80.1    3e-14
+6PXV_D Cryo-EM structure of full-length insulin receptor bound to...  79.3    3e-14
+XP_034378228.1 insulin-2 isoform X2 [Arvicanthis niloticus]           80.5    3e-14
+XP_021490460.1 insulin isoform X2 [Meriones unguiculatus] >ref|XP...  80.1    4e-14
+ABB89744.1 preproinsulin 1 [Apodemus semotus]                         80.1    4e-14
+XP_021490452.1 insulin isoform X1 [Meriones unguiculatus]             80.5    7e-14
+XP_005384246.1 PREDICTED: insulin [Chinchilla lanigera]               79.3    8e-14
+ABB89743.1 preproinsulin 1 [Rattus losea]                             79.3    8e-14
+XP_034378222.1 insulin-2 isoform X1 [Arvicanthis niloticus]           80.1    9e-14
+QTY39211.1 insulin2 Q104del (Kuma), partial [Vector pENTR1A-Ins2K...  79.0    1e-13
+Q62587.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  78.6    1e-13
+AAB60474.1 preproinsulin II [Mus spretus]                             75.9    2e-13
+XP_028632266.1 insulin-1 [Grammomys surdaster]                        77.8    3e-13
+XP_018891846.1 insulin isoform X2 [Gorilla gorilla gorilla] >gb|A...  77.4    3e-13
+XP_024110668.1 insulin isoform X3 [Pongo abelii] >gb|PNJ16423.1| ...  77.0    4e-13
+XP_025211016.1 insulin isoform X5 [Theropithecus gelada]              77.0    4e-13
+XP_011719621.1 insulin isoform X2 [Macaca nemestrina] >ref|XP_030...  76.6    5e-13
+XP_032009714.1 insulin isoform X3 [Hylobates moloch]                  76.6    5e-13
+XP_011785466.1 PREDICTED: insulin isoform X3 [Colobus angolensis ...  76.6    5e-13
+XP_017524755.2 insulin [Manis javanica]                               76.6    7e-13
+XP_022363428.1 insulin [Enhydra lutris kenyoni]                       76.3    1e-12
+XP_042815670.1 insulin [Panthera tigris]                              76.3    1e-12
+XP_037012244.1 insulin [Artibeus jamaicensis]                         75.9    1e-12
+XP_025211012.1 insulin isoform X3 [Theropithecus gelada]              76.3    2e-12
+XP_032124369.1 insulin [Sapajus apella] >ref|XP_032124370.1| insu...  75.5    2e-12
+XP_012311615.1 insulin [Aotus nancymaae]                              75.5    2e-12
+XP_003798420.1 insulin isoform X1 [Otolemur garnettii] >gb|ACH531...  75.5    2e-12
+XP_019064851.1 insulin isoform X1 [Fukomys damarensis]                75.5    2e-12
+XP_036731684.1 insulin [Manis pentadactyla] >gb|KAI5278593.1| Ins...  75.1    2e-12
+P67972.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  75.1    3e-12
+AAX84658.1 preproinsulin [Felis catus]                                74.3    3e-12
+XP_035119627.1 insulin [Callithrix jacchus] >ref|XP_035119628.1| ...  74.7    3e-12
+BAB25058.1 unnamed protein product [Mus musculus]                     74.7    4e-12
+AAA17540.1 insulin [Oryctolagus cuniculus]                            72.8    4e-12
+XP_021008173.1 insulin-1 [Mus caroli]                                 74.7    4e-12
+P01311.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  74.7    4e-12
+NP_032412.3 insulin-1 preproprotein [Mus musculus] >sp|P01325.1| ...  74.3    4e-12
+XP_045343176.1 insulin [Leopardus geoffroyi]                          74.3    5e-12
+XP_040322184.1 insulin [Puma yagouaroundi]                            74.3    5e-12
+XP_019292555.1 PREDICTED: insulin [Panthera pardus] >ref|XP_02690...  74.3    5e-12
+XP_043437955.1 insulin [Prionailurus bengalensis]                     74.3    5e-12
+NP_001009272.1 insulin precursor [Felis catus] >ref|XP_019666739....  74.3    5e-12
+XP_010633950.1 insulin isoform X2 [Fukomys damarensis] >gb|KFO282...  73.9    6e-12
+XP_004852149.1 insulin [Heterocephalus glaber] >gb|EHB15713.1| In...  73.9    6e-12
+P01327.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  73.2    8e-12
+XP_039081000.1 insulin [Hyaena hyaena]                                73.6    9e-12
+XP_012507423.1 PREDICTED: insulin [Propithecus coquereli]             73.6    9e-12
+ABB89745.1 preproinsulin 1 [Mus caroli]                               73.6    1e-11
+XP_016005239.1 insulin isoform X1 [Rousettus aegyptiacus] >gb|KAF...  72.8    2e-11
+NP_001269184.1 insulin precursor [Ictidomys tridecemlineatus] >sp...  72.4    2e-11
+XP_006750158.1 insulin [Leptonychotes weddellii]                      72.4    2e-11
+XP_010329449.1 insulin [Saimiri boliviensis boliviensis]              72.4    2e-11
+XP_016005248.1 insulin isoform X2 [Rousettus aegyptiacus]             72.0    3e-11
+XP_017196107.1 PREDICTED: insulin isoform X1 [Oryctolagus cuniculus]  72.8    4e-11
+XP_046300796.1 insulin [Marmota monax] >ref|XP_046300798.1| insul...  71.6    4e-11
+XP_027809291.1 insulin isoform X1 [Marmota flaviventris] >ref|XP_...  71.6    5e-11
+XP_028373401.1 insulin [Phyllostomus discolor]                        71.2    5e-11
+XP_026269445.1 insulin isoform X1 [Urocitellus parryii]               71.2    6e-11
+XP_019569256.1 PREDICTED: insulin [Rhinolophus sinicus]               70.9    8e-11
+XP_036115849.1 insulin [Molossus molossus] >gb|KAF6437780.1| INS-...  70.5    1e-10
+XP_036716824.1 insulin [Balaenoptera musculus]                        70.5    1e-10
+ACC68945.1 proinsulin precursor (predicted) [Rhinolophus ferrumeq...  70.5    1e-10
+XP_032975469.1 insulin [Rhinolophus ferrumequinum]                    70.5    2e-10
+KAF5916841.1 hypothetical protein HPG69_013814 [Diceros bicornis ...  69.7    2e-10
+XP_045414405.1 insulin [Lemur catta]                                  69.7    2e-10
+XP_008158493.1 insulin [Eptesicus fuscus]                             69.7    2e-10
+XP_034501646.1 insulin isoform X1 [Ailuropoda melanoleuca]            70.9    2e-10
+XP_027809292.1 insulin isoform X2 [Marmota flaviventris]              68.9    3e-10
+QIH29510.1 preproinsulin [Kogia breviceps]                            68.9    3e-10
+XP_002920166.2 insulin isoform X2 [Ailuropoda melanoleuca]            70.1    4e-10
+XP_026269446.1 insulin isoform X2 [Urocitellus parryii]               68.6    4e-10
+MBW01439.1 Insulin [Eschrichtius robustus]                            70.9    4e-10
+XP_022446762.1 insulin isoform X1 [Delphinapterus leucas] >ref|XP...  68.9    4e-10
+XP_036903723.1 insulin [Sturnira hondurensis]                         68.6    5e-10
+XP_004278117.1 insulin [Orcinus orca] >ref|XP_004317908.1| insuli...  68.6    5e-10
+XP_023973345.1 insulin [Physeter catodon]                             68.6    5e-10
+AAM76640.1 insulin, partial [Gorilla gorilla] >gb|AAM76641.1| ins...  67.0    6e-10
+XP_019522928.1 PREDICTED: insulin [Hipposideros armiger]              68.2    7e-10
+XP_010160985.1 insulin [Antrostomus carolinensis]                     67.4    1e-09
+XP_020024407.1 insulin [Castor canadensis]                            67.4    1e-09
+XP_024605021.1 insulin [Neophocaena asiaeorientalis asiaeoriental...  67.4    1e-09
+XP_004717235.1 insulin [Echinops telfairi]                            67.4    1e-09
+XP_017898972.1 PREDICTED: insulin [Capra hircus] >ref|XP_01789897...  67.0    1e-09
+XP_008837427.1 insulin isoform X2 [Nannospalax galili]                66.6    2e-09
+XP_006860871.1 PREDICTED: insulin [Chrysochloris asiatica]            66.6    2e-09
+XP_036171734.1 insulin-like [Myotis myotis]                           66.6    2e-09
+XP_026338704.1 insulin [Ursus arctos] >ref|XP_040495583.1| insuli...  66.2    3e-09
+AAB60473.1 preproinsulin I [Mus spretus]                              63.5    5e-09
+XP_004654275.1 insulin [Jaculus jaculus]                              65.9    5e-09
+XP_015420950.1 PREDICTED: insulin [Myotis davidii]                    65.9    5e-09
+XP_031546921.1 insulin [Vicugna pacos]                                65.9    5e-09
+XP_006893274.1 PREDICTED: insulin [Elephantulus edwardii]             65.1    7e-09
+XP_003422420.1 insulin [Loxodonta africana] >ref|XP_049746128.1| ...  65.1    8e-09
+XP_045626705.1 insulin [Ursus americanus]                             65.1    9e-09
+XP_022446765.1 insulin isoform X2 [Delphinapterus leucas] >ref|XP...  64.3    1e-08
+XP_007171218.2 LOW QUALITY PROTEIN: insulin [Balaenoptera acutoro...  64.7    1e-08
+XP_040827010.1 insulin [Ochotona curzoniae]                           64.3    1e-08
+XP_012876479.1 PREDICTED: insulin [Dipodomys ordii] >ref|XP_04252...  64.3    1e-08
+MBF5018571.1 hypothetical protein [Bacillus velezensis]               62.0    2e-08
+XP_012665959.1 insulin isoform X2 [Otolemur garnettii]                63.2    3e-08
+XP_036284716.1 insulin [Pipistrellus kuhlii]                          63.2    3e-08
+XP_045677069.1 insulin isoform X1 [Phyllostomus hastatus]             63.2    4e-08
+P21563.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  62.8    5e-08
+XP_045677071.1 insulin isoform X2 [Phyllostomus hastatus]             62.8    5e-08
+XP_004389446.1 insulin [Trichechus manatus latirostris]               62.8    6e-08
+ELK28555.1 Insulin [Myotis davidii]                                   64.3    7e-08
+XP_004627141.1 insulin [Octodon degus] >sp|P17715.2| RecName: Ful...  62.0    1e-07
+XP_041521893.1 insulin [Microtus oregoni]                             62.0    1e-07
+XP_005903567.1 PREDICTED: insulin [Bos mutus]                         61.2    2e-07
+XP_014651319.1 PREDICTED: insulin [Ceratotherium simum simum]         60.5    4e-07
+XP_031303797.1 insulin [Camelus dromedarius] >ref|XP_032346050.1|...  60.1    5e-07
+XP_047375537.1 insulin [Neosciurus carolinensis] >gb|MBZ3883258.1...  59.7    6e-07
+XP_008542536.1 PREDICTED: insulin [Equus przewalskii] >ref|XP_023...  59.3    9e-07
+XP_047548388.1 insulin [Lutra lutra]                                  58.5    1e-06
+XP_004759728.2 insulin [Mustela putorius furo] >ref|XP_012915491....  58.5    2e-06
+XP_032735660.1 insulin [Lontra canadensis]                            58.5    2e-06
+KAG8522541.1 Insulin [Galemys pyrenaicus]                             58.2    2e-06
+XP_004599268.1 insulin isoform X2 [Ochotona princeps]                 58.2    2e-06
+XP_014685720.1 insulin isoform X4 [Equus asinus]                      58.2    2e-06
+AAC78289.1 proinsulin-like protein BKRA [synthetic construct]         56.2    2e-06
+XP_012599453.1 insulin [Microcebus murinus]                           57.8    3e-06
+XP_036284716.2 insulin [Pipistrellus kuhlii]                          62.0    3e-06
+KAI5761314.1 INS protein [Gulo gulo luscus] >gb|KAI5761510.1| INS...  57.8    3e-06
+XP_037696381.1 insulin [Choloepus didactylus]                         57.8    3e-06
+BAM29044.1 insulin [Suncus murinus]                                   56.2    5e-06
+XP_007535926.1 PREDICTED: insulin [Erinaceus europaeus]               57.0    5e-06
+CAA24707.1 insulin C chain [synthetic construct]                      54.7    6e-06
+7JP3_A Chain A, Insulin B chain,Insulin A chain [Homo sapiens] >p...  55.1    7e-06
+XP_020936937.1 insulin isoform X1 [Sus scrofa]                        58.5    7e-06
+XP_049637244.1 insulin [Suncus etruscus]                              56.6    7e-06
+AAC77920.1 preproinsulin [Sus scrofa]                                 57.4    7e-06
+XP_044117161.1 insulin [Neogale vison]                                56.6    8e-06
+1EFE_A Chain A, MINI-PROINSULIN [Homo sapiens]                        55.1    8e-06
+XP_043779567.1 LOW QUALITY PROTEIN: insulin [Cervus elaphus]          56.2    9e-06
+XP_047630918.1 insulin [Phacochoerus africanus]                       56.2    1e-05
+XP_044540673.1 insulin [Gracilinanus agilis]                          56.2    1e-05
+1SJU_A Chain A, PROINSULIN [Homo sapiens]                             54.7    1e-05
+XP_043827798.1 insulin [Dromiciops gliroides] >ref|XP_043827800.1...  56.2    1e-05
+NP_001103242.1 insulin precursor [Sus scrofa] >sp|P01315.2| RecNa...  56.2    1e-05
+KAB0362251.1 hypothetical protein FD754_006407 [Muntiacus muntjak...  56.2    1e-05
+1ZEI_A Chain A, INSULIN [Sus scrofa] >pdb|1ZEI|B Chain B, INSULIN...  54.7    1e-05
+XP_020738946.1 insulin isoform X2 [Odocoileus virginianus texanus]    56.2    1e-05
+XP_036354152.1 insulin isoform X1 [Ochotona princeps]                 56.2    1e-05
+XP_020826540.1 insulin [Phascolarctos cinereus]                       56.2    1e-05
+XP_043307923.1 insulin [Cervus canadensis] >ref|XP_043307924.1| i...  55.8    1e-05
+XP_027724482.1 insulin [Vombatus ursinus]                             55.8    1e-05
+XP_036618541.1 insulin [Trichosurus vulpecula]                        55.8    1e-05
+XP_004602925.1 PREDICTED: insulin [Sorex araneus]                     55.5    2e-05
+ABP93829.1 mini-proinsulin [synthetic construct]                      53.9    2e-05
+ACE79098.1 insulin precursor (predicted) [Sorex araneus]              55.5    2e-05
+6U46_A Solution Structure of a Heat-Resistant Long-Acting Insulin...  53.9    2e-05
+2QIU_A Structure of Human Arg-Insulin [Homo sapiens] >pdb|2QIU|C ...  52.8    2e-05
+XP_045871659.1 insulin [Meles meles]                                  55.1    3e-05
+AAA37041.1 insulin [Cavia porcellus]                                  55.1    3e-05
+AOR50935.1 mini-insulin [synthetic construct]                         54.3    3e-05
+P01310.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  54.3    3e-05
+P67973.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  53.1    3e-05
+NP_001166362.1 insulin precursor [Cavia porcellus] >ref|XP_013006...  55.1    3e-05
+6INS_E X-Ray Analysis Of The Single Chain B29-A1 Peptide-Linked I...  52.8    4e-05
+ASJ76983.1 single chain insulin analog SCI59 [synthetic construct]    53.1    4e-05
+AAA72170.1 insulin A chain [synthetic construct]                      52.0    6e-05
+AFO70114.1 proinsulin, partial [Bos taurus] >dbj|BAE80772.1| proi...  53.1    6e-05
+BAS32717.1 insulin [Coleonyx mitratus]                                53.9    7e-05
+XP_020738945.1 tyrosine 3-monooxygenase isoform X1 [Odocoileus vi...  58.5    7e-05
+pir|INHY| insulin - hamster [Cricetinae gen. sp.]                     52.0    7e-05
+XP_006051533.1 insulin [Bubalus bubalis] >ref|XP_006051534.1| ins...  53.5    9e-05
+prf||600165A insulin [Homo sapiens]                                   52.0    9e-05
+prf||550086A insulin [Sus scrofa domesticus]                          52.0    9e-05
+P01317.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  53.5    9e-05
+P01324.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  52.0    9e-05
+NP_001172055.1 insulin preproprotein [Bos taurus] >ref|NP_776351....  53.5    1e-04
+prf||580107B insulin [Physeter catodon]                               51.6    1e-04
+XP_019810290.1 PREDICTED: insulin isoform X1 [Bos indicus]            54.7    1e-04
+1A7F_A Chain A, INSULIN [Homo sapiens] >pdb|1AI0|A Chain A, R6 IN...  50.8    1e-04
+XP_037373285.1 LOW QUALITY PROTEIN: insulin [Talpa occidentalis]      53.5    1e-04
+NWU63322.1 INS protein [Pterocles burchelli]                          52.8    1e-04
+XP_048710507.1 insulin [Caretta caretta]                              52.8    2e-04
+AAX33328.1 insulin [Lagidium viscacia]                                51.2    2e-04
+5MHD_A Biosynthetic engineered A22S-B3K-B31R human insulin monome...  50.4    2e-04
+AGC54790.1 insulin precursor [synthetic construct]                    51.2    2e-04
+XP_015316816.2 insulin isoform X1 [Bos taurus]                        55.1    2e-04
+XP_036171729.1 insulin-like [Myotis myotis]                           52.4    2e-04
+1MHI_A THREE-DIMENSIONAL SOLUTION STRUCTURE OF AN INSULIN DIMER. ...  50.1    2e-04
+prf||720922B insulin 2 [Mus musculus]                                 50.8    2e-04
+2BN3_A Insulin before a high dose x-ray burn [Bos taurus] >pdb|4B...  50.1    2e-04
+XP_010086003.1 PREDICTED: insulin [Pterocles gutturalis] >gb|KFV0...  52.4    2e-04
+AAX33326.1 insulin, partial [Chinchilla chinchilla] >gb|AAX33327....  50.4    2e-04
+prf||720921A insulin [Acomys cahirinus]                               50.4    2e-04
+XP_006008147.1 PREDICTED: insulin [Latimeria chalumnae]               52.4    3e-04
+P01316.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  50.4    3e-04
+1XW7_A Chain A, Insulin [synthetic construct] >pdb|1XW7|C Chain C...  49.7    3e-04
+1T0C_A Chain A, Insulin [Homo sapiens]                                50.1    3e-04
+ANK79259.1 single chain insulin analog SCI59 [synthetic construct]    50.8    3e-04
+NXK79634.1 INS protein [Amazona guildingii]                           52.0    3e-04
+pir|A59151| insulin precursor - jack bean (fragments) [Canavalia ...  50.4    3e-04
+2KXK_A Human Insulin Mutant A22Gly-B31Lys-B32Arg [Homo sapiens] >...  49.7    3e-04
+KAG6931033.1 insulin [Chelydra serpentina]                            52.4    3e-04
+6TYH_A Four-Disulfide Insulin Analog A22/B22 [Homo sapiens] >pdb|...  49.7    4e-04
+2JZQ_A Chain A, Insulin [unidentified] >pdb|2LWZ|A NMR Structures...  50.4    4e-04
+KAG8438148.1 hypothetical protein GDO86_008729 [Hymenochirus boet...  52.0    4e-04
+XP_039393777.1 insulin [Mauremys reevesii]                            51.6    4e-04
+P01320.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  50.1    4e-04
+1JCA_A Chain A, insulin a [synthetic construct] >pdb|1JCA|C Chain...  49.3    5e-04
+XP_018418167.1 PREDICTED: insulin [Nanorana parkeri]                  51.6    5e-04
+prf||560164A insulin [Equus caballus]                                 49.7    5e-04
+XP_040111257.1 insulin [Oryx dammah]                                  51.6    5e-04
+P01318.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  51.2    5e-04
+XP_044872244.1 insulin-like [Mauremys mutica] >gb|KAH1172109.1| h...  51.6    5e-04
+XP_027815630.1 insulin [Ovis aries]                                   51.2    5e-04
+XP_030418485.1 insulin [Gopherus evgoodei]                            51.2    5e-04
+XP_032626921.1 insulin [Chelonoidis abingdonii]                       51.2    6e-04
+1J73_A Chain A, insulin a [synthetic construct] >pdb|1J73|C Chain...  48.9    6e-04
+NWX14643.1 INS protein [Aegotheles bennettii]                         51.2    6e-04
+KAG9467777.1 hypothetical protein GDO78_014314 [Eleutherodactylus...  51.2    6e-04
+XP_007063026.1 insulin [Chelonia mydas] >gb|EMP32845.1| Insulin [...  51.2    6e-04
+4A7E_A X-ray crystal structure of porcine insulin flash-cooled at...  48.9    6e-04
+prf||640291A insulin [Balaenoptera physalus]                          49.3    7e-04
+XP_034624977.1 insulin [Trachemys scripta elegans] >ref|XP_034624...  51.2    7e-04
+prf||720922A insulin 1 [Mus musculus]                                 49.3    7e-04
+1IOH_A Chain A, PROTEIN (INSULIN PRECURSOR) [Homo sapiens] >pdb|1...  48.9    7e-04
+XP_036171706.1 insulin-like [Myotis myotis]                           50.4    7e-04
+NWR71895.1 INS protein [Centropus unirufus]                           50.8    7e-04
+2JUM_A Chain A, Insulin A chain [unidentified]                        48.5    8e-04
+RMC00193.1 hypothetical protein DUI87_22795 [Hirundo rustica rust...  50.8    8e-04
+NWY58954.1 INS protein [Chionis minor] >gb|NXT52783.1| INS protei...  50.8    8e-04
+XP_019375557.1 PREDICTED: insulin [Gavialis gangeticus]               50.8    8e-04
+7MQO_A Chain A, Insulin A chain [Homo sapiens] >pdb|7MQO|C Chain ...  48.5    8e-04
+BAS32713.1 insulin [Tarentola mauritanica]                            50.4    8e-04
+XP_043372503.1 insulin-like [Dermochelys coriacea]                    50.8    8e-04
+XP_019406793.1 PREDICTED: insulin [Crocodylus porosus]                50.8    8e-04
+prf||550085A insulin [Bos taurus]                                     49.3    8e-04
+XP_034274503.1 insulin-like [Pantherophis guttatus]                   50.8    8e-04
+AAB25816.1 insulin A-chain [Equus przewalskii=horses, pancreas, P...  48.5    9e-04
+5MWQ_A Chain A, Insulin [Homo sapiens]                                48.5    0.001
+XP_015678733.1 insulin [Protobothrops mucrosquamatus]                 50.4    0.001
+2JUU_A Chain A, Insulin A chain [unidentified] >pdb|2JUV|A Chain ...  48.5    0.001
+7SL1_E Chain E, Insulin A chain [Homo sapiens] >pdb|7SL1|F Chain ...  48.1    0.001
+XP_026523926.1 insulin [Notechis scutatus]                            50.4    0.001
+XP_007424294.1 insulin [Python bivittatus]                            50.4    0.001
+ETE64549.1 Insulin [Ophiophagus hannah]                               50.4    0.001
+3FQ9_A Design of an insulin analog with enhanced receptor-binding...  48.1    0.001
+KAG8125699.1 hypothetical protein E2320_020814 [Naja naja]            50.4    0.001
+P01314.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  48.9    0.001
+P18109.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  48.9    0.001
+NWH88635.1 INS protein [Aegithalos caudatus]                          50.4    0.001
+2WBY_C Crystal structure of human insulin-degrading enzyme in com...  48.1    0.001
+prf||721138A insulin [Bauhinia purpurea]                              48.5    0.001
+XP_044125159.1 insulin [Bufo gargarizans]                             50.4    0.001
+1APH_A CONFORMATIONAL CHANGES IN CUBIC INSULIN CRYSTALS IN THE PH...  48.1    0.001
+P67971.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  48.5    0.001
+XP_039584358.1 insulin [Passer montanus]                              50.4    0.001
+NWT29919.1 INS protein [Cardinalis cardinalis]                        50.4    0.001
+XP_040264806.1 insulin [Bufo bufo]                                    50.4    0.001
+NXB46163.1 INS protein [Leucopsar rothschildi]                        50.1    0.001
+1KMF_A Chain A, Insulin [synthetic construct] >pdb|1Q4V|A Crystal...  47.8    0.001
+NXF28546.1 INS protein [Nyctibius bracteatus]                         50.1    0.001
+NXC81780.1 INS protein [Cercotrichas coryphoeus] >gb|NXD33977.1| ...  50.1    0.001
+NXH18228.1 INS protein [Bucco capensis]                               50.1    0.002
+NWS75300.1 INS protein [Crotophaga sulcirostris]                      50.1    0.002
+P01319.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  48.5    0.002
+CAA23708.1 unnamed protein product [Gallus gallus]                    48.1    0.002
+XP_009875377.1 PREDICTED: insulin [Apaloderma vittatum] >gb|KFP92...  50.1    0.002
+NWU00934.1 INS protein [Urocynchramus pylzowi]                        50.1    0.002
+KAG8542296.1 hypothetical protein GDO81_027001 [Engystomops pustu...  50.1    0.002
+NP_001079350.1 insulin-2 precursor [Xenopus laevis] >sp|P12707.2|...  50.1    0.002
+NWS05551.1 INS protein [Motacilla alba] >gb|NWT64862.1| INS prote...  50.1    0.002
+NWR21368.1 INS protein [Emberiza fucata] >gb|NWZ14182.1| INS prot...  50.1    0.002
+XP_006033708.1 insulin [Alligator sinensis] >ref|XP_019332234.1| ...  50.1    0.002
+NXO80388.1 INS protein [Sitta europaea]                               50.1    0.002
+NXU03084.1 INS protein [Buphagus erythrorhynchus]                     50.1    0.002
+NWT53289.1 INS protein [Erythrocercus mccallii]                       50.1    0.002
+XP_014742779.1 PREDICTED: insulin [Sturnus vulgaris]                  50.1    0.002
+NXU31404.1 INS protein [Thalassarche chlororhynchos]                  50.1    0.002
+NWZ02014.1 INS protein [Loxia curvirostra] >gb|NXB90891.1| INS pr...  50.1    0.002
+NWW29817.1 INS protein [Panurus biarmicus] >gb|NXQ10305.1| INS pr...  50.1    0.002
+NXO61691.1 INS protein [Phainopepla nitens]                           50.1    0.002
+7SL2_G Chain G, Insulin A chain [Homo sapiens] >pdb|7SL2|H Chain ...  47.4    0.002
+NWY29101.1 INS protein [Pheucticus melanocephalus]                    49.7    0.002
+NXQ54585.1 INS protein [Anthoscopus minutus]                          49.7    0.002
+NXK64570.1 INS protein [Sylvietta virens]                             49.7    0.002
+NXR92139.1 INS protein [Hypocryptadius cinnamomeus]                   49.7    0.002
+XP_005046861.1 PREDICTED: insulin [Ficedula albicollis]               49.7    0.002
+NXH39963.1 INS protein [Dicaeum eximium]                              49.7    0.002
+1K3M_A Chain A, INSULIN [synthetic construct]                         47.4    0.002
+NXQ80151.1 INS protein [Nyctibius grandis]                            49.7    0.002
+NWS80634.1 INS protein [Toxostoma redivivum]                          49.7    0.002
+NWX92604.1 INS protein [Nothoprocta pentlandii] >gb|NWX97545.1| I...  49.7    0.002
+NWR53055.1 INS protein [Regulus satrapa]                              49.7    0.002
+XP_021382452.1 insulin [Lonchura striata domestica] >gb|OWK56814....  49.7    0.002
+AYP71848.1 insulin 2, partial [Gallus gallus] >gb|AYP71849.1| ins...  47.8    0.002
+NWY72975.1 INS protein [Erithacus rubecula]                           49.7    0.002
+P01328.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  48.1    0.002
+KQK82428.1 insulin [Amazona aestiva]                                  49.7    0.002
+XP_005522396.1 PREDICTED: insulin [Pseudopodoces humilis] >ref|XP...  49.7    0.002
+NXN79170.1 INS protein [Bombycilla garrulus]                          49.7    0.002
+XP_041132805.1 insulin-like [Polyodon spathula] >gb|MBN3270715.1|...  49.7    0.002
+XP_008642491.1 PREDICTED: insulin [Corvus brachyrhynchos] >gb|KFO...  49.7    0.002
+NWV36076.1 INS protein [Grantiella picta]                             49.7    0.002
+NWR13193.1 INS protein [Sinosuthora webbiana] >gb|NXI25624.1| INS...  49.7    0.002
+3GKY_A The Structural Basis of an ER Stress-Associated Bottleneck...  47.4    0.002
+NXM56037.1 INS protein [Illadopsis cleaveri]                          49.7    0.002
+NXO26469.1 INS protein [Cisticola juncidis]                           49.7    0.002
+NXC31767.1 INS protein [Campylorhamphus procurvoides]                 49.7    0.002
+NXM96715.1 INS protein [Sylvia borin]                                 49.7    0.002
+XP_025948497.1 insulin [Dromaius novaehollandiae] >gb|NXG35072.1|...  49.7    0.002
+XP_026562248.1 insulin [Pseudonaja textilis]                          49.7    0.002
+RLW10175.1 hypothetical protein DV515_00002435 [Chloebia gouldiae]    50.4    0.002
+XP_041075438.1 insulin-like [Polyodon spathula]                       49.7    0.002
+NXE61429.1 INS protein [Calcarius ornatus]                            49.7    0.002
+XP_009672728.1 PREDICTED: insulin [Struthio camelus australis] >g...  49.7    0.002
+XP_032919433.1 insulin [Catharus ustulatus] >gb|KAF4801620.1| Ins...  49.7    0.002
+NXD22741.1 INS protein [Elachura formosa]                             49.7    0.002
+NXQ06960.1 INS protein [Vidua macroura]                               49.7    0.002
+NXU98036.1 INS protein [Cettia cetti]                                 49.7    0.002
+NXA08879.1 INS protein [Sapayoa aenigma]                              49.7    0.002
+NXE52412.1 INS protein [Casuarius casuarius]                          49.7    0.002
+NXA37697.1 INS protein [Eudromia elegans]                             49.7    0.002
+NXA51647.1 INS protein [Nothocercus julius] >gb|NXD11835.1| INS p...  49.7    0.002
+NXX89567.1 INS protein [Centropus bengalensis]                        49.3    0.002
+6VES_A Human insulin analog: [GluB10,HisA8,ArgA9]-DOI [Homo sapie...  47.0    0.002
+NWY35977.1 INS protein [Sylvia atricapilla]                           49.7    0.002
+prf||753014A insulin [Cricetinae gen. sp.]                            47.8    0.002
+P51463.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  49.3    0.003
+NWV68859.1 INS protein [Malurus elegans]                              49.3    0.003
+NWI39393.1 INS protein [Picathartes gymnocephalus]                    49.3    0.003
+NWU22138.1 INS protein [Platysteira castanea]                         49.3    0.003
+XP_008502921.1 insulin isoform X1 [Calypte anna] >gb|KFO96737.1| ...  49.3    0.003
+NXG26277.1 INS protein [Grallaria varia]                              49.3    0.003
+NXI11212.1 INS protein [Irena cyanogastra]                            49.3    0.003
+NWH65333.1 INS protein [Geococcyx californianus]                      49.3    0.003
+NXY15657.1 INS protein [Atrichornis clamosus]                         49.3    0.003
+NWU91403.1 INS protein [Upupa epops]                                  49.3    0.003
+NWI01020.1 INS protein [Tichodroma muraria]                           49.3    0.003
+BAS32716.1 insulin [Eublepharis macularius]                           49.3    0.003
+XP_009570140.1 PREDICTED: insulin [Cuculus canorus] >gb|KFO71884....  49.3    0.003
+XP_009073003.1 PREDICTED: insulin [Acanthisitta chloris] >gb|KFP8...  49.3    0.003
+NWR92813.1 INS protein [Furnarius figulus]                            49.3    0.003
+XP_005427262.2 insulin [Geospiza fortis] >ref|XP_030806013.1| ins...  50.1    0.003
+NXS64250.1 INS protein [Brachypteracias leptosomus]                   49.3    0.003
+NXO03005.1 INS protein [Rhinopomastus cyanomelas]                     49.3    0.003
+XP_009933593.1 PREDICTED: insulin [Opisthocomus hoazin] >gb|KFR11...  49.3    0.003
+XP_024064638.1 insulin [Terrapene carolina triunguis]                 49.3    0.003
+4IYD_A Insulin glargine crystal structure 1 [Homo sapiens] >pdb|4...  47.0    0.003
+NXA28960.1 INS protein [Ibidorhyncha struthersii]                     49.3    0.003
+NXR02416.1 INS protein [Sagittarius serpentarius]                     49.3    0.003
+6S4I_A Crystal structure of zinc free A14E, B25H, B29K(N(eps)-[2-...  47.0    0.003
+XP_030340681.1 insulin [Strigops habroptila]                          49.3    0.003
+NXT83889.1 INS protein [Zapornia atra]                                49.3    0.003
+NWS37779.1 INS protein [Probosciger aterrimus]                        49.3    0.003
+prf||1506296A insulin A [Macropus giganteus]                          47.0    0.003
+XP_005237374.1 insulin [Falco peregrinus] >ref|XP_027642375.1| in...  49.3    0.003
+NXL42853.1 INS protein [Podilymbus podiceps]                          49.3    0.003
+AAX33332.1 insulin [Galea musteloides]                                47.4    0.003
+TFK08672.1 Insulin [Platysternon megacephalum]                        49.3    0.003
+NXG06195.1 INS protein [Sakesphorus luctuosus]                        49.3    0.003
+5WBT_A Solution Structure and Dynamics of an Ultra-Stable Single-...  47.8    0.003
+XP_005439170.2 LOW QUALITY PROTEIN: insulin [Falco cherrug] >ref|...  50.1    0.003
+XP_040463727.1 LOW QUALITY PROTEIN: insulin [Falco naumanni]          50.1    0.003
+KAF2977162.1 hypothetical protein EK904_007947 [Melospiza melodia...  49.7    0.003
+KAI1238017.1 hypothetical protein IHE44_0014119 [Lamprotornis sup...  50.1    0.003
+NXP67330.1 INS protein [Chloropsis cyanopogon]                        48.9    0.003
+NXY64876.1 INS protein [Callaeas wilsoni]                             48.9    0.003
+XP_005312438.1 insulin [Chrysemys picta bellii] >ref|XP_023957939...  48.9    0.003
+5AZZ_A Crystal structure of seleno-insulin [Bos taurus]               46.6    0.003
+NXX77765.1 INS protein [Urocolius indicus]                            48.9    0.003
+NWV09972.1 INS protein [Ptilonorhynchus violaceus]                    48.9    0.003
+XP_021155312.1 insulin isoform X2 [Columba livia] >ref|XP_0211553...  48.9    0.004
+XP_010177077.1 PREDICTED: insulin [Mesitornis unicolor] >gb|KFQ30...  48.9    0.004
+OPJ73783.1 insulin [Patagioenas fasciata monilis]                     49.3    0.004
+NXU53046.1 INS protein [Turnix velox]                                 48.9    0.004
+KFV44514.1 Insulin [Tyto alba]                                        48.9    0.004
+prf||580107A insulin [Balaenoptera borealis]                          47.4    0.004
+NWX45419.1 INS protein [Steatornis caripensis]                        48.9    0.004
+XP_010198080.1 PREDICTED: insulin [Colius striatus] >gb|KFP30862....  48.9    0.004
+NXL62202.1 INS protein [Chordeiles acutipennis]                       48.9    0.004
+NWH44724.1 INS protein [Fregata magnificens]                          48.9    0.004
+NXV72820.1 INS protein [Atlantisia rogersi]                           48.9    0.004
+XP_009700848.1 PREDICTED: insulin [Cariama cristata] >gb|KFP66226...  48.9    0.004
+XP_026706369.1 insulin isoform X2 [Athene cunicularia]                48.9    0.004
+NWW93487.1 INS protein [Rhynochetos jubatus]                          48.9    0.004
+NWU49924.1 INS protein [Dromas ardeola] >gb|NXY68424.1| INS prote...  48.9    0.004
+NXW44184.1 INS protein [Nyctiprogne leucopyga]                        48.9    0.004
+NXL03936.1 INS protein [Mesembrinibis cayennensis]                    48.9    0.004
+NXK08211.1 INS protein [Herpetotheres cachinnans]                     48.9    0.004
+XP_010011817.1 PREDICTED: insulin [Nestor notabilis] >gb|KFQ48578...  48.9    0.004
+XP_005486624.2 insulin [Zonotrichia albicollis]                       49.7    0.004
+4EFX_A Highly biologically active insulin with additional disulfi...  46.6    0.004
+KAF1408701.1 Insulin, partial [Spheniscus humboldti] >gb|KAF14135...  48.9    0.004
+NWW99968.1 INS protein [Caloenas nicobarica]                          48.9    0.004
+NXN37523.1 INS protein [Rhinoptilus africanus]                        48.9    0.004
+XP_009478657.1 PREDICTED: insulin [Pelecanus crispus]                 48.9    0.004
+NXU78558.1 INS protein [Oreotrochilus melanogaster]                   48.9    0.004
+XP_009326802.1 PREDICTED: insulin [Pygoscelis adeliae] >gb|KAF144...  48.9    0.004
+XP_010002178.1 PREDICTED: insulin [Chaetura pelagica] >gb|KFU9435...  48.9    0.004
+XP_009460806.1 PREDICTED: insulin [Nipponia nippon] >gb|KFQ87047....  48.9    0.004
+NXM29599.1 INS protein [Oxyruncus cristatus]                          48.9    0.004
+XP_002198969.2 insulin [Taeniopygia guttata]                          49.7    0.004
+NXP53739.1 INS protein [Heliornis fulica]                             48.9    0.004
+NXE18656.1 INS protein [Ardeotis kori]                                48.9    0.004
+5WDM_A An ultra-stable single-chain insulin analog resists therma...  47.4    0.004
+NXF43656.1 INS protein [Oceanites oceanicus]                          48.9    0.004
+XP_035748752.1 insulin isoform X2 [Egretta garzetta] >gb|KFP14696...  48.9    0.004
+NXW00008.1 INS protein [Fregetta grallaria]                           48.9    0.004
+NXI92120.1 INS protein [Psophia crepitans]                            48.9    0.004
+XP_010159413.1 PREDICTED: insulin [Eurypyga helias] >gb|KFV99407....  48.9    0.004
+KFZ53429.1 Insulin [Antrostomus carolinensis]                         48.9    0.004
+KAF1482988.1 Insulin [Eudyptula novaehollandiae]                      48.9    0.004
+XP_009100443.2 insulin [Serinus canaria]                              49.7    0.004
+XP_009918866.1 PREDICTED: insulin [Haliaeetus albicilla] >ref|XP_...  48.9    0.004
+XP_010280884.1 PREDICTED: insulin [Phaethon lepturus] >gb|KFQ7151...  48.9    0.004
+NXW36700.1 INS protein [Phaetusa simplex]                             48.9    0.004
+NWX25366.1 INS protein [Notiomystis cincta]                           48.9    0.004
+NWI52702.1 INS protein [Calyptomena viridis] >gb|NWI89119.1| INS ...  48.9    0.004
+NXI63827.1 INS protein [Anseranas semipalmata]                        48.9    0.004
+NXG42019.1 INS protein [Psilopogon haemacephalus]                     48.9    0.004
+XP_036240775.1 insulin [Molothrus ater]                               49.7    0.004
+
+
+>AKI70565.1 INS, partial [synthetic construct]
+Length=110
+
+ Score = 102 bits (255),  Expect = 4e-22, Method: Compositional matrix adjust.
+ Identities = 51/57 (89%), Positives = 51/57 (89%), Gaps = 0/57 (0%)
+
+Query  395  TCSARHVLAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            TC     L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  54   TCREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>UFQ90408.1 ZZ-proinsulin [Cloning vector pET28a_ZZ_proinsulin]
+Length=210
+
+ Score = 105 bits (263),  Expect = 5e-22, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  161  LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  210
+
+
+>UOG94042.1 H-insulin [synthetic construct]
+Length=99
+
+ Score = 102 bits (253),  Expect = 5e-22, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  50   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  99
+
+
+>AAA72531.1 proinsulin [synthetic construct]
+ BAH59081.1 human M-proinsulin [synthetic construct]
+ CAA23424.1 unnamed protein product [synthetic construct]
+Length=87
+
+ Score = 101 bits (251),  Expect = 6e-22, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  38   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  87
+
+
+>2KQP_A Chain A, Insulin [Homo sapiens]
+Length=86
+
+ Score = 101 bits (251),  Expect = 6e-22, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  37   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  86
+
+
+>UIK24472.1 SUMO-Lispro proinsulin fusion protein [synthetic construct]
+Length=207
+
+ Score = 105 bits (261),  Expect = 8e-22, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  158  LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  207
+
+
+>AEG19452.1 insulin, partial [Homo sapiens]
+Length=94
+
+ Score = 100 bits (248),  Expect = 2e-21, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  45   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  94
+
+
+>NP_000198.1 insulin preproprotein [Homo sapiens]
+ NP_001172026.1 insulin preproprotein [Homo sapiens]
+ NP_001172027.1 insulin preproprotein [Homo sapiens]
+ NP_001278826.1 insulin preproprotein [Homo sapiens]
+ XP_004050475.1 insulin isoform X1 [Gorilla gorilla gorilla]
+ XP_004050476.1 insulin isoform X1 [Gorilla gorilla gorilla]
+ XP_018891845.1 insulin isoform X1 [Gorilla gorilla gorilla]
+ P01308.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Homo sapiens]
+ Q6YK33.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Gorilla gorilla gorilla]
+ 6B3Q_a Cryo-EM structure of human insulin degrading enzyme in complex 
+with insulin [Homo sapiens]
+ 6B3Q_b Cryo-EM structure of human insulin degrading enzyme in complex 
+with insulin [Homo sapiens]
+ 6B70_a Cryo-EM structure of human insulin degrading enzyme in complex 
+with FAB H11-E heavy chain, FAB H11-E light chain and insulin 
+[Homo sapiens]
+ 6B70_c Cryo-EM structure of human insulin degrading enzyme in complex 
+with FAB H11-E heavy chain, FAB H11-E light chain and insulin 
+[Homo sapiens]
+ 6BFC_a Cryo-EM structure of human insulin degrading enzyme in complex 
+with insulin [Homo sapiens]
+ 6BFC_b Cryo-EM structure of human insulin degrading enzyme in complex 
+with insulin [Homo sapiens]
+ 6JK8_C Cryo-EM structure of the full-length human IGF-1R in complex 
+with insulin [Homo sapiens]
+ 6JK8_D Cryo-EM structure of the full-length human IGF-1R in complex 
+with insulin [Homo sapiens]
+ 6TC2_A Monoclinic human insulin in complex with p-coumaric acid [Homo 
+sapiens]
+ 6TC2_B Monoclinic human insulin in complex with p-coumaric acid [Homo 
+sapiens]
+ 6TC2_C Monoclinic human insulin in complex with p-coumaric acid [Homo 
+sapiens]
+ 6TC2_D Monoclinic human insulin in complex with p-coumaric acid [Homo 
+sapiens]
+ 6TC2_E Monoclinic human insulin in complex with p-coumaric acid [Homo 
+sapiens]
+ 6TC2_F Monoclinic human insulin in complex with p-coumaric acid [Homo 
+sapiens]
+ 6TC2_G Monoclinic human insulin in complex with p-coumaric acid [Homo 
+sapiens]
+ 6TC2_H Monoclinic human insulin in complex with p-coumaric acid [Homo 
+sapiens]
+ 6TC2_I Monoclinic human insulin in complex with p-coumaric acid [Homo 
+sapiens]
+ 6TC2_J Monoclinic human insulin in complex with p-coumaric acid [Homo 
+sapiens]
+ 6TC2_K Monoclinic human insulin in complex with p-coumaric acid [Homo 
+sapiens]
+ 6TC2_L Monoclinic human insulin in complex with p-coumaric acid [Homo 
+sapiens]
+ 7STH_C Chain C, Insulin [Homo sapiens]
+ 7STH_D Chain D, Insulin [Homo sapiens]
+ 7STI_C Chain C, Insulin [Homo sapiens]
+ 7STJ_C Chain C, Insulin [Homo sapiens]
+ 7STJ_D Chain D, Insulin [Homo sapiens]
+ 7STK_C Chain C, Insulin [Homo sapiens]
+ 7STK_D Chain D, Insulin [Homo sapiens]
+ AAN06935.1 insulin precursor [Gorilla gorilla]
+ AAX42025.1 insulin [synthetic construct]
+ SJX25028.1 unnamed protein product, partial [Human ORFeome Gateway entry 
+vector]
+ AAA59172.1 insulin [Homo sapiens]
+ AAA59173.1 insulin [Homo sapiens]
+Length=110
+
+ Score = 100 bits (249),  Expect = 3e-21, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>AAP36446.1 Homo sapiens insulin, partial [synthetic construct]
+ AAX29480.1 insulin, partial [synthetic construct]
+ AAX29481.1 insulin, partial [synthetic construct]
+Length=111
+
+ Score = 100 bits (249),  Expect = 3e-21, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_024110665.1 insulin isoform X2 [Pongo abelii]
+ XP_024110666.1 insulin isoform X2 [Pongo abelii]
+ XP_024110667.1 insulin isoform X2 [Pongo abelii]
+ Q8HXV2.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Pongo pygmaeus]
+ AAN06937.1 insulin precursor [Pongo pygmaeus]
+ PNJ16419.1 INS isoform 1 [Pongo abelii]
+ PNJ16420.1 INS isoform 2 [Pongo abelii]
+ PNJ16421.1 INS isoform 3 [Pongo abelii]
+Length=110
+
+ Score = 100 bits (249),  Expect = 3e-21, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>prf||1006230A insulin,pro- [Macaca mulatta]
+Length=86
+
+ Score = 99.4 bits (246),  Expect = 3e-21, Method: Compositional matrix adjust.
+ Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  39   VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  86
+
+
+>AKI70564.1 INS, partial [synthetic construct]
+Length=110
+
+ Score = 100 bits (248),  Expect = 3e-21, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>NP_001008996.1 insulin preproprotein [Pan troglodytes]
+ P30410.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Pan troglodytes]
+ AAN06933.1 insulin precursor [Pan troglodytes]
+ CAA43403.1 Preproinsulin [Pan troglodytes]
+Length=110
+
+ Score = 100 bits (248),  Expect = 3e-21, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>AAA72172.1 synthetic preproinsulin [synthetic construct]
+Length=114
+
+ Score = 100 bits (248),  Expect = 3e-21, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  65   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  114
+
+
+>QMS45324.1 insulin isoform UB [Homo sapiens]
+Length=153
+
+ Score = 101 bits (252),  Expect = 4e-21, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  104  LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  153
+
+
+>AGG11869.1 HPPI [synthetic construct]
+Length=97
+
+ Score = 99.4 bits (246),  Expect = 5e-21, Method: Compositional matrix adjust.
+ Identities = 48/50 (96%), Positives = 48/50 (96%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L V QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  48   LQVEQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  97
+
+
+>AAA59179.1 insulin [Homo sapiens]
+Length=107
+
+ Score = 99.0 bits (245),  Expect = 7e-21, Method: Compositional matrix adjust.
+ Identities = 49/53 (92%), Positives = 49/53 (92%), Gaps = 0/53 (0%)
+
+Query  399  RHVLAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            R    VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  55   RREAEVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  107
+
+
+>XP_025211013.1 insulin isoform X4 [Theropithecus gelada]
+ XP_025211014.1 insulin isoform X4 [Theropithecus gelada]
+ XP_025211015.1 insulin isoform X4 [Theropithecus gelada]
+Length=110
+
+ Score = 98.6 bits (244),  Expect = 1e-20, Method: Compositional matrix adjust.
+ Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_032009711.1 insulin isoform X2 [Hylobates moloch]
+ XP_032009712.1 insulin isoform X2 [Hylobates moloch]
+ XP_032009713.1 insulin isoform X2 [Hylobates moloch]
+Length=110
+
+ Score = 98.6 bits (244),  Expect = 1e-20, Method: Compositional matrix adjust.
+ Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_003909425.2 insulin isoform X2 [Papio anubis]
+ XP_009183614.2 insulin isoform X2 [Papio anubis]
+ XP_010380355.2 insulin [Rhinopithecus roxellana]
+ XP_011785464.1 PREDICTED: insulin isoform X2 [Colobus angolensis palliatus]
+ XP_011785465.1 PREDICTED: insulin isoform X2 [Colobus angolensis palliatus]
+ XP_011843615.1 PREDICTED: insulin isoform X1 [Mandrillus leucophaeus]
+ XP_011843616.1 PREDICTED: insulin isoform X1 [Mandrillus leucophaeus]
+ XP_011843617.1 PREDICTED: insulin isoform X1 [Mandrillus leucophaeus]
+ XP_017743276.1 PREDICTED: insulin isoform X1 [Rhinopithecus bieti]
+ XP_017743284.1 PREDICTED: insulin isoform X1 [Rhinopithecus bieti]
+ XP_017743293.1 PREDICTED: insulin isoform X1 [Rhinopithecus bieti]
+ XP_033062711.1 insulin [Trachypithecus francoisi]
+ P30407.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Chlorocebus aethiops]
+ CAA43405.1 Preproinsulin [Chlorocebus aethiops]
+Length=110
+
+ Score = 98.6 bits (244),  Expect = 1e-20, Method: Compositional matrix adjust.
+ Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_003281399.1 insulin isoform X2 [Nomascus leucogenys]
+ XP_011719618.1 insulin isoform X1 [Macaca nemestrina]
+ XP_011719619.1 insulin isoform X1 [Macaca nemestrina]
+ XP_011719620.1 insulin isoform X1 [Macaca nemestrina]
+ XP_012352077.1 insulin isoform X2 [Nomascus leucogenys]
+ XP_015289666.1 insulin [Macaca fascicularis]
+ XP_028688882.1 insulin [Macaca mulatta]
+ XP_030667341.1 insulin isoform X2 [Nomascus leucogenys]
+ P30406.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Macaca fascicularis]
+ AAA36849.1 preproinsulin [Macaca fascicularis]
+Length=110
+
+ Score = 98.2 bits (243),  Expect = 1e-20, Method: Compositional matrix adjust.
+ Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>AKI70566.1 INS, partial [synthetic construct]
+Length=110
+
+ Score = 97.8 bits (242),  Expect = 2e-20, Method: Compositional matrix adjust.
+ Identities = 48/50 (96%), Positives = 48/50 (96%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALE SLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQVELGGGPGAGSLQPLALERSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_008002825.1 insulin isoform X2 [Chlorocebus sabaeus]
+Length=144
+
+ Score = 98.6 bits (244),  Expect = 3e-20, Method: Compositional matrix adjust.
+ Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  97   VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  144
+
+
+>XP_034787832.1 insulin [Pan paniscus]
+Length=204
+
+ Score = 100 bits (249),  Expect = 3e-20, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  155  LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  204
+
+
+>AKI70567.1 INS, partial [synthetic construct]
+Length=110
+
+ Score = 97.4 bits (241),  Expect = 3e-20, Method: Compositional matrix adjust.
+ Identities = 48/50 (96%), Positives = 48/50 (96%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKR IVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRCIVEQCCTSICSLYQLENYCN  110
+
+
+>QMS45321.1 insulin isoform U1 [Homo sapiens]
+Length=204
+
+ Score = 100 bits (248),  Expect = 3e-20, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  155  LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  204
+
+
+>XP_016775240.1 insulin isoform X1 [Pan troglodytes]
+Length=204
+
+ Score = 100 bits (248),  Expect = 4e-20, Method: Compositional matrix adjust.
+ Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  155  LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  204
+
+
+>XP_011896559.1 PREDICTED: insulin [Cercocebus atys]
+ XP_011896561.1 PREDICTED: insulin [Cercocebus atys]
+ XP_011896562.1 PREDICTED: insulin [Cercocebus atys]
+Length=110
+
+ Score = 97.4 bits (241),  Expect = 4e-20, Method: Compositional matrix adjust.
+ Identities = 47/48 (98%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPGAGSLQPL+LEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGQVELGGGPGAGSLQPLSLEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_023039285.1 insulin isoform X1 [Piliocolobus tephrosceles]
+ XP_023039286.1 insulin isoform X1 [Piliocolobus tephrosceles]
+Length=110
+
+ Score = 97.1 bits (240),  Expect = 5e-20, Method: Compositional matrix adjust.
+ Identities = 47/48 (98%), Positives = 47/48 (98%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPG GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGQVELGGGPGTGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_025211011.1 insulin isoform X2 [Theropithecus gelada]
+Length=147
+
+ Score = 97.8 bits (242),  Expect = 6e-20, Method: Compositional matrix adjust.
+ Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  100  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  147
+
+
+>XP_017743290.1 PREDICTED: insulin isoform X2 [Rhinopithecus bieti]
+Length=147
+
+ Score = 97.8 bits (242),  Expect = 6e-20, Method: Compositional matrix adjust.
+ Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  100  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  147
+
+
+>XP_017803627.2 insulin isoform X1 [Papio anubis]
+Length=147
+
+ Score = 97.8 bits (242),  Expect = 6e-20, Method: Compositional matrix adjust.
+ Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  100  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  147
+
+
+>WP_170078534.1 insulin-like growth factor [Sneathiella chungangensis]
+Length=96
+
+ Score = 94.7 bits (234),  Expect = 2e-19, Method: Compositional matrix adjust.
+ Identities = 45/45 (100%), Positives = 45/45 (100%), Gaps = 0/45 (0%)
+
+Query  406  QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYC  450
+            QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYC
+Sbjct  51   QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYC  95
+
+
+>XP_023039287.1 insulin isoform X2 [Piliocolobus tephrosceles]
+Length=147
+
+ Score = 96.3 bits (238),  Expect = 2e-19, Method: Compositional matrix adjust.
+ Identities = 47/48 (98%), Positives = 47/48 (98%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPG GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  100  VGQVELGGGPGTGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  147
+
+
+>XP_008002752.1 insulin isoform X1 [Chlorocebus sabaeus]
+Length=209
+
+ Score = 97.8 bits (242),  Expect = 3e-19, Method: Compositional matrix adjust.
+ Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  162  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  209
+
+
+ Score = 44.7 bits (104),  Expect = 0.65, Method: Compositional matrix adjust.
+ Identities = 21/25 (84%), Positives = 21/25 (84%), Gaps = 0/25 (0%)
+
+Query  3   RTGCIRRGHQAGLFQGPLRQVGSGF  27
+           R GCIRRG QAGLFQGP RQVGSG 
+Sbjct  18  RDGCIRRGQQAGLFQGPSRQVGSGL  42
+
+
+>AWO14628.1 proinsulin glargine analogue, partial [synthetic construct]
+Length=105
+
+ Score = 94.4 bits (233),  Expect = 4e-19, Method: Compositional matrix adjust.
+ Identities = 47/49 (96%), Positives = 47/49 (96%), Gaps = 0/49 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYC  450
+            L VGQVELGGGPGAGSLQPLALEGSLQ RGIVEQCCTSICSLYQLENYC
+Sbjct  56   LQVGQVELGGGPGAGSLQPLALEGSLQPRGIVEQCCTSICSLYQLENYC  104
+
+
+>XP_006141129.1 insulin [Tupaia chinensis]
+ ELW71922.1 Insulin [Tupaia chinensis]
+Length=110
+
+ Score = 89.7 bits (221),  Expect = 2e-17, Method: Compositional matrix adjust.
+ Identities = 45/48 (94%), Positives = 45/48 (94%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELGGGPGAGSLQPLALE   QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGQVELGGGPGAGSLQPLALEVPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>NP_001123565.1 insulin precursor [Canis lupus familiaris]
+ XP_025307639.1 insulin [Canis lupus dingo]
+ XP_025859971.1 insulin [Vulpes vulpes]
+ P01321.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Canis lupus familiaris]
+ CAA23475.1 preproinsulin [Canis sp.]
+ CAD7669912.1 unnamed protein product [Nyctereutes procyonoides]
+Length=110
+
+ Score = 88.6 bits (218),  Expect = 5e-17, Method: Compositional matrix adjust.
+ Identities = 42/50 (84%), Positives = 43/50 (86%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L V  VEL G PG G LQPLALEG+LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVRDVELAGAPGEGGLQPLALEGALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_004403859.1 PREDICTED: insulin [Odobenus rosmarus divergens]
+ XP_025735270.1 insulin [Callorhinus ursinus]
+ XP_027435732.1 insulin [Zalophus californianus]
+ XP_027974059.1 insulin [Eumetopias jubatus]
+Length=110
+
+ Score = 88.2 bits (217),  Expect = 6e-17, Method: Compositional matrix adjust.
+ Identities = 41/46 (89%), Positives = 42/46 (91%), Gaps = 0/46 (0%)
+
+Query  406  QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+             VELGG PG G LQPLALEG+LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  65   DVELGGAPGMGGLQPLALEGALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_032269837.1 insulin [Phoca vitulina]
+Length=110
+
+ Score = 88.2 bits (217),  Expect = 6e-17, Method: Compositional matrix adjust.
+ Identities = 41/46 (89%), Positives = 42/46 (91%), Gaps = 0/46 (0%)
+
+Query  406  QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+             VELGG PG G LQPLALEG+LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  65   DVELGGAPGTGGLQPLALEGALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_034868296.1 insulin [Mirounga leonina]
+ XP_045748484.1 insulin [Mirounga angustirostris]
+ KAF3822375.1 hypothetical protein GH733_007749 [Mirounga leonina]
+Length=110
+
+ Score = 87.4 bits (215),  Expect = 1e-16, Method: Compositional matrix adjust.
+ Identities = 41/45 (91%), Positives = 42/45 (93%), Gaps = 0/45 (0%)
+
+Query  407  VELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VELGG PG G LQPLALEG+LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  66   VELGGAPGPGDLQPLALEGALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_041578098.1 insulin [Vulpes lagopus]
+Length=110
+
+ Score = 87.4 bits (215),  Expect = 1e-16, Method: Compositional matrix adjust.
+ Identities = 41/50 (82%), Positives = 43/50 (86%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L V  V+L G PG G LQPLALEG+LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVRDVDLAGAPGEGGLQPLALEGALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>NP_001353985.1 insulin precursor [Oryctolagus cuniculus]
+ ACK44319.1 insulin (predicted) [Oryctolagus cuniculus]
+Length=110
+
+ Score = 87.4 bits (215),  Expect = 1e-16, Method: Compositional matrix adjust.
+ Identities = 43/50 (86%), Positives = 44/50 (88%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQ ELGGGP AG LQP ALE +LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQAELGGGPDAGGLQPSALELALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_021540854.1 insulin [Neomonachus schauinslandi]
+Length=110
+
+ Score = 87.0 bits (214),  Expect = 2e-16, Method: Compositional matrix adjust.
+ Identities = 40/45 (89%), Positives = 42/45 (93%), Gaps = 0/45 (0%)
+
+Query  407  VELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            +ELGG PG G LQPLALEG+LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  66   LELGGAPGTGGLQPLALEGALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_031244809.1 insulin-2 isoform X2 [Mastomys coucha]
+Length=111
+
+ Score = 87.0 bits (214),  Expect = 2e-16, Method: Compositional matrix adjust.
+ Identities = 41/49 (84%), Positives = 44/49 (90%), Gaps = 0/49 (0%)
+
+Query  403  AVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            AV Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   AVAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  111
+
+
+>XP_007466015.1 PREDICTED: insulin [Lipotes vexillifer]
+Length=110
+
+ Score = 86.7 bits (213),  Expect = 2e-16, Method: Compositional matrix adjust.
+ Identities = 44/48 (92%), Positives = 44/48 (92%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG VELGGGPGAGSLQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGAVELGGGPGAGSLQPPALEGPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_035930639.1 insulin [Halichoerus grypus]
+Length=168
+
+ Score = 88.6 bits (218),  Expect = 2e-16, Method: Compositional matrix adjust.
+ Identities = 41/46 (89%), Positives = 42/46 (91%), Gaps = 0/46 (0%)
+
+Query  406  QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+             VELGG PG G LQPLALEG+LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  123  DVELGGAPGTGGLQPLALEGALQKRGIVEQCCTSICSLYQLENYCN  168
+
+
+>XP_021060484.1 insulin-2 [Mus pahari]
+ XP_021060492.1 insulin-2 [Mus pahari]
+Length=110
+
+ Score = 85.9 bits (211),  Expect = 5e-16, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_021024412.1 insulin-2 [Mus caroli]
+ XP_021024413.1 insulin-2 [Mus caroli]
+Length=110
+
+ Score = 85.5 bits (210),  Expect = 5e-16, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>ABB89749.1 preproinsulin 2 [Mus caroli]
+Length=110
+
+ Score = 85.5 bits (210),  Expect = 5e-16, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>NP_001172012.1 insulin-2 preproprotein [Mus musculus]
+ NP_001172013.1 insulin-2 preproprotein [Mus musculus]
+ NP_032413.1 insulin-2 preproprotein [Mus musculus]
+ P01326.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin-2 B 
+chain; Contains: RecName: Full=Insulin-2 A chain; Flags: Precursor 
+[Mus musculus]
+ QTY39208.1 insulin2, partial [Vector pENTR1A-Ins2WT-3Flag]
+ QTY39214.1 insulin2, partial [Vector pENTR1A-Ins2WT-Halo]
+ CAJ76270.1 insulin II [Mus spretus]
+ AAH99934.1 Insulin II [Mus musculus]
+ AAI32651.1 Insulin II [Mus musculus]
+Length=110
+
+ Score = 85.5 bits (210),  Expect = 5e-16, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_031244810.1 insulin-2 isoform X3 [Mastomys coucha]
+Length=110
+
+ Score = 85.5 bits (210),  Expect = 6e-16, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>NP_062003.1 insulin-2 preproprotein [Rattus norvegicus]
+ P01323.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin-2 B 
+chain; Contains: RecName: Full=Insulin-2 A chain; Flags: Precursor 
+[Rattus norvegicus]
+ AAA41440.1 insulin 2 [Rattus norvegicus]
+ AAA41443.1 preproinsulin II [Rattus norvegicus]
+ EDM12162.1 rCG48472 [Rattus norvegicus]
+ CAA24560.1 preproinsulin [Rattus norvegicus]
+Length=110
+
+ Score = 85.1 bits (209),  Expect = 7e-16, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_032747262.1 insulin-2 [Rattus rattus]
+Length=110
+
+ Score = 85.1 bits (209),  Expect = 7e-16, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>ABB89748.1 preproinsulin 2 [Apodemus semotus]
+Length=110
+
+ Score = 85.1 bits (209),  Expect = 7e-16, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_006977353.1 insulin [Peromyscus maniculatus bairdii]
+ XP_028728226.1 insulin [Peromyscus leucopus]
+ XP_036032153.1 insulin [Onychomys torridus]
+ XP_036032158.1 insulin [Onychomys torridus]
+ XP_037064779.1 insulin [Peromyscus leucopus]
+Length=110
+
+ Score = 85.1 bits (209),  Expect = 9e-16, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>ABB89752.1 preproinsulin [Microtus kikuchii]
+Length=110
+
+ Score = 84.7 bits (208),  Expect = 9e-16, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_038173309.1 insulin [Arvicola amphibius]
+Length=110
+
+ Score = 84.7 bits (208),  Expect = 9e-16, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_005351628.2 insulin [Microtus ochrogaster]
+Length=110
+
+ Score = 84.7 bits (208),  Expect = 1e-15, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_021070669.1 insulin-1 [Mus pahari]
+Length=110
+
+ Score = 84.7 bits (208),  Expect = 1e-15, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VEQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_038952432.1 insulin-2 isoform X1 [Rattus norvegicus]
+ XP_038952443.1 insulin-2 isoform X1 [Rattus norvegicus]
+ XP_038952444.1 insulin-2 isoform X1 [Rattus norvegicus]
+ XP_038952467.1 insulin-2 isoform X1 [Rattus norvegicus]
+ XP_038952493.1 insulin-2 isoform X1 [Rattus norvegicus]
+ XP_038952522.1 insulin-2 isoform X1 [Rattus norvegicus]
+ XP_038952563.1 insulin-2 isoform X1 [Rattus norvegicus]
+Length=119
+
+ Score = 84.7 bits (208),  Expect = 1e-15, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  72   VAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  119
+
+
+>prf||720460B insulin 2,pro [Rattus norvegicus]
+Length=86
+
+ Score = 83.6 bits (205),  Expect = 1e-15, Method: Compositional matrix adjust.
+ Identities = 39/46 (85%), Positives = 42/46 (91%), Gaps = 0/46 (0%)
+
+Query  406  QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  41   QLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  86
+
+
+>XP_031240877.1 insulin-1 [Mastomys coucha]
+ XP_031240878.1 insulin-1 [Mastomys coucha]
+Length=110
+
+ Score = 84.3 bits (207),  Expect = 1e-15, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VEQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_003508128.1 insulin [Cricetulus griseus]
+ XP_027265003.1 insulin [Cricetulus griseus]
+ ERE79495.1 insulin-like isoform 1 [Cricetulus griseus]
+Length=110
+
+ Score = 84.3 bits (207),  Expect = 2e-15, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VTQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_008837426.1 insulin isoform X1 [Nannospalax galili]
+Length=110
+
+ Score = 84.0 bits (206),  Expect = 2e-15, Method: Compositional matrix adjust.
+ Identities = 41/48 (85%), Positives = 44/48 (92%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQ+EL GGPGAGS Q LALE +LQKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VGQMELPGGPGAGSPQSLALEAALQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_049992438.1 insulin [Microtus fortis]
+Length=128
+
+ Score = 84.3 bits (207),  Expect = 2e-15, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  81   VAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  128
+
+
+>XP_028642854.1 insulin-2 [Grammomys surdaster]
+ XP_028642855.1 insulin-2 [Grammomys surdaster]
+Length=110
+
+ Score = 83.6 bits (205),  Expect = 2e-15, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPG G LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGTGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_029770545.1 insulin [Suricata suricatta]
+Length=110
+
+ Score = 83.6 bits (205),  Expect = 2e-15, Method: Compositional matrix adjust.
+ Identities = 41/50 (82%), Positives = 42/50 (84%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L V  VELG  PGAG LQP ALEG LQKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   LQVRDVELGAAPGAGGLQPSALEGPLQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>ABB89747.1 preproinsulin 2 [Rattus losea]
+Length=110
+
+ Score = 83.6 bits (205),  Expect = 3e-15, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQQELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>CAH6793397.1 Ins [Phodopus roborovskii]
+Length=110
+
+ Score = 83.6 bits (205),  Expect = 3e-15, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+EL GGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELAGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_034379025.1 insulin-2 [Arvicanthis niloticus]
+Length=110
+
+ Score = 83.6 bits (205),  Expect = 3e-15, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+EL GGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELDGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>P01313.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Cricetulus longicaudatus]
+ pir|I48166| insulin precursor - golden hamster [Mesocricetus auratus]
+ AAA37089.1 preproinsulin [Mesocricetus auratus]
+Length=110
+
+ Score = 83.2 bits (204),  Expect = 3e-15, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGA  LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGADDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_012968060.1 insulin [Mesocricetus auratus]
+Length=110
+
+ Score = 83.2 bits (204),  Expect = 3e-15, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGA  LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGADDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_048314329.1 insulin [Myodes glareolus]
+Length=110
+
+ Score = 83.2 bits (204),  Expect = 4e-15, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGA  LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGGGPGADDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_006911039.1 insulin [Pteropus alecto]
+ XP_039696307.1 insulin [Pteropus giganteus]
+ ELK13208.1 Insulin [Pteropus alecto]
+Length=110
+
+ Score = 83.2 bits (204),  Expect = 4e-15, Method: Compositional matrix adjust.
+ Identities = 41/47 (87%), Positives = 43/47 (91%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G+VELGGGPGAGS Q LALEG  QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  64   GEVELGGGPGAGSRQALALEGPPQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>ACX53313.1 insulin-2 precursor, partial [Mus musculus]
+Length=109
+
+ Score = 82.8 bits (203),  Expect = 5e-15, Method: Compositional matrix adjust.
+ Identities = 39/47 (83%), Positives = 42/47 (89%), Gaps = 0/47 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYC  450
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYC
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYC  109
+
+
+>KAH0508191.1 Insulin [Microtus ochrogaster]
+Length=110
+
+ Score = 82.4 bits (202),  Expect = 7e-15, Method: Compositional matrix adjust.
+ Identities = 39/47 (83%), Positives = 42/47 (89%), Gaps = 0/47 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYC  450
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYC
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYC  109
+
+
+>EGW08477.1 Insulin [Cricetulus griseus]
+Length=248
+
+ Score = 85.9 bits (211),  Expect = 9e-15, Method: Compositional matrix adjust.
+ Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  201  VTQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  248
+
+
+>prf||720460A insulin 1,pro [Rattus norvegicus]
+Length=86
+
+ Score = 81.3 bits (199),  Expect = 1e-14, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGP AG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  39   VPQLELGGGPEAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  86
+
+
+>ABB89750.1 preproinsulin 2 [Niviventer coninga]
+Length=110
+
+ Score = 81.6 bits (200),  Expect = 1e-14, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPG G LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VPQLELGGGPGTGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_032748073.1 insulin-1 [Rattus rattus]
+Length=110
+
+ Score = 81.3 bits (199),  Expect = 2e-14, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGP AG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VPQLELGGGPEAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>NP_062002.1 insulin-1 preproprotein [Rattus norvegicus]
+ P01322.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin-1 B 
+chain; Contains: RecName: Full=Insulin-1 A chain; Flags: Precursor 
+[Rattus norvegicus]
+ AAA41439.1 insulin 1 [Rattus norvegicus]
+ AAA41442.1 preproinsulin I [Rattus norvegicus]
+ EDL94407.1 rCG57481, isoform CRA_b [Rattus norvegicus]
+ CAA24559.1 insulin I [Rattus norvegicus]
+Length=110
+
+ Score = 80.9 bits (198),  Expect = 2e-14, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGP AG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VPQLELGGGPEAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>EDL94405.1 rCG57477 [Rattus norvegicus]
+Length=117
+
+ Score = 81.3 bits (199),  Expect = 2e-14, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGP AG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  70   VPQLELGGGPEAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  117
+
+
+>ABB89746.1 preproinsulin 1 [Niviventer coninga]
+Length=110
+
+ Score = 80.9 bits (198),  Expect = 3e-14, Method: Compositional matrix adjust.
+ Identities = 38/48 (79%), Positives = 41/48 (85%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELG GP AG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELGEGPEAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>EDL94406.1 rCG57481, isoform CRA_a [Rattus norvegicus]
+Length=93
+
+ Score = 80.1 bits (196),  Expect = 3e-14, Method: Compositional matrix adjust.
+ Identities = 38/46 (83%), Positives = 41/46 (89%), Gaps = 0/46 (0%)
+
+Query  406  QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            Q+ELGGGP AG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  48   QLELGGGPEAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  93
+
+
+>6PXV_D Cryo-EM structure of full-length insulin receptor bound to 4 
+insulin. 3D refinement was focused on the extracellular region. 
+[Homo sapiens]
+ 6PXV_E Cryo-EM structure of full-length insulin receptor bound to 4 
+insulin. 3D refinement was focused on the extracellular region. 
+[Homo sapiens]
+ 6PXV_F Cryo-EM structure of full-length insulin receptor bound to 4 
+insulin. 3D refinement was focused on the extracellular region. 
+[Homo sapiens]
+ 6PXV_G Cryo-EM structure of full-length insulin receptor bound to 4 
+insulin. 3D refinement was focused on the extracellular region. 
+[Homo sapiens]
+ 6PXW_C Cryo-EM structure of full-length insulin receptor bound to 4 
+insulin. 3D refinement was focused on the top part of the receptor 
+complex. [Homo sapiens]
+ 6PXW_D Cryo-EM structure of full-length insulin receptor bound to 4 
+insulin. 3D refinement was focused on the top part of the receptor 
+complex. [Homo sapiens]
+ 6PXW_E Cryo-EM structure of full-length insulin receptor bound to 4 
+insulin. 3D refinement was focused on the top part of the receptor 
+complex. [Homo sapiens]
+ 6PXW_F Cryo-EM structure of full-length insulin receptor bound to 4 
+insulin. 3D refinement was focused on the top part of the receptor 
+complex. [Homo sapiens]
+ 7BW7_D Chain D, Insulin fusion [Homo sapiens]
+ 7BW8_D Chain D, Insulin fusion [Homo sapiens]
+ 7BWA_D Chain D, Insulin fusion [Homo sapiens]
+ 7BWA_E Chain E, Insulin fusion [Homo sapiens]
+Length=74
+
+ Score = 79.3 bits (194),  Expect = 3e-14, Method: Composition-based stats.
+ Identities = 36/36 (100%), Positives = 36/36 (100%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  39   GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  74
+
+
+>XP_034378228.1 insulin-2 isoform X2 [Arvicanthis niloticus]
+Length=110
+
+ Score = 80.5 bits (197),  Expect = 3e-14, Method: Compositional matrix adjust.
+ Identities = 37/48 (77%), Positives = 40/48 (83%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+EL GGPG   LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VAQLELDGGPGTSDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_021490460.1 insulin isoform X2 [Meriones unguiculatus]
+ XP_021490469.1 insulin isoform X2 [Meriones unguiculatus]
+ ABB89751.1 preproinsulin [Meriones unguiculatus]
+Length=110
+
+ Score = 80.1 bits (196),  Expect = 4e-14, Method: Compositional matrix adjust.
+ Identities = 38/46 (83%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  406  QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            Q+ELGG PGAG LQ LALE + QKRGIVEQCCT ICSLYQLENYCN
+Sbjct  65   QLELGGSPGAGDLQALALEVARQKRGIVEQCCTGICSLYQLENYCN  110
+
+
+>ABB89744.1 preproinsulin 1 [Apodemus semotus]
+Length=110
+
+ Score = 80.1 bits (196),  Expect = 4e-14, Method: Compositional matrix adjust.
+ Identities = 37/48 (77%), Positives = 41/48 (85%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGG PG G L+ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VEQLELGGAPGTGDLETLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_021490452.1 insulin isoform X1 [Meriones unguiculatus]
+Length=134
+
+ Score = 80.5 bits (197),  Expect = 7e-14, Method: Compositional matrix adjust.
+ Identities = 38/46 (83%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  406  QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            Q+ELGG PGAG LQ LALE + QKRGIVEQCCT ICSLYQLENYCN
+Sbjct  89   QLELGGSPGAGDLQALALEVARQKRGIVEQCCTGICSLYQLENYCN  134
+
+
+>XP_005384246.1 PREDICTED: insulin [Chinchilla lanigera]
+Length=110
+
+ Score = 79.3 bits (194),  Expect = 8e-14, Method: Compositional matrix adjust.
+ Identities = 37/48 (77%), Positives = 41/48 (85%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQ + G  P AG LQPLALE +LQKRGIV+QCCTSIC+LYQLENYCN
+Sbjct  63   VGQADAGVVPEAGRLQPLALEMTLQKRGIVDQCCTSICTLYQLENYCN  110
+
+
+>ABB89743.1 preproinsulin 1 [Rattus losea]
+Length=110
+
+ Score = 79.3 bits (194),  Expect = 8e-14, Method: Compositional matrix adjust.
+ Identities = 38/48 (79%), Positives = 41/48 (85%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGG P AG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VPQLELGGSPEAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_034378222.1 insulin-2 isoform X1 [Arvicanthis niloticus]
+Length=134
+
+ Score = 80.1 bits (196),  Expect = 9e-14, Method: Compositional matrix adjust.
+ Identities = 37/48 (77%), Positives = 40/48 (83%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+EL GGPG   LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  87   VAQLELDGGPGTSDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  134
+
+
+>QTY39211.1 insulin2 Q104del (Kuma), partial [Vector pENTR1A-Ins2KUMA-3Flag]
+ QTY39216.1 insulin2 Q104del (Kuma), partial [Vector pENTR1A-Ins2Kuma-Halo]
+Length=109
+
+ Score = 79.0 bits (193),  Expect = 1e-13, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 1/48 (2%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLY LENYCN
+Sbjct  63   VAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLY-LENYCN  109
+
+
+>Q62587.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Psammomys obesus]
+ CAA66897.1 preproinsulin [Psammomys obesus]
+Length=110
+
+ Score = 78.6 bits (192),  Expect = 1e-13, Method: Compositional matrix adjust.
+ Identities = 37/46 (80%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  406  QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            Q+ELGG PGAG L+ LALE + QKRGIVEQCCT ICSLYQLENYCN
+Sbjct  65   QLELGGSPGAGDLRALALEVARQKRGIVEQCCTGICSLYQLENYCN  110
+
+
+>AAB60474.1 preproinsulin II, partial [Mus spretus]
+Length=41
+
+ Score = 75.9 bits (185),  Expect = 2e-13, Method: Compositional matrix adjust.
+ Identities = 35/41 (85%), Positives = 37/41 (90%), Gaps = 0/41 (0%)
+
+Query  411  GGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  1    GGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  41
+
+
+>XP_028632266.1 insulin-1 [Grammomys surdaster]
+Length=110
+
+ Score = 77.8 bits (190),  Expect = 3e-13, Method: Compositional matrix adjust.
+ Identities = 36/48 (75%), Positives = 40/48 (83%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGG   AG LQ LALE + QKRGIV+QCCTS+CSLYQLENYCN
+Sbjct  63   VAQLELGGSLEAGDLQTLALEVARQKRGIVDQCCTSVCSLYQLENYCN  110
+
+
+>XP_018891846.1 insulin isoform X2 [Gorilla gorilla gorilla]
+ ABI63346.1 insulin [Homo sapiens]
+ KAI2558108.1 insulin [Homo sapiens]
+ KAI4069451.1 insulin [Homo sapiens]
+ QMS45326.1 insulin isoform U3B [Homo sapiens]
+Length=98
+
+ Score = 77.4 bits (189),  Expect = 3e-13, Method: Compositional matrix adjust.
+ Identities = 36/36 (100%), Positives = 36/36 (100%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  98
+
+
+>XP_024110668.1 insulin isoform X3 [Pongo abelii]
+ PNJ16423.1 INS isoform 5 [Pongo abelii]
+Length=98
+
+ Score = 77.0 bits (188),  Expect = 4e-13, Method: Compositional matrix adjust.
+ Identities = 36/36 (100%), Positives = 36/36 (100%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  98
+
+
+>XP_025211016.1 insulin isoform X5 [Theropithecus gelada]
+Length=98
+
+ Score = 77.0 bits (188),  Expect = 4e-13, Method: Compositional matrix adjust.
+ Identities = 36/36 (100%), Positives = 36/36 (100%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  98
+
+
+>XP_011719621.1 insulin isoform X2 [Macaca nemestrina]
+ XP_030667342.1 insulin isoform X3 [Nomascus leucogenys]
+Length=98
+
+ Score = 76.6 bits (187),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 36/36 (100%), Positives = 36/36 (100%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  98
+
+
+>XP_032009714.1 insulin isoform X3 [Hylobates moloch]
+Length=98
+
+ Score = 76.6 bits (187),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 36/36 (100%), Positives = 36/36 (100%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  98
+
+
+>XP_011785466.1 PREDICTED: insulin isoform X3 [Colobus angolensis palliatus]
+ XP_011843618.1 PREDICTED: insulin isoform X2 [Mandrillus leucophaeus]
+ XP_017743300.1 PREDICTED: insulin isoform X3 [Rhinopithecus bieti]
+ XP_023039288.1 insulin isoform X3 [Piliocolobus tephrosceles]
+Length=98
+
+ Score = 76.6 bits (187),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 36/36 (100%), Positives = 36/36 (100%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  98
+
+
+>XP_017524755.2 insulin [Manis javanica]
+Length=104
+
+ Score = 76.6 bits (187),  Expect = 7e-13, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 40/48 (83%), Gaps = 6/48 (13%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG+VELGG      LQPLALEG L KRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGEVELGG------LQPLALEGPLHKRGIVEQCCTSICSLYQLENYCN  104
+
+
+>XP_022363428.1 insulin [Enhydra lutris kenyoni]
+Length=109
+
+ Score = 76.3 bits (186),  Expect = 1e-12, Method: Compositional matrix adjust.
+ Identities = 37/44 (84%), Positives = 38/44 (86%), Gaps = 1/44 (2%)
+
+Query  408  ELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            ELGG PG G L  L LEG+LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  67   ELGGAPGEGGL-ALGLEGALQKRGIVEQCCTSICSLYQLENYCN  109
+
+
+>XP_042815670.1 insulin [Panthera tigris]
+Length=110
+
+ Score = 76.3 bits (186),  Expect = 1e-12, Method: Compositional matrix adjust.
+ Identities = 36/46 (78%), Positives = 38/46 (83%), Gaps = 0/46 (0%)
+
+Query  406  QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+             VELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
+Sbjct  65   DVELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  110
+
+
+>XP_037012244.1 insulin [Artibeus jamaicensis]
+Length=110
+
+ Score = 75.9 bits (185),  Expect = 1e-12, Method: Compositional matrix adjust.
+ Identities = 42/47 (89%), Positives = 45/47 (96%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G+VELGGGPGAG LQPLALE +LQKRGIV+QCCTSICSLYQLENYCN
+Sbjct  64   GEVELGGGPGAGGLQPLALERALQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_025211012.1 insulin isoform X3 [Theropithecus gelada]
+Length=135
+
+ Score = 76.3 bits (186),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 36/36 (100%), Positives = 36/36 (100%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  100  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  135
+
+
+>XP_032124369.1 insulin [Sapajus apella]
+ XP_032124370.1 insulin [Sapajus apella]
+ XP_037587074.1 insulin [Cebus imitator]
+ XP_037587075.1 insulin [Cebus imitator]
+Length=108
+
+ Score = 75.5 bits (184),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 39/50 (78%), Positives = 42/50 (84%), Gaps = 2/50 (4%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGG   GSL PL  EG LQKRG+V+QCCTSICSLYQL+NYCN
+Sbjct  61   LQVGQVELGGGSITGSLPPL--EGPLQKRGVVDQCCTSICSLYQLQNYCN  108
+
+
+>XP_012311615.1 insulin [Aotus nancymaae]
+Length=108
+
+ Score = 75.5 bits (184),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 39/50 (78%), Positives = 42/50 (84%), Gaps = 2/50 (4%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGG   GSL PL  EG LQKRG+V+QCCTSICSLYQL+NYCN
+Sbjct  61   LQVGQVELGGGSITGSLPPL--EGPLQKRGVVDQCCTSICSLYQLQNYCN  108
+
+
+>XP_003798420.1 insulin isoform X1 [Otolemur garnettii]
+ ACH53103.1 insulin (predicted) [Otolemur garnettii]
+Length=110
+
+ Score = 75.5 bits (184),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 38/48 (79%), Positives = 39/48 (81%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQV LGG P  G LQ LAL+   QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGQVGLGGSPITGDLQSLALDVPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_019064851.1 insulin isoform X1 [Fukomys damarensis]
+Length=111
+
+ Score = 75.5 bits (184),  Expect = 2e-12, Method: Composition-based stats.
+ Identities = 37/49 (76%), Positives = 40/49 (82%), Gaps = 0/49 (0%)
+
+Query  403  AVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            AVGQ EL   P AG LQPLALE +LQKRGIV+QCC  ICSLYQL+NYCN
+Sbjct  63   AVGQAELDMDPEAGGLQPLALEVALQKRGIVDQCCNGICSLYQLKNYCN  111
+
+
+>XP_036731684.1 insulin [Manis pentadactyla]
+ KAI5278593.1 Insulin [Manis pentadactyla]
+Length=104
+
+ Score = 75.1 bits (183),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 38/47 (81%), Positives = 39/47 (83%), Gaps = 6/47 (13%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+             +VELGG      LQPLALEG LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  64   AEVELGG------LQPLALEGPLQKRGIVEQCCTSICSLYQLENYCN  104
+
+
+>P67972.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Aotus trivirgatus]
+ AAA35374.1 preproinsulin [Aotus trivirgatus]
+Length=108
+
+ Score = 75.1 bits (183),  Expect = 3e-12, Method: Compositional matrix adjust.
+ Identities = 38/50 (76%), Positives = 42/50 (84%), Gaps = 2/50 (4%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGG   GSL PL  EG +QKRG+V+QCCTSICSLYQL+NYCN
+Sbjct  61   LQVGQVELGGGSITGSLPPL--EGPMQKRGVVDQCCTSICSLYQLQNYCN  108
+
+
+>AAX84658.1 preproinsulin, partial [Felis catus]
+Length=86
+
+ Score = 74.3 bits (181),  Expect = 3e-12, Method: Compositional matrix adjust.
+ Identities = 35/44 (80%), Positives = 37/44 (84%), Gaps = 0/44 (0%)
+
+Query  408  ELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            ELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
+Sbjct  43   ELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  86
+
+
+>XP_035119627.1 insulin [Callithrix jacchus]
+ XP_035119628.1 insulin [Callithrix jacchus]
+Length=108
+
+ Score = 74.7 bits (182),  Expect = 3e-12, Method: Compositional matrix adjust.
+ Identities = 39/50 (78%), Positives = 42/50 (84%), Gaps = 2/50 (4%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQVELGGG   GSL   ALEG LQKRG+V+QCCTSICSLYQL+NYCN
+Sbjct  61   LQVGQVELGGGSITGSLP--ALEGPLQKRGVVDQCCTSICSLYQLQNYCN  108
+
+
+>BAB25058.1 unnamed protein product [Mus musculus]
+Length=108
+
+ Score = 74.7 bits (182),  Expect = 4e-12, Method: Compositional matrix adjust.
+ Identities = 37/48 (77%), Positives = 40/48 (83%), Gaps = 2/48 (4%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGG PG   LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VEQLELGGSPG--DLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  108
+
+
+>AAA17540.1 insulin, partial [Oryctolagus cuniculus]
+Length=55
+
+ Score = 72.8 bits (177),  Expect = 4e-12, Method: Composition-based stats.
+ Identities = 43/50 (86%), Positives = 44/50 (88%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQ ELGGGPGAG LQP AL  +LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  6    LQVGQAELGGGPGAGGLQPSALYLALQKRGIVEQCCTSICSLYQLENYCN  55
+
+
+>XP_021008173.1 insulin-1 [Mus caroli]
+Length=108
+
+ Score = 74.7 bits (182),  Expect = 4e-12, Method: Compositional matrix adjust.
+ Identities = 37/48 (77%), Positives = 40/48 (83%), Gaps = 2/48 (4%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGG PG   LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VEQLELGGSPG--DLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  108
+
+
+>P01311.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Oryctolagus cuniculus]
+ AAA19033.1 insulin [Oryctolagus cuniculus]
+Length=110
+
+ Score = 74.7 bits (182),  Expect = 4e-12, Method: Composition-based stats.
+ Identities = 44/50 (88%), Positives = 45/50 (90%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQ ELGGGPGAG LQP ALE +LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  61   LQVGQAELGGGPGAGGLQPSALELALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>NP_032412.3 insulin-1 preproprotein [Mus musculus]
+ P01325.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin-1 B 
+chain; Contains: RecName: Full=Insulin-1 A chain; Flags: Precursor 
+[Mus musculus]
+ AMP56504.1 insulin/IGF/Relaxin family [uncultured bacterium]
+ AAH98468.1 Insulin I [Mus musculus]
+ AAI45869.1 Insulin I [Mus musculus]
+ AAI45871.1 Insulin I [Mus musculus]
+ ABF48502.1 insulin 1 precursor [Mus musculus]
+Length=108
+
+ Score = 74.3 bits (181),  Expect = 4e-12, Method: Compositional matrix adjust.
+ Identities = 37/48 (77%), Positives = 40/48 (83%), Gaps = 2/48 (4%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGG PG   LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VEQLELGGSPG--DLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  108
+
+
+>XP_045343176.1 insulin [Leopardus geoffroyi]
+Length=110
+
+ Score = 74.3 bits (181),  Expect = 5e-12, Method: Compositional matrix adjust.
+ Identities = 35/44 (80%), Positives = 37/44 (84%), Gaps = 0/44 (0%)
+
+Query  408  ELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            ELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
+Sbjct  67   ELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  110
+
+
+>XP_040322184.1 insulin [Puma yagouaroundi]
+Length=110
+
+ Score = 74.3 bits (181),  Expect = 5e-12, Method: Compositional matrix adjust.
+ Identities = 35/44 (80%), Positives = 37/44 (84%), Gaps = 0/44 (0%)
+
+Query  408  ELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            ELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
+Sbjct  67   ELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  110
+
+
+>XP_019292555.1 PREDICTED: insulin [Panthera pardus]
+ XP_026901706.1 insulin [Acinonyx jubatus]
+ XP_030187244.1 insulin [Lynx canadensis]
+ XP_042762151.1 insulin [Panthera leo]
+ XP_046957087.1 insulin [Lynx rufus]
+ XP_047679766.1 insulin [Prionailurus viverrinus]
+ XP_049471573.1 insulin [Panthera uncia]
+Length=110
+
+ Score = 74.3 bits (181),  Expect = 5e-12, Method: Compositional matrix adjust.
+ Identities = 35/44 (80%), Positives = 37/44 (84%), Gaps = 0/44 (0%)
+
+Query  408  ELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            ELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
+Sbjct  67   ELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  110
+
+
+>XP_043437955.1 insulin [Prionailurus bengalensis]
+Length=110
+
+ Score = 74.3 bits (181),  Expect = 5e-12, Method: Compositional matrix adjust.
+ Identities = 35/44 (80%), Positives = 37/44 (84%), Gaps = 0/44 (0%)
+
+Query  408  ELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            ELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
+Sbjct  67   ELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  110
+
+
+>NP_001009272.1 insulin precursor [Felis catus]
+ XP_019666739.1 insulin isoform X1 [Felis catus]
+ P06306.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Felis catus]
+ BAB84110.1 preproinsulin [Felis catus]
+Length=110
+
+ Score = 74.3 bits (181),  Expect = 5e-12, Method: Compositional matrix adjust.
+ Identities = 35/44 (80%), Positives = 37/44 (84%), Gaps = 0/44 (0%)
+
+Query  408  ELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            ELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
+Sbjct  67   ELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  110
+
+
+>XP_010633950.1 insulin isoform X2 [Fukomys damarensis]
+ KFO28273.1 Insulin [Fukomys damarensis]
+Length=110
+
+ Score = 73.9 bits (180),  Expect = 6e-12, Method: Composition-based stats.
+ Identities = 36/48 (75%), Positives = 39/48 (81%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQ EL   P AG LQPLALE +LQKRGIV+QCC  ICSLYQL+NYCN
+Sbjct  63   VGQAELDMDPEAGGLQPLALEVALQKRGIVDQCCNGICSLYQLKNYCN  110
+
+
+>XP_004852149.1 insulin [Heterocephalus glaber]
+ EHB15713.1 Insulin [Heterocephalus glaber]
+Length=110
+
+ Score = 73.9 bits (180),  Expect = 6e-12, Method: Compositional matrix adjust.
+ Identities = 37/50 (74%), Positives = 40/50 (80%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQ E G G  AG LQPLA E +LQKRGIV+QCC SICSLYQL+NYCN
+Sbjct  61   LQVGQAEPGMGLEAGGLQPLAQELALQKRGIVDQCCNSICSLYQLQNYCN  110
+
+
+>P01327.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Chinchilla chinchilla]
+Length=86
+
+ Score = 73.2 bits (178),  Expect = 8e-12, Method: Composition-based stats.
+ Identities = 35/48 (73%), Positives = 39/48 (81%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQ + G  P AG LQPLALE +LQ  GIV+QCCTSIC+LYQLENYCN
+Sbjct  39   VGQADPGVVPEAGRLQPLALEMTLQXXGIVDQCCTSICTLYQLENYCN  86
+
+
+>XP_039081000.1 insulin [Hyaena hyaena]
+Length=110
+
+ Score = 73.6 bits (179),  Expect = 9e-12, Method: Compositional matrix adjust.
+ Identities = 37/46 (80%), Positives = 38/46 (83%), Gaps = 0/46 (0%)
+
+Query  406  QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+             VELGG P AG LQP A  G L+KRGIVEQCCTSICSLYQLENYCN
+Sbjct  65   DVELGGAPSAGGLQPPAPGGPLRKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_012507423.1 PREDICTED: insulin [Propithecus coquereli]
+Length=110
+
+ Score = 73.6 bits (179),  Expect = 9e-12, Method: Compositional matrix adjust.
+ Identities = 38/47 (81%), Positives = 39/47 (83%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GQV   G  GAG LQ LALEG+ QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  64   GQVGPDGSLGAGGLQALALEGAPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>ABB89745.1 preproinsulin 1 [Mus caroli]
+Length=108
+
+ Score = 73.6 bits (179),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 36/48 (75%), Positives = 40/48 (83%), Gaps = 2/48 (4%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q+ELGG PG   LQ LALE + +KRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VEQLELGGSPG--DLQTLALEVAREKRGIVDQCCTSICSLYQLENYCN  108
+
+
+>XP_016005239.1 insulin isoform X1 [Rousettus aegyptiacus]
+ KAF6465558.1 insulin [Rousettus aegyptiacus]
+Length=112
+
+ Score = 72.8 bits (177),  Expect = 2e-11, Method: Compositional matrix adjust.
+ Identities = 40/65 (62%), Positives = 45/65 (69%), Gaps = 4/65 (6%)
+
+Query  387  PLPRRCSGTCSARHVLAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQL  446
+            P  RR +G   A  V    ++EL  GPG  S Q LAL+G  QKRGIV+QCCTSICSLYQL
+Sbjct  52   PKVRREAGDPQAEEV----ELELDEGPGTSSPQTLALDGPRQKRGIVDQCCTSICSLYQL  107
+
+Query  447  ENYCN  451
+            ENYCN
+Sbjct  108  ENYCN  112
+
+
+>NP_001269184.1 insulin precursor [Ictidomys tridecemlineatus]
+ Q91XI3.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Ictidomys tridecemlineatus]
+ AAK72558.1 insulin [Ictidomys tridecemlineatus]
+ KAG3284408.1 insulin [Ictidomys tridecemlineatus]
+Length=110
+
+ Score = 72.4 bits (176),  Expect = 2e-11, Method: Compositional matrix adjust.
+ Identities = 43/47 (91%), Positives = 44/47 (94%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GQVELGGGPGAG  QPLALE +LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  64   GQVELGGGPGAGLPQPLALEMALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_006750158.1 insulin [Leptonychotes weddellii]
+Length=110
+
+ Score = 72.4 bits (176),  Expect = 2e-11, Method: Compositional matrix adjust.
+ Identities = 42/48 (88%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V  VELGG PG G LQPLALEG+LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VRAVELGGAPGPGGLQPLALEGALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_010329449.1 insulin [Saimiri boliviensis boliviensis]
+Length=108
+
+ Score = 72.4 bits (176),  Expect = 2e-11, Method: Compositional matrix adjust.
+ Identities = 36/48 (75%), Positives = 40/48 (83%), Gaps = 2/48 (4%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQ ELGGG   GSL   +LEG LQKRG+V+QCCTSICSLYQL+NYCN
+Sbjct  63   VGQAELGGGSITGSLS--SLEGLLQKRGVVDQCCTSICSLYQLQNYCN  108
+
+
+>XP_016005248.1 insulin isoform X2 [Rousettus aegyptiacus]
+Length=111
+
+ Score = 72.0 bits (175),  Expect = 3e-11, Method: Compositional matrix adjust.
+ Identities = 34/46 (74%), Positives = 38/46 (83%), Gaps = 0/46 (0%)
+
+Query  406  QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            ++EL  GPG  S Q LAL+G  QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  66   ELELDEGPGTSSPQTLALDGPRQKRGIVDQCCTSICSLYQLENYCN  111
+
+
+>XP_017196107.1 PREDICTED: insulin isoform X1 [Oryctolagus cuniculus]
+Length=138
+
+ Score = 72.8 bits (177),  Expect = 4e-11, Method: Compositional matrix adjust.
+ Identities = 43/50 (86%), Positives = 44/50 (88%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L VGQ ELGGGPGAG LQP ALE +LQKRGIVEQCCTSICSLYQLENYC 
+Sbjct  61   LQVGQAELGGGPGAGGLQPSALELALQKRGIVEQCCTSICSLYQLENYCT  110
+
+
+>XP_046300796.1 insulin [Marmota monax]
+ XP_046300798.1 insulin [Marmota monax]
+ KAF7474298.1 hypothetical protein GHT09_014969 [Marmota monax]
+ KAI6053985.1 INS [Marmota monax]
+ KAI6065850.1 INS [Marmota monax]
+ VTJ79771.1 Hypothetical predicted protein [Marmota monax]
+Length=110
+
+ Score = 71.6 bits (174),  Expect = 4e-11, Method: Compositional matrix adjust.
+ Identities = 42/47 (89%), Positives = 44/47 (94%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GQ+ELGGGPGAG  QPLALE +LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  64   GQMELGGGPGAGLPQPLALEMALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_027809291.1 insulin isoform X1 [Marmota flaviventris]
+ XP_048663831.1 insulin [Marmota marmota marmota]
+ XP_048663832.1 insulin [Marmota marmota marmota]
+Length=110
+
+ Score = 71.6 bits (174),  Expect = 5e-11, Method: Compositional matrix adjust.
+ Identities = 42/47 (89%), Positives = 44/47 (94%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GQ+ELGGGPGAG  QPLALE +LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  64   GQMELGGGPGAGLPQPLALEMALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_028373401.1 insulin [Phyllostomus discolor]
+Length=110
+
+ Score = 71.2 bits (173),  Expect = 5e-11, Method: Compositional matrix adjust.
+ Identities = 40/50 (80%), Positives = 45/50 (90%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L  G++ELGGGPGAG LQP ALE +L+KRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   LQAGEMELGGGPGAGGLQPAALERTLKKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_026269445.1 insulin isoform X1 [Urocitellus parryii]
+Length=110
+
+ Score = 71.2 bits (173),  Expect = 6e-11, Method: Compositional matrix adjust.
+ Identities = 42/47 (89%), Positives = 44/47 (94%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GQ+ELGGGPGAG  QPLALE +LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  64   GQMELGGGPGAGLPQPLALEMALQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_019569256.1 PREDICTED: insulin [Rhinolophus sinicus]
+Length=110
+
+ Score = 70.9 bits (172),  Expect = 8e-11, Method: Compositional matrix adjust.
+ Identities = 42/48 (88%), Positives = 44/48 (92%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQ+ELGGGPGAG LQ LALEG  QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VGQMELGGGPGAGGLQSLALEGPPQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_036115849.1 insulin [Molossus molossus]
+ KAF6437780.1 INS-IGF2 readthrough [Molossus molossus]
+Length=104
+
+ Score = 70.5 bits (171),  Expect = 1e-10, Method: Compositional matrix adjust.
+ Identities = 36/47 (77%), Positives = 38/47 (81%), Gaps = 6/47 (13%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G+ ELGG      LQPLA EG LQKRGIV+QCCTSICSLYQLENYCN
+Sbjct  64   GEAELGG------LQPLAPEGRLQKRGIVDQCCTSICSLYQLENYCN  104
+
+
+>XP_036716824.1 insulin [Balaenoptera musculus]
+Length=110
+
+ Score = 70.5 bits (171),  Expect = 1e-10, Method: Compositional matrix adjust.
+ Identities = 43/48 (90%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG VELGGGPGAG LQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGAVELGGGPGAGGLQPRALEGPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>ACC68945.1 proinsulin precursor (predicted) [Rhinolophus ferrumequinum]
+Length=110
+
+ Score = 70.5 bits (171),  Expect = 1e-10, Method: Compositional matrix adjust.
+ Identities = 41/47 (87%), Positives = 42/47 (89%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GQVELGGGPG G LQ LALEG  QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  64   GQVELGGGPGTGGLQSLALEGPPQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_032975469.1 insulin [Rhinolophus ferrumequinum]
+Length=123
+
+ Score = 70.5 bits (171),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 42/47 (89%), Positives = 43/47 (91%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GQVELGGGPGAG LQ LALEG  QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  77   GQVELGGGPGAGGLQSLALEGPPQKRGIVDQCCTSICSLYQLENYCN  123
+
+
+>KAF5916841.1 hypothetical protein HPG69_013814 [Diceros bicornis minor]
+Length=110
+
+ Score = 69.7 bits (169),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 42/48 (88%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG+VELGGGPGAG LQ LAL G  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGEVELGGGPGAGGLQTLALAGPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_045414405.1 insulin [Lemur catta]
+Length=110
+
+ Score = 69.7 bits (169),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 41/48 (85%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQV L G  GAG LQPLALEG+ QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGQVGLDGALGAGGLQPLALEGAPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_008158493.1 insulin [Eptesicus fuscus]
+Length=106
+
+ Score = 69.7 bits (169),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 36/47 (77%), Positives = 39/47 (83%), Gaps = 4/47 (9%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G+VE+G    AG LQ LALEG  QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  64   GEVEMG----AGGLQALALEGPPQKRGIVDQCCTSICSLYQLENYCN  106
+
+
+>XP_034501646.1 insulin isoform X1 [Ailuropoda melanoleuca]
+Length=148
+
+ Score = 70.9 bits (172),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 36/49 (73%), Positives = 38/49 (78%), Gaps = 1/49 (2%)
+
+Query  403  AVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            A G  EL   PGA   QP AL G+LQ+RGIVEQCCTSICSLYQLENYCN
+Sbjct  101  AAGDAELDRVPGADP-QPRALAGALQRRGIVEQCCTSICSLYQLENYCN  148
+
+
+>XP_027809292.1 insulin isoform X2 [Marmota flaviventris]
+Length=98
+
+ Score = 68.9 bits (167),  Expect = 3e-10, Method: Compositional matrix adjust.
+ Identities = 31/33 (94%), Positives = 32/33 (97%), Gaps = 0/33 (0%)
+
+Query  419  QPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            QPLALE +LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  66   QPLALEMALQKRGIVEQCCTSICSLYQLENYCN  98
+
+
+>QIH29510.1 preproinsulin [Kogia breviceps]
+Length=110
+
+ Score = 68.9 bits (167),  Expect = 3e-10, Method: Compositional matrix adjust.
+ Identities = 42/47 (89%), Positives = 42/47 (89%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G VELGGGPGAG LQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  64   GDVELGGGPGAGGLQPPALEGRPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_002920166.2 insulin isoform X2 [Ailuropoda melanoleuca]
+Length=147
+
+ Score = 70.1 bits (170),  Expect = 4e-10, Method: Compositional matrix adjust.
+ Identities = 36/50 (72%), Positives = 38/50 (76%), Gaps = 1/50 (2%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L  G  EL   PGA   QP AL G+LQ+RGIVEQCCTSICSLYQLENYCN
+Sbjct  99   LPAGDAELDRVPGADP-QPRALAGALQRRGIVEQCCTSICSLYQLENYCN  147
+
+
+>XP_026269446.1 insulin isoform X2 [Urocitellus parryii]
+Length=98
+
+ Score = 68.6 bits (166),  Expect = 4e-10, Method: Compositional matrix adjust.
+ Identities = 31/33 (94%), Positives = 32/33 (97%), Gaps = 0/33 (0%)
+
+Query  419  QPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            QPLALE +LQKRGIVEQCCTSICSLYQLENYCN
+Sbjct  66   QPLALEMALQKRGIVEQCCTSICSLYQLENYCN  98
+
+
+>MBW01439.1 Insulin [Eschrichtius robustus]
+Length=177
+
+ Score = 70.9 bits (172),  Expect = 4e-10, Method: Compositional matrix adjust.
+ Identities = 43/48 (90%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG VELGGGPGAG LQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  130  VGAVELGGGPGAGGLQPRALEGPPQKRGIVEQCCTSICSLYQLENYCN  177
+
+
+>XP_022446762.1 insulin isoform X1 [Delphinapterus leucas]
+ XP_022446763.1 insulin isoform X1 [Delphinapterus leucas]
+ XP_029063436.1 insulin isoform X1 [Monodon monoceros]
+ XP_029063437.1 insulin isoform X1 [Monodon monoceros]
+Length=110
+
+ Score = 68.9 bits (167),  Expect = 4e-10, Method: Compositional matrix adjust.
+ Identities = 43/48 (90%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG VELGGGPGAG LQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGAVELGGGPGAGGLQPPALEGPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_036903723.1 insulin [Sturnira hondurensis]
+Length=110
+
+ Score = 68.6 bits (166),  Expect = 5e-10, Method: Composition-based stats.
+ Identities = 40/47 (85%), Positives = 43/47 (91%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G+VELGGGPGAG LQ L LE +LQKRGIV+QCCTSICSLYQLENYCN
+Sbjct  64   GEVELGGGPGAGGLQSLVLERALQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_004278117.1 insulin [Orcinus orca]
+ XP_004317908.1 insulin [Tursiops truncatus]
+ XP_026946238.1 insulin [Lagenorhynchus obliquidens]
+ XP_030688938.1 insulin [Globicephala melas]
+ TEA11798.1 hypothetical protein DBR06_SOUSAS6910304 [Sousa chinensis]
+Length=110
+
+ Score = 68.6 bits (166),  Expect = 5e-10, Method: Compositional matrix adjust.
+ Identities = 43/48 (90%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG VELGGGPGAG LQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGAVELGGGPGAGGLQPPALEGPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_023973345.1 insulin [Physeter catodon]
+Length=110
+
+ Score = 68.6 bits (166),  Expect = 5e-10, Method: Compositional matrix adjust.
+ Identities = 42/47 (89%), Positives = 42/47 (89%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G VELGGGPGAG LQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  64   GAVELGGGPGAGGLQPPALEGRPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>AAM76640.1 insulin, partial [Gorilla gorilla]
+ AAM76641.1 insulin, partial [Pongo pygmaeus]
+Length=65
+
+ Score = 67.0 bits (162),  Expect = 6e-10, Method: Compositional matrix adjust.
+ Identities = 34/35 (97%), Positives = 34/35 (97%), Gaps = 0/35 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQC  436
+            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQC
+Sbjct  31   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQC  65
+
+
+>XP_019522928.1 PREDICTED: insulin [Hipposideros armiger]
+Length=110
+
+ Score = 68.2 bits (165),  Expect = 7e-10, Method: Compositional matrix adjust.
+ Identities = 40/47 (85%), Positives = 41/47 (87%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GQ ELGGGPG G LQ LALEG  QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  64   GQAELGGGPGTGGLQSLALEGPPQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_010160985.1 insulin [Antrostomus carolinensis]
+Length=109
+
+ Score = 67.4 bits (163),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 33/48 (69%), Positives = 36/48 (75%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            +G+ E  GG  AGSL PL L GS  KRGIVEQCC + CSLYQLENYCN
+Sbjct  62   LGKSENKGGRNAGSLLPLCLHGSAVKRGIVEQCCHNTCSLYQLENYCN  109
+
+
+>XP_020024407.1 insulin [Castor canadensis]
+Length=110
+
+ Score = 67.4 bits (163),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQ+ELGGGPG G  Q LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VGQMELGGGPGVGGPQSLALEVAPQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_024605021.1 insulin [Neophocaena asiaeorientalis asiaeorientalis]
+ XP_024605022.1 insulin [Neophocaena asiaeorientalis asiaeorientalis]
+ XP_032496798.1 insulin [Phocoena sinus]
+ XP_032496799.1 insulin [Phocoena sinus]
+Length=110
+
+ Score = 67.4 bits (163),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 42/48 (88%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG VELGGGPGAG LQP AL+G  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGAVELGGGPGAGGLQPPALQGPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_004717235.1 insulin [Echinops telfairi]
+Length=108
+
+ Score = 67.4 bits (163),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 34/42 (81%), Positives = 36/42 (86%), Gaps = 2/42 (5%)
+
+Query  412  GPGAGSLQPLALEG--SLQKRGIVEQCCTSICSLYQLENYCN  451
+            GPGAG LQP A EG  S Q+RGIVEQCCTS+CSLYQLENYCN
+Sbjct  67   GPGAGGLQPFAGEGPASRQQRGIVEQCCTSLCSLYQLENYCN  108
+
+
+>XP_017898972.1 PREDICTED: insulin [Capra hircus]
+ XP_017898973.1 PREDICTED: insulin [Capra hircus]
+ XP_017898974.1 PREDICTED: insulin [Capra hircus]
+Length=105
+
+ Score = 67.0 bits (162),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 35/48 (73%), Positives = 37/48 (77%), Gaps = 5/48 (10%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG +EL GGPGAGSL     EG  QKRGIVEQCC  +CSLYQLENYCN
+Sbjct  63   VGVLELAGGPGAGSL-----EGPPQKRGIVEQCCAGVCSLYQLENYCN  105
+
+
+>XP_008837427.1 insulin isoform X2 [Nannospalax galili]
+Length=98
+
+ Score = 66.6 bits (161),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 31/36 (86%), Positives = 33/36 (92%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GS Q LALE +LQKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   GSPQSLALEAALQKRGIVDQCCTSICSLYQLENYCN  98
+
+
+>XP_006860871.1 PREDICTED: insulin [Chrysochloris asiatica]
+Length=106
+
+ Score = 66.6 bits (161),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 30/40 (75%), Positives = 33/40 (83%), Gaps = 0/40 (0%)
+
+Query  412  GPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G GA  LQP  + GS Q+RGIVEQCCTS+CSLYQLENYCN
+Sbjct  67   GLGADGLQPFEVAGSRQQRGIVEQCCTSVCSLYQLENYCN  106
+
+
+>XP_036171734.1 insulin-like [Myotis myotis]
+Length=106
+
+ Score = 66.6 bits (161),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 30/33 (91%), Positives = 31/33 (94%), Gaps = 0/33 (0%)
+
+Query  419  QPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            Q LALEG LQKRGIV+QCCTSICSLYQLENYCN
+Sbjct  74   QALALEGILQKRGIVDQCCTSICSLYQLENYCN  106
+
+
+>XP_026338704.1 insulin [Ursus arctos]
+ XP_040495583.1 insulin [Ursus maritimus]
+Length=109
+
+ Score = 66.2 bits (160),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 33/41 (80%), Positives = 35/41 (85%), Gaps = 1/41 (2%)
+
+Query  411  GGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G PGA   QP AL G+LQ+RGIVEQCCTSICSLYQLENYCN
+Sbjct  70   GVPGADP-QPRALAGALQRRGIVEQCCTSICSLYQLENYCN  109
+
+
+>AAB60473.1 preproinsulin I, partial [Mus spretus]
+Length=39
+
+ Score = 63.5 bits (153),  Expect = 5e-09, Method: Composition-based stats.
+ Identities = 30/36 (83%), Positives = 32/36 (89%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  4    GDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  39
+
+
+>XP_004654275.1 insulin [Jaculus jaculus]
+Length=110
+
+ Score = 65.9 bits (159),  Expect = 5e-09, Method: Compositional matrix adjust.
+ Identities = 39/47 (83%), Positives = 42/47 (89%), Gaps = 0/47 (0%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GQ+ELGGGPGAG  Q LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  64   GQLELGGGPGAGGPQSLALELAPQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_015420950.1 PREDICTED: insulin [Myotis davidii]
+Length=106
+
+ Score = 65.9 bits (159),  Expect = 5e-09, Method: Composition-based stats.
+ Identities = 28/36 (78%), Positives = 31/36 (86%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G LQ L LEG LQKRGIVE+CCT++CSLYQLE YCN
+Sbjct  71   GGLQALTLEGLLQKRGIVEECCTNVCSLYQLERYCN  106
+
+
+>XP_031546921.1 insulin [Vicugna pacos]
+Length=110
+
+ Score = 65.9 bits (159),  Expect = 5e-09, Method: Compositional matrix adjust.
+ Identities = 30/34 (88%), Positives = 31/34 (91%), Gaps = 0/34 (0%)
+
+Query  418  LQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            LQPL LEG  QKRGIVEQCCTS+CSLYQLENYCN
+Sbjct  77   LQPLGLEGRPQKRGIVEQCCTSVCSLYQLENYCN  110
+
+
+>XP_006893274.1 PREDICTED: insulin [Elephantulus edwardii]
+Length=105
+
+ Score = 65.1 bits (157),  Expect = 7e-09, Method: Compositional matrix adjust.
+ Identities = 33/47 (70%), Positives = 36/47 (77%), Gaps = 5/47 (11%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GQVELG G     LQP    GS Q+RGIVEQCCTS+C+LYQLENYCN
+Sbjct  64   GQVELGAG-----LQPFPGAGSRQERGIVEQCCTSVCTLYQLENYCN  105
+
+
+>XP_003422420.1 insulin [Loxodonta africana]
+ XP_049746128.1 insulin [Elephas maximus indicus]
+Length=105
+
+ Score = 65.1 bits (157),  Expect = 8e-09, Method: Compositional matrix adjust.
+ Identities = 33/48 (69%), Positives = 35/48 (73%), Gaps = 5/48 (10%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG+VELG G     LQP   E   QKRGIVEQCCT +CSLYQLENYCN
+Sbjct  63   VGEVELGTG-----LQPFPAEAPKQKRGIVEQCCTGVCSLYQLENYCN  105
+
+
+>XP_045626705.1 insulin [Ursus americanus]
+Length=109
+
+ Score = 65.1 bits (157),  Expect = 9e-09, Method: Compositional matrix adjust.
+ Identities = 32/41 (78%), Positives = 35/41 (85%), Gaps = 1/41 (2%)
+
+Query  411  GGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G PGA   QP +L G+LQ+RGIVEQCCTSICSLYQLENYCN
+Sbjct  70   GVPGADP-QPRSLAGALQRRGIVEQCCTSICSLYQLENYCN  109
+
+
+>XP_022446765.1 insulin isoform X2 [Delphinapterus leucas]
+ XP_029063438.1 insulin isoform X2 [Monodon monoceros]
+Length=98
+
+ Score = 64.3 bits (155),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 32/36 (89%), Positives = 32/36 (89%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G LQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   GGLQPPALEGPPQKRGIVEQCCTSICSLYQLENYCN  98
+
+
+>XP_007171218.2 LOW QUALITY PROTEIN: insulin [Balaenoptera acutorostrata scammoni]
+Length=112
+
+ Score = 64.7 bits (156),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 31/34 (91%), Positives = 31/34 (91%), Gaps = 0/34 (0%)
+
+Query  418  LQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            LQP ALEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  79   LQPRALEGPPQKRGIVEQCCTSICSLYQLENYCN  112
+
+
+>XP_040827010.1 insulin [Ochotona curzoniae]
+Length=105
+
+ Score = 64.3 bits (155),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 35/55 (64%), Positives = 38/55 (69%), Gaps = 2/55 (4%)
+
+Query  397  SARHVLAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+             AR  +   Q ELGG P  G   P  L  +LQKRGIVEQCC+SICSLYQLENYCN
+Sbjct  53   KARRDVDELQGELGGAPSLGHTGPAEL--ALQKRGIVEQCCSSICSLYQLENYCN  105
+
+
+>XP_012876479.1 PREDICTED: insulin [Dipodomys ordii]
+ XP_042528552.1 insulin [Dipodomys spectabilis]
+Length=102
+
+ Score = 64.3 bits (155),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 34/48 (71%), Positives = 37/48 (77%), Gaps = 8/48 (17%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQ+ELGGG        LAL+   QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   VGQLELGGG--------LALDLPPQKRGIVDQCCTSICSLYQLENYCN  102
+
+
+>MBF5018571.1 hypothetical protein [Bacillus velezensis]
+Length=31
+
+ Score = 62.0 bits (149),  Expect = 2e-08, Method: Composition-based stats.
+ Identities = 26/31 (84%), Positives = 29/31 (94%), Gaps = 0/31 (0%)
+
+Query  421  LALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            +ALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  1    MALEVAQQKRGIVDQCCTSICSLYQLENYCN  31
+
+
+>XP_012665959.1 insulin isoform X2 [Otolemur garnettii]
+Length=98
+
+ Score = 63.2 bits (152),  Expect = 3e-08, Method: Compositional matrix adjust.
+ Identities = 30/36 (83%), Positives = 31/36 (86%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G LQ LAL+   QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   GDLQSLALDVPPQKRGIVEQCCTSICSLYQLENYCN  98
+
+
+>XP_036284716.1 insulin [Pipistrellus kuhlii]
+Length=103
+
+ Score = 63.2 bits (152),  Expect = 3e-08, Method: Compositional matrix adjust.
+ Identities = 34/47 (72%), Positives = 35/47 (74%), Gaps = 6/47 (13%)
+
+Query  408  ELGGGPG---AGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            EL GG G    G LQ LAL    QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  60   ELQGGEGELGTGDLQALALA---QKRGIVDQCCTSICSLYQLENYCN  103
+
+
+>XP_045677069.1 insulin isoform X1 [Phyllostomus hastatus]
+Length=111
+
+ Score = 63.2 bits (152),  Expect = 4e-08, Method: Compositional matrix adjust.
+ Identities = 39/49 (80%), Positives = 43/49 (88%), Gaps = 0/49 (0%)
+
+Query  403  AVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            A G++ELGGGPG G L P ALE +LQKRGIV+QCCTSICSLYQLENYCN
+Sbjct  63   AAGEMELGGGPGTGGLPPAALERALQKRGIVDQCCTSICSLYQLENYCN  111
+
+
+>P21563.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Rodentia sp.]
+ pir|S09278| insulin precursor - Geodia cydonium [Geodia cydonium]
+Length=108
+
+ Score = 62.8 bits (151),  Expect = 5e-08, Method: Compositional matrix adjust.
+ Identities = 35/48 (73%), Positives = 38/48 (79%), Gaps = 2/48 (4%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VGQVELG GPGAGS Q LALE + Q R IV+QC + ICSLYQ ENYCN
+Sbjct  63   VGQVELGAGPGAGSEQTLALEVARQAR-IVQQCTSGICSLYQ-ENYCN  108
+
+
+>XP_045677071.1 insulin isoform X2 [Phyllostomus hastatus]
+Length=110
+
+ Score = 62.8 bits (151),  Expect = 5e-08, Method: Compositional matrix adjust.
+ Identities = 39/50 (78%), Positives = 43/50 (86%), Gaps = 0/50 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L  G++ELGGGPG G L P ALE +LQKRGIV+QCCTSICSLYQLENYCN
+Sbjct  61   LQAGEMELGGGPGTGGLPPAALERALQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_004389446.1 insulin [Trichechus manatus latirostris]
+Length=106
+
+ Score = 62.8 bits (151),  Expect = 6e-08, Method: Compositional matrix adjust.
+ Identities = 32/48 (67%), Positives = 35/48 (73%), Gaps = 4/48 (8%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG+VE    PGAG  QP   E   +KRGIVEQCCT +CSLYQLENYCN
+Sbjct  63   VGKVE----PGAGGRQPFPAEVPREKRGIVEQCCTGVCSLYQLENYCN  106
+
+
+>ELK28555.1 Insulin [Myotis davidii]
+Length=168
+
+ Score = 64.3 bits (155),  Expect = 7e-08, Method: Compositional matrix adjust.
+ Identities = 28/36 (78%), Positives = 31/36 (86%), Gaps = 0/36 (0%)
+
+Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G LQ L LEG LQKRGIVE+CCT++CSLYQLE YCN
+Sbjct  133  GGLQALTLEGLLQKRGIVEECCTNVCSLYQLERYCN  168
+
+
+>XP_004627141.1 insulin [Octodon degus]
+ P17715.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Octodon degus]
+ AAA40590.1 insulin [Octodon degus]
+ UNP61771.1 insulin preproprotein [Octodon degus]
+Length=109
+
+ Score = 62.0 bits (149),  Expect = 1e-07, Method: Compositional matrix adjust.
+ Identities = 32/50 (64%), Positives = 36/50 (72%), Gaps = 2/50 (4%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L V Q ELG    AG LQP ALE  LQKRGIV+QCC +IC+  QL+NYCN
+Sbjct  60   LQVEQAELG--LEAGGLQPSALEMILQKRGIVDQCCNNICTFNQLQNYCN  107
+
+
+>XP_041521893.1 insulin [Microtus oregoni]
+Length=110
+
+ Score = 62.0 bits (149),  Expect = 1e-07, Method: Compositional matrix adjust.
+ Identities = 28/33 (85%), Positives = 30/33 (91%), Gaps = 0/33 (0%)
+
+Query  419  QPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            Q LALE + QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  78   QTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+
+
+>XP_005903567.1 PREDICTED: insulin [Bos mutus]
+Length=114
+
+ Score = 61.2 bits (147),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 32/37 (86%), Gaps = 0/37 (0%)
+
+Query  415  AGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            AG+ Q ++LEG  QKRGIVEQCC S+CSLYQLENYCN
+Sbjct  78   AGAWQKISLEGPPQKRGIVEQCCASVCSLYQLENYCN  114
+
+
+>XP_014651319.1 PREDICTED: insulin [Ceratotherium simum simum]
+Length=110
+
+ Score = 60.5 bits (145),  Expect = 4e-07, Method: Compositional matrix adjust.
+ Identities = 41/48 (85%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG+VELGGGPGAG L  LAL G  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  63   VGEVELGGGPGAGGLLTLALAGPPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_031303797.1 insulin [Camelus dromedarius]
+ XP_032346050.1 insulin [Camelus ferus]
+ KAB1251309.1 Insulin [Camelus dromedarius]
+Length=110
+
+ Score = 60.1 bits (144),  Expect = 5e-07, Method: Compositional matrix adjust.
+ Identities = 28/34 (82%), Positives = 29/34 (85%), Gaps = 0/34 (0%)
+
+Query  418  LQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            LQPL  EG  QKRGIVEQCC S+CSLYQLENYCN
+Sbjct  77   LQPLGPEGRPQKRGIVEQCCASVCSLYQLENYCN  110
+
+
+>XP_047375537.1 insulin [Neosciurus carolinensis]
+ MBZ3883258.1 Insulin [Neosciurus carolinensis]
+Length=106
+
+ Score = 59.7 bits (143),  Expect = 6e-07, Method: Compositional matrix adjust.
+ Identities = 34/47 (72%), Positives = 35/47 (74%), Gaps = 4/47 (9%)
+
+Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G  ELGGG    S    ALE + QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  64   GPAELGGGLPQLS----ALEVAPQKRGIVEQCCTSICSLYQLENYCN  106
+
+
+>XP_008542536.1 PREDICTED: insulin [Equus przewalskii]
+ XP_023510474.1 insulin [Equus caballus]
+Length=110
+
+ Score = 59.3 bits (142),  Expect = 9e-07, Method: Compositional matrix adjust.
+ Identities = 41/48 (85%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG+VELGGGPG G LQPLAL G  QKRGIVEQCCT ICSLYQLENYCN
+Sbjct  63   VGEVELGGGPGLGGLQPLALAGPQQKRGIVEQCCTGICSLYQLENYCN  110
+
+
+>XP_047548388.1 insulin [Lutra lutra]
+Length=109
+
+ Score = 58.5 bits (140),  Expect = 1e-06, Method: Composition-based stats.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
+            QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  86   QKRGIVEQCCTSICSLYQLENYCN  109
+
+
+>XP_004759728.2 insulin [Mustela putorius furo]
+ XP_012915491.1 insulin [Mustela putorius furo]
+ XP_032214202.1 insulin [Mustela erminea]
+ XP_032214204.1 insulin [Mustela erminea]
+Length=109
+
+ Score = 58.5 bits (140),  Expect = 2e-06, Method: Composition-based stats.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
+            QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  86   QKRGIVEQCCTSICSLYQLENYCN  109
+
+
+>XP_032735660.1 insulin [Lontra canadensis]
+Length=109
+
+ Score = 58.5 bits (140),  Expect = 2e-06, Method: Composition-based stats.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
+            QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  86   QKRGIVEQCCTSICSLYQLENYCN  109
+
+
+>KAG8522541.1 Insulin [Galemys pyrenaicus]
+Length=109
+
+ Score = 58.2 bits (139),  Expect = 2e-06, Method: Compositional matrix adjust.
+ Identities = 27/29 (93%), Positives = 27/29 (93%), Gaps = 0/29 (0%)
+
+Query  423  LEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            LEG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  81   LEGPPQKRGIVEQCCTSICSLYQLENYCN  109
+
+
+>XP_004599268.1 insulin isoform X2 [Ochotona princeps]
+Length=104
+
+ Score = 58.2 bits (139),  Expect = 2e-06, Method: Compositional matrix adjust.
+ Identities = 31/45 (69%), Positives = 34/45 (76%), Gaps = 1/45 (2%)
+
+Query  408  ELGGGPGAGSL-QPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            EL G PG  S  Q    E +LQKRG+VEQCC+SICSLYQLENYCN
+Sbjct  60   ELQGEPGRLSTHQGRPAELALQKRGVVEQCCSSICSLYQLENYCN  104
+
+
+>XP_014685720.1 insulin isoform X4 [Equus asinus]
+Length=110
+
+ Score = 58.2 bits (139),  Expect = 2e-06, Method: Compositional matrix adjust.
+ Identities = 41/48 (85%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG+VELGGGPG G LQPLAL G  QKRGIVEQCCT ICSLYQLENYCN
+Sbjct  63   VGEVELGGGPGLGGLQPLALAGPPQKRGIVEQCCTGICSLYQLENYCN  110
+
+
+>AAC78289.1 proinsulin-like protein BKRA [synthetic construct]
+Length=54
+
+ Score = 56.2 bits (134),  Expect = 2e-06, Method: Composition-based stats.
+ Identities = 23/23 (100%), Positives = 23/23 (100%), Gaps = 0/23 (0%)
+
+Query  429  KRGIVEQCCTSICSLYQLENYCN  451
+            KRGIVEQCCTSICSLYQLENYCN
+Sbjct  32   KRGIVEQCCTSICSLYQLENYCN  54
+
+
+>XP_012599453.1 insulin [Microcebus murinus]
+Length=110
+
+ Score = 57.8 bits (138),  Expect = 3e-06, Method: Compositional matrix adjust.
+ Identities = 26/28 (93%), Positives = 27/28 (96%), Gaps = 0/28 (0%)
+
+Query  424  EGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            EG+ QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  83   EGAPQKRGIVEQCCTSICSLYQLENYCN  110
+
+
+>XP_036284716.2 insulin [Pipistrellus kuhlii]
+Length=337
+
+ Score = 62.0 bits (149),  Expect = 3e-06, Method: Compositional matrix adjust.
+ Identities = 34/47 (72%), Positives = 35/47 (74%), Gaps = 6/47 (13%)
+
+Query  408  ELGGGPG---AGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            EL GG G    G LQ LAL    QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  60   ELQGGEGELGTGDLQALALA---QKRGIVDQCCTSICSLYQLENYCN  103
+
+
+>KAI5761314.1 INS protein [Gulo gulo luscus]
+ KAI5761510.1 INS protein [Gulo gulo luscus]
+Length=109
+
+ Score = 57.8 bits (138),  Expect = 3e-06, Method: Composition-based stats.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
+            QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  86   QKRGIVEQCCTSICSLYQLENYCN  109
+
+
+>XP_037696381.1 insulin [Choloepus didactylus]
+Length=106
+
+ Score = 57.8 bits (138),  Expect = 3e-06, Method: Compositional matrix adjust.
+ Identities = 27/37 (73%), Positives = 30/37 (81%), Gaps = 0/37 (0%)
+
+Query  415  AGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            AGSLQ L    + Q+RGIV+QCCT ICSLYQLENYCN
+Sbjct  70   AGSLQALLPGAARQERGIVDQCCTGICSLYQLENYCN  106
+
+
+>BAM29044.1 insulin, partial [Suncus murinus]
+Length=77
+
+ Score = 56.2 bits (134),  Expect = 5e-06, Method: Compositional matrix adjust.
+ Identities = 32/49 (65%), Positives = 33/49 (67%), Gaps = 11/49 (22%)
+
+Query  411  GGPGAGSLQPLALEGSL--------QKRGIVEQCCTSICSLYQLENYCN  451
+            GGP  G     ALE +L        QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  32   GGPQEGDS---ALEAALSGVPGGPPQKRGIVEQCCTSICSLYQLENYCN  77
+
+
+>XP_007535926.1 PREDICTED: insulin [Erinaceus europaeus]
+Length=108
+
+ Score = 57.0 bits (136),  Expect = 5e-06, Method: Compositional matrix adjust.
+ Identities = 31/48 (65%), Positives = 33/48 (69%), Gaps = 1/48 (2%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V +  L   P  G LQ L L    QKRGIV+QCCTSICSLYQLENYCN
+Sbjct  62   VAEEALDEAPARG-LQALGLGVPPQKRGIVDQCCTSICSLYQLENYCN  108
+
+
+>CAA24707.1 insulin C chain, partial [synthetic construct]
+Length=35
+
+ Score = 54.7 bits (130),  Expect = 6e-06, Method: Compositional matrix adjust.
+ Identities = 28/29 (97%), Positives = 28/29 (97%), Gaps = 0/29 (0%)
+
+Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKR  430
+            L VGQVELGGGPGAGSLQPLALEGSLQKR
+Sbjct  7    LQVGQVELGGGPGAGSLQPLALEGSLQKR  35
+
+
+>7JP3_A Chain A, Insulin B chain,Insulin A chain [Homo sapiens]
+ 7JP3_B Chain B, Insulin B chain,Insulin A chain [Homo sapiens]
+ 7JP3_C Chain C, Insulin B chain,Insulin A chain [Homo sapiens]
+ 7JP3_D Chain D, Insulin B chain,Insulin A chain [Homo sapiens]
+ 7JP3_E Chain E, Insulin B chain,Insulin A chain [Homo sapiens]
+ 7JP3_F Chain F, Insulin B chain,Insulin A chain [Homo sapiens]
+Length=49
+
+ Score = 55.1 bits (131),  Expect = 7e-06, Method: Composition-based stats.
+ Identities = 22/27 (81%), Positives = 23/27 (85%), Gaps = 0/27 (0%)
+
+Query  425  GSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G    +GIVEQCCTSICSLYQLENYCN
+Sbjct  23   GFFYTKGIVEQCCTSICSLYQLENYCN  49
+
+
+>XP_020936937.1 insulin isoform X1 [Sus scrofa]
+Length=175
+
+ Score = 58.5 bits (140),  Expect = 7e-06, Method: Compositional matrix adjust.
+ Identities = 26/28 (93%), Positives = 26/28 (93%), Gaps = 0/28 (0%)
+
+Query  424  EGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            EG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  148  EGPPQKRGIVEQCCTSICSLYQLENYCN  175
+
+
+>XP_049637244.1 insulin [Suncus etruscus]
+Length=103
+
+ Score = 56.6 bits (135),  Expect = 7e-06, Method: Compositional matrix adjust.
+ Identities = 32/49 (65%), Positives = 33/49 (67%), Gaps = 11/49 (22%)
+
+Query  411  GGPGAGSLQPLALEGSL--------QKRGIVEQCCTSICSLYQLENYCN  451
+            GGP  G     ALE +L        QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  58   GGPQEGDS---ALEAALSGVPGGPPQKRGIVEQCCTSICSLYQLENYCN  103
+
+
+>AAC77920.1 preproinsulin, partial [Sus scrofa]
+Length=127
+
+ Score = 57.4 bits (137),  Expect = 7e-06, Method: Compositional matrix adjust.
+ Identities = 26/28 (93%), Positives = 26/28 (93%), Gaps = 0/28 (0%)
+
+Query  424  EGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            EG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  100  EGPPQKRGIVEQCCTSICSLYQLENYCN  127
+
+
+>XP_044117161.1 insulin [Neogale vison]
+Length=109
+
+ Score = 56.6 bits (135),  Expect = 8e-06, Method: Composition-based stats.
+ Identities = 23/24 (96%), Positives = 23/24 (96%), Gaps = 0/24 (0%)
+
+Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
+            QKRGIVEQCCT ICSLYQLENYCN
+Sbjct  86   QKRGIVEQCCTGICSLYQLENYCN  109
+
+
+>1EFE_A Chain A, MINI-PROINSULIN [Homo sapiens]
+Length=60
+
+ Score = 55.1 bits (131),  Expect = 8e-06, Method: Composition-based stats.
+ Identities = 23/23 (100%), Positives = 23/23 (100%), Gaps = 0/23 (0%)
+
+Query  429  KRGIVEQCCTSICSLYQLENYCN  451
+            KRGIVEQCCTSICSLYQLENYCN
+Sbjct  38   KRGIVEQCCTSICSLYQLENYCN  60
+
+
+>XP_043779567.1 LOW QUALITY PROTEIN: insulin [Cervus elaphus]
+Length=105
+
+ Score = 56.2 bits (134),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
+            QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  82   QKRGIVEQCCTSICSLYQLENYCN  105
+
+
+>XP_047630918.1 insulin [Phacochoerus africanus]
+Length=108
+
+ Score = 56.2 bits (134),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 26/28 (93%), Positives = 26/28 (93%), Gaps = 0/28 (0%)
+
+Query  424  EGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            EG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  81   EGPPQKRGIVEQCCTSICSLYQLENYCN  108
+
+
+>XP_044540673.1 insulin [Gracilinanus agilis]
+Length=103
+
+ Score = 56.2 bits (134),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 29/43 (67%), Positives = 30/43 (70%), Gaps = 1/43 (2%)
+
+Query  409  LGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            + G  GA  L P   E  LQKRGIVEQCC SICSLYQLE YCN
+Sbjct  62   MVGEAGAEEL-PFPPEYQLQKRGIVEQCCNSICSLYQLETYCN  103
+
+
+>1SJU_A Chain A, PROINSULIN [Homo sapiens]
+Length=50
+
+ Score = 54.7 bits (130),  Expect = 1e-05, Method: Composition-based stats.
+ Identities = 21/22 (95%), Positives = 22/22 (100%), Gaps = 0/22 (0%)
+
+Query  430  RGIVEQCCTSICSLYQLENYCN  451
+            +GIVEQCCTSICSLYQLENYCN
+Sbjct  29   KGIVEQCCTSICSLYQLENYCN  50
+
+
+>XP_043827798.1 insulin [Dromiciops gliroides]
+ XP_043827800.1 insulin [Dromiciops gliroides]
+Length=103
+
+ Score = 56.2 bits (134),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 27/40 (68%), Positives = 27/40 (68%), Gaps = 0/40 (0%)
+
+Query  412  GPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G   G   P   E  LQKRGIVEQCC SICSLYQLE YCN
+Sbjct  64   GEAGGEELPFPPEYQLQKRGIVEQCCNSICSLYQLETYCN  103
+
+
+>NP_001103242.1 insulin precursor [Sus scrofa]
+ P01315.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Sus scrofa]
+ AAL69550.1 preproinsulin [Sus scrofa]
+ AAQ00952.1 preproinsulin [Sus scrofa]
+ AAQ00954.1 preproinsulin [Sus scrofa]
+ AAQ00957.1 preproinsulin [Sus scrofa]
+ AAQ00960.1 preproinsulin [Sus scrofa]
+Length=108
+
+ Score = 56.2 bits (134),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 26/28 (93%), Positives = 26/28 (93%), Gaps = 0/28 (0%)
+
+Query  424  EGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            EG  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  81   EGPPQKRGIVEQCCTSICSLYQLENYCN  108
+
+
+>KAB0362251.1 hypothetical protein FD754_006407 [Muntiacus muntjak]
+ KAB0376557.1 hypothetical protein FD755_011001 [Muntiacus reevesi]
+Length=105
+
+ Score = 56.2 bits (134),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
+            QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  82   QKRGIVEQCCTSICSLYQLENYCN  105
+
+
+>1ZEI_A Chain A, INSULIN [Sus scrofa]
+ 1ZEI_B Chain B, INSULIN [Sus scrofa]
+ 1ZEI_C Chain C, INSULIN [Sus scrofa]
+ 1ZEI_D Chain D, INSULIN [Sus scrofa]
+ 1ZEI_E Chain E, INSULIN [Sus scrofa]
+ 1ZEI_F Chain F, INSULIN [Sus scrofa]
+Length=53
+
+ Score = 54.7 bits (130),  Expect = 1e-05, Method: Composition-based stats.
+ Identities = 21/22 (95%), Positives = 22/22 (100%), Gaps = 0/22 (0%)
+
+Query  430  RGIVEQCCTSICSLYQLENYCN  451
+            +GIVEQCCTSICSLYQLENYCN
+Sbjct  32   KGIVEQCCTSICSLYQLENYCN  53
+
+
+>XP_020738946.1 insulin isoform X2 [Odocoileus virginianus texanus]
+Length=105
+
+ Score = 56.2 bits (134),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
+            QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  82   QKRGIVEQCCTSICSLYQLENYCN  105
+
+
+>XP_036354152.1 insulin isoform X1 [Ochotona princeps]
+Length=112
+
+ Score = 56.2 bits (134),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 23/26 (88%), Positives = 26/26 (100%), Gaps = 0/26 (0%)
+
+Query  426  SLQKRGIVEQCCTSICSLYQLENYCN  451
+            +LQKRG+VEQCC+SICSLYQLENYCN
+Sbjct  87   ALQKRGVVEQCCSSICSLYQLENYCN  112
+
+
+>XP_020826540.1 insulin [Phascolarctos cinereus]
+Length=103
+
+ Score = 56.2 bits (134),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 27/40 (68%), Positives = 27/40 (68%), Gaps = 0/40 (0%)
+
+Query  412  GPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G   G   P   E  LQKRGIVEQCC SICSLYQLE YCN
+Sbjct  64   GEAGGEELPFPPEYQLQKRGIVEQCCNSICSLYQLETYCN  103
+
+
+>XP_043307923.1 insulin [Cervus canadensis]
+ XP_043307924.1 insulin [Cervus canadensis]
+ OWK17504.1 INS [Cervus elaphus hippelaphus]
+Length=105
+
+ Score = 55.8 bits (133),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
+            QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  82   QKRGIVEQCCTSICSLYQLENYCN  105
+
+
+>XP_027724482.1 insulin [Vombatus ursinus]
+Length=103
+
+ Score = 55.8 bits (133),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 27/40 (68%), Positives = 27/40 (68%), Gaps = 0/40 (0%)
+
+Query  412  GPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G   G   P   E  LQKRGIVEQCC SICSLYQLE YCN
+Sbjct  64   GEARGEELPFPPEYQLQKRGIVEQCCNSICSLYQLETYCN  103
+
+
+>XP_036618541.1 insulin [Trichosurus vulpecula]
+Length=103
+
+ Score = 55.8 bits (133),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 27/40 (68%), Positives = 27/40 (68%), Gaps = 0/40 (0%)
+
+Query  412  GPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G   G   P   E  LQKRGIVEQCC SICSLYQLE YCN
+Sbjct  64   GEARGEELPFPPEYQLQKRGIVEQCCNSICSLYQLETYCN  103
+
+
+>XP_004602925.1 PREDICTED: insulin [Sorex araneus]
+Length=101
+
+ Score = 55.5 bits (132),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 30/41 (73%), Positives = 30/41 (73%), Gaps = 8/41 (20%)
+
+Query  411  GGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            G PGAG        G  QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  69   GVPGAG--------GPPQKRGIVEQCCTSICSLYQLENYCN  101
+
+
+>ABP93829.1 mini-proinsulin, partial [synthetic construct]
+Length=59
+
+ Score = 53.9 bits (128),  Expect = 2e-05, Method: Composition-based stats.
+ Identities = 23/23 (100%), Positives = 23/23 (100%), Gaps = 0/23 (0%)
+
+Query  429  KRGIVEQCCTSICSLYQLENYCN  451
+            KRGIVEQCCTSICSLYQLENYCN
+Sbjct  37   KRGIVEQCCTSICSLYQLENYCN  59
+
+
+>ACE79098.1 insulin precursor (predicted) [Sorex araneus]
+Length=105
+
+ Score = 55.5 bits (132),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
+            QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  82   QKRGIVEQCCTSICSLYQLENYCN  105
+
+
+>6U46_A Solution Structure of a Heat-Resistant Long-Acting Insulin Analog 
+[Homo sapiens]
+Length=59
+
+ Score = 53.9 bits (128),  Expect = 2e-05, Method: Composition-based stats.
+ Identities = 24/31 (77%), Positives = 25/31 (81%), Gaps = 0/31 (0%)
+
+Query  420  PLALEGSLQKRGIVEQCCTSICSLYQLENYC  450
+            P   EGS + RGIVEQCC SICSLYQLENYC
+Sbjct  28   PRTEEGSRRSRGIVEQCCRSICSLYQLENYC  58
+
+
+>2QIU_A Structure of Human Arg-Insulin [Homo sapiens]
+ 2QIU_C Structure of Human Arg-Insulin [Homo sapiens]
+ 2R34_A Crystal structure of MN human arg-insulin [Homo sapiens]
+ 2R34_C Crystal structure of MN human arg-insulin [Homo sapiens]
+ 2R35_A Crystal structure of RB human arg-insulin [Homo sapiens]
+ 2R35_C Crystal structure of RB human arg-insulin [Homo sapiens]
+ 2R36_A Crystal structure of ni human ARG-insulin [synthetic construct]
+ 2R36_C Crystal structure of ni human ARG-insulin [synthetic construct]
+Length=22
+
+ Score = 52.8 bits (125),  Expect = 2e-05, Method: Composition-based stats.
+ Identities = 22/22 (100%), Positives = 22/22 (100%), Gaps = 0/22 (0%)
+
+Query  430  RGIVEQCCTSICSLYQLENYCN  451
+            RGIVEQCCTSICSLYQLENYCN
+Sbjct  1    RGIVEQCCTSICSLYQLENYCN  22
+
+
+>XP_045871659.1 insulin [Meles meles]
+Length=109
+
+ Score = 55.1 bits (131),  Expect = 3e-05, Method: Composition-based stats.
+ Identities = 23/28 (82%), Positives = 25/28 (89%), Gaps = 0/28 (0%)
+
+Query  424  EGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            EG+ QKRGIVEQCC  +CSLYQLENYCN
+Sbjct  82   EGAPQKRGIVEQCCAGVCSLYQLENYCN  109
+
+
+>AAA37041.1 insulin [Cavia porcellus]
+Length=110
+
+ Score = 55.1 bits (131),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 33/48 (69%), Positives = 39/48 (81%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q ELG G GAG LQPLALE +LQKRGIV+QCCT  C+ +QL++YCN
+Sbjct  63   VEQTELGMGLGAGGLQPLALEMALQKRGIVDQCCTGTCTRHQLQSYCN  110
+
+
+>AOR50935.1 mini-insulin, partial [synthetic construct]
+Length=88
+
+ Score = 54.3 bits (129),  Expect = 3e-05, Method: Composition-based stats.
+ Identities = 27/41 (66%), Positives = 27/41 (66%), Gaps = 12/41 (29%)
+
+Query  411  GGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            GGP  G            KRGIVEQCCTSICSLYQLENYCN
+Sbjct  40   GGPSGG------------KRGIVEQCCTSICSLYQLENYCN  68
+
+
+>P01310.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Equus caballus]
+Length=86
+
+ Score = 54.3 bits (129),  Expect = 3e-05, Method: Composition-based stats.
+ Identities = 39/48 (81%), Positives = 40/48 (83%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            VG+VELGGGPG G LQPLAL G  Q  GIVEQCCT ICSLYQLENYCN
+Sbjct  39   VGEVELGGGPGLGGLQPLALAGPQQXXGIVEQCCTGICSLYQLENYCN  86
+
+
+>P67973.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Balaenoptera physalus]
+ P67974.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Physeter catodon]
+Length=51
+
+ Score = 53.1 bits (126),  Expect = 3e-05, Method: Composition-based stats.
+ Identities = 22/23 (96%), Positives = 22/23 (96%), Gaps = 0/23 (0%)
+
+Query  429  KRGIVEQCCTSICSLYQLENYCN  451
+            K GIVEQCCTSICSLYQLENYCN
+Sbjct  29   KAGIVEQCCTSICSLYQLENYCN  51
+
+
+>NP_001166362.1 insulin precursor [Cavia porcellus]
+ XP_013006103.1 insulin isoform X1 [Cavia porcellus]
+ P01329.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Cavia porcellus]
+ AAA37042.1 preproinsulin [Cavia porcellus]
+Length=110
+
+ Score = 55.1 bits (131),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 33/48 (69%), Positives = 39/48 (81%), Gaps = 0/48 (0%)
+
+Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            V Q ELG G GAG LQPLALE +LQKRGIV+QCCT  C+ +QL++YCN
+Sbjct  63   VEQTELGMGLGAGGLQPLALEMALQKRGIVDQCCTGTCTRHQLQSYCN  110
+
+
+>6INS_E X-Ray Analysis Of The Single Chain B29-A1 Peptide-Linked Insulin 
+Molecule. A Completely Inactive Analogue [Sus scrofa]
+ 6INS_F X-Ray Analysis Of The Single Chain B29-A1 Peptide-Linked Insulin 
+Molecule. A Completely Inactive Analogue [Sus scrofa]
+Length=50
+
+ Score = 52.8 bits (125),  Expect = 4e-05, Method: Composition-based stats.
+ Identities = 21/22 (95%), Positives = 22/22 (100%), Gaps = 0/22 (0%)
+
+Query  430  RGIVEQCCTSICSLYQLENYCN  451
+            +GIVEQCCTSICSLYQLENYCN
+Sbjct  29   KGIVEQCCTSICSLYQLENYCN  50
+
+
+>ASJ76983.1 single chain insulin analog SCI59 [synthetic construct]
+Length=60
+
+ Score = 53.1 bits (126),  Expect = 4e-05, Method: Composition-based stats.
+ Identities = 22/22 (100%), Positives = 22/22 (100%), Gaps = 0/22 (0%)
+
+Query  430  RGIVEQCCTSICSLYQLENYCN  451
+            RGIVEQCCTSICSLYQLENYCN
+Sbjct  39   RGIVEQCCTSICSLYQLENYCN  60
+
+
+>AAA72170.1 insulin A chain [synthetic construct]
+Length=22
+
+ Score = 52.0 bits (123),  Expect = 6e-05, Method: Composition-based stats.
+ Identities = 21/21 (100%), Positives = 21/21 (100%), Gaps = 0/21 (0%)
+
+Query  431  GIVEQCCTSICSLYQLENYCN  451
+            GIVEQCCTSICSLYQLENYCN
+Sbjct  2    GIVEQCCTSICSLYQLENYCN  22
+
+
+>AFO70114.1 proinsulin, partial [Bos taurus]
+ BAE80772.1 proinsulin, partial [Bubalus bubalis]
+Length=81
+
+ Score = 53.1 bits (126),  Expect = 6e-05, Method: Compositional matrix adjust.
+ Identities = 22/24 (92%), Positives = 23/24 (96%), Gaps = 0/24 (0%)
+
+Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
+            QKRGIVEQCC S+CSLYQLENYCN
+Sbjct  58   QKRGIVEQCCASVCSLYQLENYCN  81
+
+
+>BAS32717.1 insulin [Coleonyx mitratus]
+Length=101
+
+ Score = 53.9 bits (128),  Expect = 7e-05, Method: Compositional matrix adjust.
+ Identities = 26/43 (60%), Positives = 31/43 (72%), Gaps = 3/43 (7%)
+
+Query  409  LGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
+            L  G  A S QP AL   L+KRGIVEQCC + C+LY+LE+YCN
+Sbjct  62   LANGVEALSFQPHAL---LKKRGIVEQCCDNTCTLYELESYCN  101
+
+
+>XP_020738945.1 tyrosine 3-monooxygenase isoform X1 [Odocoileus virginianus texanus]
+Length=574
+
+ Score = 58.5 bits (140),  Expect = 7e-05, Method: Compositional matrix adjust.
+ Identities = 24/24 (100%), Positives = 24/24 (100%), Gaps = 0/24 (0%)
+
+Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
+            QKRGIVEQCCTSICSLYQLENYCN
+Sbjct  551  QKRGIVEQCCTSICSLYQLENYCN  574
+
+
+>pir|INHY| insulin - hamster [Cricetinae gen. sp.]
+Length=51
+
+ Score = 52.0 bits (123),  Expect = 7e-05, Method: Composition-based stats.
+ Identities = 21/23 (91%), Positives = 22/23 (96%), Gaps = 0/23 (0%)
+
+Query  429  KRGIVEQCCTSICSLYQLENYCN  451
+            K GIV+QCCTSICSLYQLENYCN
+Sbjct  29   KSGIVDQCCTSICSLYQLENYCN  51
+
+
+>XP_006051533.1 insulin [Bubalus bubalis]
+ XP_006051534.1 insulin [Bubalus bubalis]
+Length=105
+
+ Score = 53.5 bits (127),  Expect = 9e-05, Method: Compositional matrix adjust.
+ Identities = 22/24 (92%), Positives = 23/24 (96%), Gaps = 0/24 (0%)
+
+Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
+            QKRGIVEQCC S+CSLYQLENYCN
+Sbjct  82   QKRGIVEQCCASVCSLYQLENYCN  105
+
+
+
+Lambda      K        H
+   0.326    0.141    0.502 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 34374431112702
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Sep 23, 2022 03:14 AM
+  Number of letters in database: 197,816,729,863
+  Number of sequences in database:  507,975,733
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

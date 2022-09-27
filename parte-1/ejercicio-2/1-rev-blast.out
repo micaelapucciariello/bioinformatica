@@ -1,0 +1,102 @@
+BLASTP 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: swissprot
+           480,087 sequences; 182,233,107 total letters
+
+
+
+Query= NC_000011 Homo sapiens chromosome 11, GRCh38.p14 Primary Assembly.
+
+Length=477
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q839D4.2 RecName: Full=Energy-coupling factor transporter ATP-bin...  36.2    0.53 
+Q88XV1.1 RecName: Full=Energy-coupling factor transporter ATP-bin...  33.1    4.9  
+Q73PD8.1 RecName: Full=Tyrosine--tRNA ligase; AltName: Full=Tyros...  32.7    6.6  
+
+
+>Q839D4.2 RecName: Full=Energy-coupling factor transporter ATP-binding 
+protein EcfA2; Short=ECF transporter A component EcfA2 [Enterococcus 
+faecalis V583]
+Length=289
+
+ Score = 36.2 bits (82),  Expect = 0.53, Method: Compositional matrix adjust.
+ Identities = 22/69 (32%), Positives = 32/69 (46%), Gaps = 4/69 (6%)
+
+Query  102  PACPPALGRTPTHLQPG-WTQVRGRVTHTGCGPTGPNAHMSHLLPPPRGSVTVGA*TGDP  160
+            P    AL      +Q G +T + G   HTG G +    H++ L+ P +G VT+G     P
+Sbjct  17   PFEQRALFDINLTIQDGSYTAIVG---HTGSGKSTLLQHLNALVKPTKGQVTIGERVITP  73
+
+Query  161  STSPQGLSP  169
+             T  + L P
+Sbjct  74   ETDNKNLKP  82
+
+
+>Q88XV1.1 RecName: Full=Energy-coupling factor transporter ATP-binding 
+protein EcfA2; Short=ECF transporter A component EcfA2 [Lactiplantibacillus 
+plantarum WCFS1]
+Length=295
+
+ Score = 33.1 bits (74),  Expect = 4.9, Method: Compositional matrix adjust.
+ Identities = 16/41 (39%), Positives = 23/41 (56%), Gaps = 0/41 (0%)
+
+Query  128  HTGCGPTGPNAHMSHLLPPPRGSVTVGA*TGDPSTSPQGLS  168
+            HTG G +    H++ LL P  G+VT+G     P+TS + L 
+Sbjct  41   HTGSGKSTLLQHLNALLKPTSGTVTIGERVITPTTSNKDLK  81
+
+
+>Q73PD8.1 RecName: Full=Tyrosine--tRNA ligase; AltName: Full=Tyrosyl-tRNA 
+synthetase; Short=TyrRS [Treponema denticola ATCC 35405]
+Length=406
+
+ Score = 32.7 bits (73),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 22/66 (33%), Positives = 29/66 (44%), Gaps = 13/66 (20%)
+
+Query  128  HTGCGPTGPNAHMSHLLPPP----------RGSVTVGA*T---GDPSTSPQGLSPASSPS  174
+            +TG  PTGP+ H+ H++P            +G V VG  T   GDPS   +     S   
+Sbjct  35   YTGTDPTGPSLHIGHMVPIFALKHLCREGHKGVVLVGGGTSRIGDPSGKTEMRKMLSYDE  94
+
+Query  175  PDYGAA  180
+             D  AA
+Sbjct  95   LDKNAA  100
+
+
+
+Lambda      K        H        a         alpha
+   0.325    0.141    0.475    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 44194758480
+
+
+  Database: swissprot
+    Posted date:  Sep 26, 2022  8:49 PM
+  Number of letters in database: 182,233,107
+  Number of sequences in database:  480,087
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

@@ -1,0 +1,96 @@
+BLASTP 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: swissprot
+           480,087 sequences; 182,233,107 total letters
+
+
+
+Query= NC_000011 Homo sapiens chromosome 11, GRCh38.p14 Primary Assembly.
+
+Length=477
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+P11657.1 RecName: Full=Major cell-surface adhesin PAc; AltName: F...  34.3    3.1  
+P23504.2 RecName: Full=Cell surface antigen I/II; Contains: RecNa...  33.9    3.4  
+
+
+>P11657.1 RecName: Full=Major cell-surface adhesin PAc; AltName: Full=Antigen 
+I/II; Flags: Precursor [Streptococcus mutans]
+Length=1565
+
+ Score = 34.3 bits (77),  Expect = 3.1, Method: Composition-based stats.
+ Identities = 31/129 (24%), Positives = 47/129 (36%), Gaps = 17/129 (13%)
+
+Query  33   GRGSRCWYSI--------VPQCHASAGTPP----GPRAAGCLHQGP-RPAPPAPLPGRAA  79
+            G+    WYS+        VP+      TPP     P       + P +PAP AP   +  
+Sbjct  809  GKKPNIWYSLNGKIRAVNVPKVTKEKPTPPVKPTAPTKPTYETEKPLKPAPVAPNYEKEP  868
+
+Query  80   QSRFRNSGEAEGHRRTQSGRHSAR----LPASPRSHSHPSPAGLDPG*REGHPHWVWTYR  135
+                R   +AE ++ T     + +     P  P   + P+P    P   E +     TY 
+Sbjct  869  TPPTRTPDQAEPNKPTPPTYETEKPLEPAPVEPSYEAEPTPPTRTPDQAEPNKPTPPTYE  928
+
+Query  136  PQRPHVPPP  144
+             ++P  P P
+Sbjct  929  TEKPLEPAP  937
+
+
+>P23504.2 RecName: Full=Cell surface antigen I/II; Contains: RecName: Full=Cell 
+surface antigen I; Contains: RecName: Full=Cell surface 
+antigen II; Flags: Precursor [Streptococcus mutans UA159]
+Length=1562
+
+ Score = 33.9 bits (76),  Expect = 3.4, Method: Composition-based stats.
+ Identities = 31/129 (24%), Positives = 47/129 (36%), Gaps = 17/129 (13%)
+
+Query  33   GRGSRCWYSI--------VPQCHASAGTPP----GPRAAGCLHQGP-RPAPPAPLPGRAA  79
+            G+    WYS+        VP+      TPP     P       + P +PAP AP   +  
+Sbjct  806  GKKPNIWYSLNGKIRAVNVPKVTKEKPTPPVKPTAPTKPTYETEKPLKPAPVAPNYEKEP  865
+
+Query  80   QSRFRNSGEAEGHRRTQSGRHSAR----LPASPRSHSHPSPAGLDPG*REGHPHWVWTYR  135
+                R   +AE ++ T     + +     P  P   + P+P    P   E +     TY 
+Sbjct  866  TPPTRTPDQAEPNKPTPPTYETEKPLEPAPVEPSYEAEPTPPTRTPDQAEPNKPTPPTYE  925
+
+Query  136  PQRPHVPPP  144
+             ++P  P P
+Sbjct  926  TEKPLEPAP  934
+
+
+
+Lambda      K        H        a         alpha
+   0.330    0.141    0.497    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 44194758480
+
+
+  Database: swissprot
+    Posted date:  Sep 26, 2022  8:49 PM
+  Number of letters in database: 182,233,107
+  Number of sequences in database:  480,087
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
