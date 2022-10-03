@@ -16,4 +16,4 @@ perl script1.pl ./sequence.gb out
 La ejecución del script da como resultado la generación de 6 archivos `FASTA`, nombrados `out-<frame>.fasta` y `out-<frame>-rev.fasta`. 
 
 ## Comentarios
-El archivo genbank utilizado fue obtenido del siguiente link: https://www.ncbi.nlm.nih.gov/nuccore/NC_000011.10?report=genbank&from=2159779&to=2161209&strand=true
+El archivo genbank utilizado fue obtenido del siguiente link: https://www.ncbi.nlm.nih.gov/nuccore/NC_000006.12?report=genbank&from=32659467&to=32666657&strand=true
