@@ -21,70 +21,71 @@ Database: swissprot
 
 
 
-Query= NC_000011 Homo sapiens chromosome 11, GRCh38.p14 Primary Assembly.
+Query= NC_000006 Homo sapiens chromosome 6, GRCh38.p14 Primary Assembly.
 
-Length=477
+Length=2397
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-P11657.1 RecName: Full=Major cell-surface adhesin PAc; AltName: F...  34.3    3.1  
-P23504.2 RecName: Full=Cell surface antigen I/II; Contains: RecNa...  33.9    3.4  
+B3A0R6.1 RecName: Full=EGF-like domain-containing protein 1; AltN...  35.8    5.0  
+Q8TXK6.1 RecName: Full=UPF0305 protein MK0666 [Methanopyrus kandl...  33.9    6.4  
+O02828.3 RecName: Full=Microtubule-associated protein tau; AltNam...  35.0    8.4  
 
 
->P11657.1 RecName: Full=Major cell-surface adhesin PAc; AltName: Full=Antigen 
-I/II; Flags: Precursor [Streptococcus mutans]
-Length=1565
+>B3A0R6.1 RecName: Full=EGF-like domain-containing protein 1; AltName: 
+Full=Uncharacterized shell protein 17; Short=LUSP-17; Flags: 
+Precursor [Lottia gigantea]
+Length=513
 
- Score = 34.3 bits (77),  Expect = 3.1, Method: Composition-based stats.
- Identities = 31/129 (24%), Positives = 47/129 (36%), Gaps = 17/129 (13%)
+ Score = 35.8 bits (81),  Expect = 5.0, Method: Composition-based stats.
+ Identities = 15/39 (38%), Positives = 18/39 (46%), Gaps = 0/39 (0%)
 
-Query  33   GRGSRCWYSI--------VPQCHASAGTPP----GPRAAGCLHQGP-RPAPPAPLPGRAA  79
-            G+    WYS+        VP+      TPP     P       + P +PAP AP   +  
-Sbjct  809  GKKPNIWYSLNGKIRAVNVPKVTKEKPTPPVKPTAPTKPTYETEKPLKPAPVAPNYEKEP  868
-
-Query  80   QSRFRNSGEAEGHRRTQSGRHSAR----LPASPRSHSHPSPAGLDPG*REGHPHWVWTYR  135
-                R   +AE ++ T     + +     P  P   + P+P    P   E +     TY 
-Sbjct  869  TPPTRTPDQAEPNKPTPPTYETEKPLEPAPVEPSYEAEPTPPTRTPDQAEPNKPTPPTYE  928
-
-Query  136  PQRPHVPPP  144
-             ++P  P P
-Sbjct  929  TEKPLEPAP  937
+Query  1790  SCVCTPCPTPPGSPPGLPSGCSSTRHQAAPAASPRGTPP  1828
+             SC    CP+PP S P  P        Q  P A+P+  PP
+Sbjct  356   SCDSVVCPSPPQSVPSNPQNIPPANPQNIPPANPQNIPP  394
 
 
->P23504.2 RecName: Full=Cell surface antigen I/II; Contains: RecName: Full=Cell 
-surface antigen I; Contains: RecName: Full=Cell surface 
-antigen II; Flags: Precursor [Streptococcus mutans UA159]
-Length=1562
+>Q8TXK6.1 RecName: Full=UPF0305 protein MK0666 [Methanopyrus kandleri AV19]
+Length=142
 
- Score = 33.9 bits (76),  Expect = 3.4, Method: Composition-based stats.
- Identities = 31/129 (24%), Positives = 47/129 (36%), Gaps = 17/129 (13%)
+ Score = 33.9 bits (76),  Expect = 6.4, Method: Composition-based stats.
+ Identities = 17/45 (38%), Positives = 22/45 (49%), Gaps = 3/45 (7%)
 
-Query  33   GRGSRCWYSI--------VPQCHASAGTPP----GPRAAGCLHQGP-RPAPPAPLPGRAA  79
-            G+    WYS+        VP+      TPP     P       + P +PAP AP   +  
-Sbjct  806  GKKPNIWYSLNGKIRAVNVPKVTKEKPTPPVKPTAPTKPTYETEKPLKPAPVAPNYEKEP  865
+Query  1753  PIAPPGTETRGLGQGWASRRGDDAHLSSARSRGTPPRSCVCTPCP  1797
+             P+ PPGTE  G+G+    RR DD +    + R        CT CP
+Sbjct  92    PVHPPGTEFPGVGK---VRRTDDCYYCPIKERREDQPGSFCTLCP  133
 
-Query  80   QSRFRNSGEAEGHRRTQSGRHSAR----LPASPRSHSHPSPAGLDPG*REGHPHWVWTYR  135
-                R   +AE ++ T     + +     P  P   + P+P    P   E +     TY 
-Sbjct  866  TPPTRTPDQAEPNKPTPPTYETEKPLEPAPVEPSYEAEPTPPTRTPDQAEPNKPTPPTYE  925
 
-Query  136  PQRPHVPPP  144
-             ++P  P P
-Sbjct  926  TEKPLEPAP  934
+>O02828.3 RecName: Full=Microtubule-associated protein tau; AltName: Full=Neurofibrillary 
+tangle protein; AltName: Full=Paired helical 
+filament-tau; Short=PHF-tau [Capra hircus]
+Length=403
+
+ Score = 35.0 bits (79),  Expect = 8.4, Method: Composition-based stats.
+ Identities = 25/69 (36%), Positives = 29/69 (42%), Gaps = 11/69 (16%)
+
+Query  1765  GQGWASRRGDDAHLSSARSRGTPPRSCVCTPCPTPPG----------SPPGLPSGCSSTR  1814
+             G G + + GD +  SS  S GTP         PTPP           +PP  PS   S R
+Sbjct  146   GTGESGKSGDRSGYSSPGSPGTPGSRSRTPSLPTPPTREPKKVAVVRTPPKSPSAAKS-R  204
+
+Query  1815  HQAAPAASP  1823
+              QAAP   P
+Sbjct  205   LQAAPGPMP  213
 
 
 
 Lambda      K        H        a         alpha
-   0.330    0.141    0.497    0.792     4.96 
+   0.344    0.150    0.525    0.792     4.96 
 
 Gapped
 Lambda      K        H        a         alpha    sigma
    0.267   0.0410    0.140     1.90     42.6     43.6 
 
-Effective search space used: 44194758480
+Effective search space used: 266810979087
 
 
   Database: swissprot
-    Posted date:  Sep 26, 2022  8:49 PM
+    Posted date:  Oct 3, 2022  8:12 PM
   Number of letters in database: 182,233,107
   Number of sequences in database:  480,087
 

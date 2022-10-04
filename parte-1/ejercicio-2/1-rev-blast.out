@@ -21,76 +21,58 @@ Database: swissprot
 
 
 
-Query= NC_000011 Homo sapiens chromosome 11, GRCh38.p14 Primary Assembly.
+Query= NC_000006 Homo sapiens chromosome 6, GRCh38.p14 Primary Assembly.
 
-Length=477
+Length=2396
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-Q839D4.2 RecName: Full=Energy-coupling factor transporter ATP-bin...  36.2    0.53 
-Q88XV1.1 RecName: Full=Energy-coupling factor transporter ATP-bin...  33.1    4.9  
-Q73PD8.1 RecName: Full=Tyrosine--tRNA ligase; AltName: Full=Tyros...  32.7    6.6  
+Q8R368.2 RecName: Full=Dynein axonemal assembly factor 4; AltName...  38.9    0.54 
+C5FGB1.1 RecName: Full=MICOS complex subunit MIC60; AltName: Full...  37.4    1.9  
 
 
->Q839D4.2 RecName: Full=Energy-coupling factor transporter ATP-binding 
-protein EcfA2; Short=ECF transporter A component EcfA2 [Enterococcus 
-faecalis V583]
-Length=289
+>Q8R368.2 RecName: Full=Dynein axonemal assembly factor 4; AltName: Full=Dyslexia 
+susceptibility 1 candidate gene 1 protein homolog 
+[Mus musculus]
+Length=420
 
- Score = 36.2 bits (82),  Expect = 0.53, Method: Compositional matrix adjust.
- Identities = 22/69 (32%), Positives = 32/69 (46%), Gaps = 4/69 (6%)
+ Score = 38.9 bits (89),  Expect = 0.54, Method: Composition-based stats.
+ Identities = 26/87 (30%), Positives = 37/87 (43%), Gaps = 20/87 (23%)
 
-Query  102  PACPPALGRTPTHLQPG-WTQVRGRVTHTGCGPTGPNAHMSHLLPPPRGSVTVGA*TGDP  160
-            P    AL      +Q G +T + G   HTG G +    H++ L+ P +G VT+G     P
-Sbjct  17   PFEQRALFDINLTIQDGSYTAIVG---HTGSGKSTLLQHLNALVKPTKGQVTIGERVITP  73
+Query  1683  KARGEKRAERRTRPTDGEAGGDTRQPGQLCLSPCSALGPRPSDAPAPTTPPPPPFPWGGM  1742
+             KA G+KR +R+ +P +G+   +T+           AL PR      P   PP   P  G 
+Sbjct  168   KADGQKRVQRKEKPLEGKQAEETK-----------ALKPRG----LPRKAPPTRLPTRGR  212
 
-Query  161  STSPQGLSP  169
-             T  + L P
-Sbjct  74   ETDNKNLKP  82
-
-
->Q88XV1.1 RecName: Full=Energy-coupling factor transporter ATP-binding 
-protein EcfA2; Short=ECF transporter A component EcfA2 [Lactiplantibacillus 
-plantarum WCFS1]
-Length=295
-
- Score = 33.1 bits (74),  Expect = 4.9, Method: Compositional matrix adjust.
- Identities = 16/41 (39%), Positives = 23/41 (56%), Gaps = 0/41 (0%)
-
-Query  128  HTGCGPTGPNAHMSHLLPPPRGSVTVGA*TGDPSTSPQGLS  168
-            HTG G +    H++ LL P  G+VT+G     P+TS + L 
-Sbjct  41   HTGSGKSTLLQHLNALLKPTSGTVTIGERVITPTTSNKDLK  81
+Query  1743  NWAQI-----SETSPPSPLPAQKLGVS  1764
+             NW  I      E   P+P  A  + +S
+Sbjct  213   NWENIFPEKLKEDRVPAPRSAGSIQIS  239
 
 
->Q73PD8.1 RecName: Full=Tyrosine--tRNA ligase; AltName: Full=Tyrosyl-tRNA 
-synthetase; Short=TyrRS [Treponema denticola ATCC 35405]
-Length=406
+>C5FGB1.1 RecName: Full=MICOS complex subunit MIC60; AltName: Full=Mitofilin; 
+Flags: Precursor [Microsporum canis CBS 113480]
+Length=671
 
- Score = 32.7 bits (73),  Expect = 6.6, Method: Compositional matrix adjust.
- Identities = 22/66 (33%), Positives = 29/66 (44%), Gaps = 13/66 (20%)
+ Score = 37.4 bits (85),  Expect = 1.9, Method: Composition-based stats.
+ Identities = 15/31 (48%), Positives = 19/31 (61%), Gaps = 0/31 (0%)
 
-Query  128  HTGCGPTGPNAHMSHLLPPP----------RGSVTVGA*T---GDPSTSPQGLSPASSPS  174
-            +TG  PTGP+ H+ H++P            +G V VG  T   GDPS   +     S   
-Sbjct  35   YTGTDPTGPSLHIGHMVPIFALKHLCREGHKGVVLVGGGTSRIGDPSGKTEMRKMLSYDE  94
-
-Query  175  PDYGAA  180
-             D  AA
-Sbjct  95   LDKNAA  100
+Query  1871  SPAGQSGPSPAAPAAAALTRPGAVEPPARPP  1901
+             +P G S P P++PAA  LT PG+   P  PP
+Sbjct  95    TPEGVSKPPPSSPAAQGLTSPGSSVNPPEPP  125
 
 
 
 Lambda      K        H        a         alpha
-   0.325    0.141    0.475    0.792     4.96 
+   0.345    0.152    0.533    0.792     4.96 
 
 Gapped
 Lambda      K        H        a         alpha    sigma
    0.267   0.0410    0.140     1.90     42.6     43.6 
 
-Effective search space used: 44194758480
+Effective search space used: 266693077638
 
 
   Database: swissprot
-    Posted date:  Sep 26, 2022  8:49 PM
+    Posted date:  Oct 3, 2022  8:12 PM
   Number of letters in database: 182,233,107
   Number of sequences in database:  480,087
 

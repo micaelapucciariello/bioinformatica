@@ -18,56 +18,15 @@ Res. 29:2994-3005.
 
 Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
 excluding environmental samples from WGS projects
-           507,975,733 sequences; 197,816,729,863 total letters
+           509,498,107 sequences; 198,558,003,220 total letters
 
-
-
-Query= NC_000011 Homo sapiens chromosome 11, GRCh38.p14 Primary Assembly.
-
-Length=477
-
-RID: K4R04XKS016
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-KAF9417805.1 hypothetical protein HW555_005219 [Spodoptera exigua]    44.7    2.3  
-
-
->KAF9417805.1 hypothetical protein HW555_005219 [Spodoptera exigua]
-Length=3386
-
- Score = 44.7 bits (104),  Expect = 2.3, Method: Composition-based stats.
- Identities = 51/172 (30%), Positives = 62/172 (36%), Gaps = 38/172 (22%)
-
-Query  51    GPLQGQGLQAACTRAPAQLHLPHCQDVPRRAGSG--------TAARQRDTGGHSQGDTVP  102
-             GP  G G      RAP     P  +  P  AG+G        T A+     G   G+ V 
-Sbjct  2760  GPYSGPGAVPGVDRAPGASPAPGARPFPPGAGTGPSAGPGPSTGAKPGPGAGTIYGEGVG  2819
-
-Query  103   ACPPALGRTPTHLQPGWTQVRGRVTHTGCGPTGPNAHMSHLLPPPRGSVTVGA*TG-DPS  161
-               PP             T  R  V +      GP + +S   P PR      A  G  P+
-Sbjct  2820  PGPP-------------TGTRPAVDYDTSAGAGPRSGLS---PGPRPGPDYDARAGVRPA  2863
-
-Query  162   TSP-------QGLSPASSPSPDYGA--AVRPGDRG----LAHSGRQPRPPPG  200
-               P        G+ PA  P PDY A   +RPG R       H+G QP P PG
-Sbjct  2864  PRPGPDYDARAGVRPAPRPGPDYDAHAGLRPGPRTGPDYNVHAGLQPGPRPG  2915
-
-
-
-Lambda      K        H
-   0.325    0.141    0.475 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 34486399943688
 
 
   Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
 excluding environmental samples from WGS projects
-    Posted date:  Sep 23, 2022 03:14 AM
-  Number of letters in database: 197,816,729,863
-  Number of sequences in database:  507,975,733
+    Posted date:  Oct 1, 2022 03:21 AM
+  Number of letters in database: 198,558,003,220
+  Number of sequences in database:  509,498,107
 
 
 

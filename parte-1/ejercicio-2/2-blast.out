@@ -21,1813 +21,651 @@ Database: swissprot
 
 
 
-Query= NC_000011 Homo sapiens chromosome 11, GRCh38.p14 Primary Assembly.
+Query= NC_000006 Homo sapiens chromosome 6, GRCh38.p14 Primary Assembly.
 
-Length=476
+Length=2395
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-P01308.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  100     2e-24
-Q8HXV2.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  100     3e-24
-P30410.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  100     3e-24
-P30407.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  98.6    1e-23
-P30406.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  98.2    1e-23
-P01321.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  88.6    4e-20
-P01326.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin...  85.5    5e-19
-P01323.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin...  85.1    6e-19
-P01313.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  83.2    3e-18
-P01322.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin...  80.9    2e-17
-Q62587.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  78.6    1e-16
-P67972.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  75.1    3e-15
-P01311.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  74.7    4e-15
-P01325.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin...  74.3    4e-15
-P06306.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  74.3    5e-15
-P01327.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  73.2    7e-15
-Q91XI3.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  72.4    2e-14
-P21563.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  62.8    5e-11
-P17715.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  62.0    1e-10
-P01315.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  56.2    1e-08
-P01310.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  54.3    3e-08
-P67973.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  53.1    3e-08
-P01329.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  55.1    3e-08
-P01317.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  53.5    8e-08
-P01324.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  52.0    8e-08
-P01316.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  50.4    2e-07
-P01320.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  50.1    4e-07
-P01318.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  51.2    5e-07
-P01314.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  48.9    1e-06
-P18109.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  48.9    1e-06
-P67971.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  48.5    1e-06
-P01319.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  48.5    1e-06
-P12707.2 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin...  50.1    1e-06
-P01328.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  48.1    2e-06
-P51463.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  49.3    2e-06
-P67970.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  48.9    4e-06
-P12706.2 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin...  48.5    6e-06
-P67968.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  46.2    8e-06
-P12703.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  45.4    1e-05
-Q9TQY7.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  45.1    2e-05
-P68243.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  45.1    2e-05
-P01334.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  44.7    3e-05
-P01333.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  45.1    5e-05
-C0HJI8.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin...  43.9    6e-05
-P01342.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  45.8    6e-05
-P81423.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  43.9    6e-05
-P12708.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  43.5    7e-05
-C0HJI7.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin...  43.5    8e-05
-P13190.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  43.5    2e-04
-P01335.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  43.5    3e-04
-P09476.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  42.0    3e-04
-C0HJI5.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin...  41.6    3e-04
-O73727.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  43.1    4e-04
-C0HJI2.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin...  41.6    4e-04
-P68987.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  40.4    0.001
-P0C236.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  40.0    0.001
-Q9W7R2.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  41.6    0.002
-P69045.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  41.2    0.002
-P04667.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  40.8    0.002
-Q98TA8.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  40.8    0.003
-P42633.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  38.9    0.003
-P29335.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  38.9    0.003
-P81025.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  39.7    0.006
-P01330.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  37.7    0.007
-P68989.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  37.7    0.009
-P12704.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  37.4    0.011
-P69046.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  36.6    0.020
-P01331.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  36.6    0.022
-P81881.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  36.2    0.026
-P09477.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  36.2    0.027
-C0HJI1.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  36.2    0.027
-P41522.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin A...  36.2    0.031
-C0HJI4.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  35.8    0.035
-C0HJI3.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin...  35.8    0.039
-P22334.1 RecName: Full=Insulin-like peptide; Contains: RecName: F...  39.7    0.040
-P12705.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  36.2    0.042
-P01340.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  35.4    0.056
-P07453.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  35.4    0.061
-P01336.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  34.7    0.11 
-P83770.1 RecName: Full=Insulin-like protein; Contains: RecName: F...  34.7    0.11 
-P68991.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B...  34.3    0.16 
-P01337.1 RecName: Full=Insulin-1 [Batrachoididae gen. sp.]            33.5    0.26 
-P33722.1 RecName: Full=Bombyxin B-2 homolog; Contains: RecName: F...  34.3    0.33 
-P33721.1 RecName: Full=Bombyxin B-1 homolog; Contains: RecName: F...  33.9    0.43 
-P26742.1 RecName: Full=Bombyxin B-8; Short=BBX-B8; AltName: Full=...  33.5    0.57 
-O09210.1 RecName: Full=Bombyxin-related peptide B; AltName: Full=...  33.5    0.68 
-Q90325.1 RecName: Full=Insulin-like growth factor I, adult form; ...  34.7    0.70 
-Q90326.1 RecName: Full=Insulin-like growth factor I, juvenile for...  34.7    0.71 
-Q02816.1 RecName: Full=Insulin-like growth factor II; Short=IGF-I...  35.0    0.73 
-P01338.1 RecName: Full=Insulin 2; Contains: RecName: Full=Insulin...  32.0    0.88 
-Q08279.1 RecName: Full=Insulin-like growth factor II; Short=IGF-I...  33.9    0.96 
-P84775.1 RecName: Full=Insulin-like growth factor I-B; Short=IGF-...  31.6    1.1  
-P01344.1 RecName: Full=Insulin-like growth factor II; Short=IGF-I...  34.3    1.2  
-P07456.4 RecName: Full=Insulin-like growth factor II; Short=IGF-I...  34.3    1.2  
-P01346.1 RecName: Full=Insulin-like growth factor II; Short=IGF-I...  34.3    1.3  
-P09535.1 RecName: Full=Insulin-like growth factor II; AltName: Fu...  33.9    1.4  
-P29519.1 RecName: Full=Bombyxin B-12; Short=BBX-B12; AltName: Ful...  32.3    1.5  
-P51462.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  33.1    1.5  
-P51459.2 RecName: Full=Insulin-like growth factor II; Short=IGF-I...  33.9    1.7  
-P23695.2 RecName: Full=Insulin-like growth factor II; Short=IGF-I...  33.9    1.7  
-Q28933.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  32.0    1.8  
-P26737.1 RecName: Full=Bombyxin B-3; Short=BBX-B3; AltName: Full=...  32.3    1.8  
-P17647.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  33.1    1.9  
-P26740.1 RecName: Full=Bombyxin B-6; Short=BBX-B6; AltName: Full=...  32.0    2.0  
-P10764.2 RecName: Full=Insulin-like growth factor II; Short=IGF-I...  33.5    2.1  
-A0A0B5A8P8.1 RecName: Full=Con-Ins Im2; AltName: Full=Insulin 2; ...  33.1    2.2  
-P18254.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  33.1    2.4  
-P26738.1 RecName: Full=Bombyxin B-4; Short=BBX-B4; AltName: Full=...  32.0    2.5  
-Q68LC0.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  33.1    2.6  
-P26734.1 RecName: Full=Bombyxin B-2; Short=BBX-B2; AltName: Full=...  31.6    2.7  
-P33717.2 RecName: Full=Insulin-like growth factor II; Short=IGF-I...  33.1    2.8  
-P33712.2 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  32.7    2.9  
-P22618.1 RecName: Full=Insulin-like growth factor; Short=IGF; Fla...  32.7    2.9  
-Q6GUL6.2 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  32.7    3.0  
-P51458.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  32.3    3.0  
-Q6JLX1.2 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  32.7    3.1  
-P07455.2 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  32.7    3.1  
-P16545.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  32.7    3.3  
-P05019.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  33.1    3.3  
-P26733.1 RecName: Full=Bombyxin B-1; Short=BBX-B1; AltName: Full=...  31.6    3.5  
-P26741.1 RecName: Full=Bombyxin B-7; Short=BBX-B7; AltName: Full=...  31.6    3.5  
-Q9VT51.1 RecName: Full=Probable insulin-like peptide 2; Short=dIL...  32.3    3.7  
-Q02815.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  32.7    4.0  
-Q6INW9.2 RecName: Full=Insulin-like growth factor II-B; Short=IGF...  33.1    4.1  
-Q95222.3 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  32.3    4.2  
-P21808.4 RecName: Full=Bombyxin E-1; Short=BBX-E1; AltName: Full=...  31.2    4.3  
-P17085.2 RecName: Full=Insulin-like growth factor I; Short=IGF-I;...  32.3    5.3  
-Q17194.1 RecName: Full=Bombyxin B-10; Short=BBX-B10; AltName: Ful...  30.8    6.3  
+P01920.2 RecName: Full=HLA class II histocompatibility antigen, D...  167     6e-45
+P01921.1 RecName: Full=H-2 class II histocompatibility antigen, A...  143     1e-36
+Q9TVC8.1 RecName: Full=BoLa class II histocompatibility antigen, ...  141     8e-36
+P14483.1 RecName: Full=H-2 class II histocompatibility antigen, A...  141     9e-36
+P06342.1 RecName: Full=H-2 class II histocompatibility antigen, A...  138     7e-35
+P15982.1 RecName: Full=SLA class II histocompatibility antigen, D...  138     9e-35
+P15983.1 RecName: Full=SLA class II histocompatibility antigen, D...  135     1e-33
+P06345.1 RecName: Full=H-2 class II histocompatibility antigen, A...  134     2e-33
+P06343.1 RecName: Full=H-2 class II histocompatibility antigen, A...  133     6e-33
+P29826.1 RecName: Full=Rano class II histocompatibility antigen, ...  128     3e-31
+P05538.2 RecName: Full=HLA class II histocompatibility antigen, D...  127     5e-31
+P06346.1 RecName: Full=H-2 class II histocompatibility antigen, A...  126     7e-31
+P06344.1 RecName: Full=H-2 class II histocompatibility antigen, A...  125     2e-30
+P06341.1 RecName: Full=Rano class II histocompatibility antigen, ...  121     2e-29
+P18469.1 RecName: Full=H-2 class II histocompatibility antigen, I...  122     3e-29
+P01911.2 RecName: Full=HLA class II histocompatibility antigen, D...  120     2e-28
+P18470.1 RecName: Full=DLA class II histocompatibility antigen, D...  119     3e-28
+P18211.1 RecName: Full=Rano class II histocompatibility antigen, ...  118     1e-27
+Q30154.1 RecName: Full=HLA class II histocompatibility antigen, D...  116     4e-27
+P04230.1 RecName: Full=H-2 class II histocompatibility antigen, E...  115     7e-27
+P13762.2 RecName: Full=HLA class II histocompatibility antigen, D...  115     7e-27
+P01915.1 RecName: Full=H-2 class II histocompatibility antigen, E...  115     1e-26
+P04440.1 RecName: Full=HLA class II histocompatibility antigen, D...  114     1e-26
+P18467.1 RecName: Full=Patr class II histocompatibility antigen, ...  113     6e-26
+P13765.1 RecName: Full=HLA class II histocompatibility antigen, D...  113     6e-26
+P20040.1 RecName: Full=H-2 class II histocompatibility antigen, E...  111     2e-25
+P04231.1 RecName: Full=H-2 class II histocompatibility antigen, E...  108     7e-25
+P18468.1 RecName: Full=H-2 class II histocompatibility antigen, I...  108     1e-24
+P79483.1 RecName: Full=HLA class II histocompatibility antigen, D...  107     7e-24
+P23068.1 RecName: Full=Class II histocompatibility antigen, B-L b...  93.2    2e-19
+P15464.1 RecName: Full=SMH class II histocompatibility antigen, b...  92.4    5e-19
+P20756.1 RecName: Full=RLA class II histocompatibility antigen, D...  88.2    1e-17
+Q8YDH0.1 RecName: Full=Putative peptide import ATP-binding protei...  37.7    1.1  
+Q2YJJ9.1 RecName: Full=Putative peptide import ATP-binding protei...  37.7    1.2  
 
 
->P01308.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+>P01920.2 RecName: Full=HLA class II histocompatibility antigen, DQ beta 
+1 chain; AltName: Full=MHC class II antigen DQB1; Flags: Precursor 
 [Homo sapiens]
- Q6YK33.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Gorilla gorilla gorilla]
-Length=110
+Length=261
 
- Score = 100 bits (249),  Expect = 2e-24, Method: Compositional matrix adjust.
- Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+ Score = 167 bits (423),  Expect = 6e-45, Method: Compositional matrix adjust.
+ Identities = 78/92 (85%), Positives = 81/92 (88%), Gaps = 0/92 (0%)
 
-Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
-Sbjct  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+Query  530  EDFVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQ  589
+            EDFV+QFK MCYFTNGTERVR VTRYIYNREEYARFDSDV VYRAVTP G PDAEYWNSQ
+Sbjct  37   EDFVYQFKAMCYFTNGTERVRYVTRYIYNREEYARFDSDVEVYRAVTPLGPPDAEYWNSQ  96
 
-
->Q8HXV2.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Pongo pygmaeus]
-Length=110
-
- Score = 100 bits (249),  Expect = 3e-24, Method: Compositional matrix adjust.
- Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
-
-Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
-Sbjct  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+Query  590  KEVLEGTRAELDTVCRHNYEVAFRGILQRRGE  621
+            KEVLE TRAELDTVCRHNY++  R  LQRR E
+Sbjct  97   KEVLERTRAELDTVCRHNYQLELRTTLQRRVE  128
 
 
->P30410.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Pan troglodytes]
-Length=110
+ Score = 64.7 bits (156),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 31/36 (86%), Positives = 33/36 (92%), Gaps = 0/36 (0%)
 
- Score = 100 bits (248),  Expect = 3e-24, Method: Compositional matrix adjust.
- Identities = 49/50 (98%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
-
-Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            L VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
-Sbjct  61   LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+Query  17  MSWKKALRIPGDLRVATVTLMLAMLSSLLAEGRDSP  52
+           MSWKKALRIPG LR ATVTLMLAMLS+ +AEGRDSP
+Sbjct  1   MSWKKALRIPGGLRAATVTLMLAMLSTPVAEGRDSP  36
 
 
->P30407.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Chlorocebus aethiops]
-Length=110
+>P01921.1 RecName: Full=H-2 class II histocompatibility antigen, A-D beta 
+chain; Flags: Precursor [Mus musculus]
+Length=265
 
- Score = 98.6 bits (244),  Expect = 1e-23, Method: Compositional matrix adjust.
- Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+ Score = 143 bits (361),  Expect = 1e-36, Method: Compositional matrix adjust.
+ Identities = 70/102 (69%), Positives = 79/102 (77%), Gaps = 2/102 (2%)
 
-Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
-Sbjct  63   VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+Query  532  FVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKE  591
+            FV QFKG CY+TNGT+R+RLVTRYIYNREEY R+DSDVG YRAVT  GRPDAEYWNSQ E
+Sbjct  34   FVVQFKGECYYTNGTQRIRLVTRYIYNREEYVRYDSDVGEYRAVTELGRPDAEYWNSQPE  93
 
-
->P30406.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Macaca fascicularis]
-Length=110
-
- Score = 98.2 bits (243),  Expect = 1e-23, Method: Compositional matrix adjust.
- Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
-
-Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
-Sbjct  63   VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  110
+Query  592  VLEGTRAELDTVCRHNYEVAFRGILQRRGERRRPSVRPTLGR  633
+            +LE TRAE+DT CRHNYE        RR E  +P+V  +L R
+Sbjct  94   ILERTRAEVDTACRHNYEGPETSTSLRRLE--QPNVAISLSR  133
 
 
->P01321.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Canis lupus familiaris]
-Length=110
+>Q9TVC8.1 RecName: Full=BoLa class II histocompatibility antigen, DQB*0101 
+beta chain; Short=DQB1*1A; Flags: Precursor [Bos taurus]
+Length=261
 
- Score = 88.6 bits (218),  Expect = 4e-20, Method: Compositional matrix adjust.
- Identities = 42/50 (84%), Positives = 43/50 (86%), Gaps = 0/50 (0%)
+ Score = 141 bits (355),  Expect = 8e-36, Method: Compositional matrix adjust.
+ Identities = 71/104 (68%), Positives = 80/104 (77%), Gaps = 3/104 (3%)
 
-Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            L V  VEL G PG G LQPLALEG+LQKRGIVEQCCTSICSLYQLENYCN
-Sbjct  61   LQVRDVELAGAPGEGGLQPLALEGALQKRGIVEQCCTSICSLYQLENYCN  110
+Query  530  EDFVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQ  589
+            +DFV+QFKG+CYFTNGTERVR VTRYIYN+EE  RFDSD   YRAVTP GRPDAEY+NSQ
+Sbjct  37   KDFVYQFKGLCYFTNGTERVRYVTRYIYNQEENVRFDSDWDEYRAVTPLGRPDAEYFNSQ  96
 
-
->P01326.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin-2 B 
-chain; Contains: RecName: Full=Insulin-2 A chain; Flags: Precursor 
-[Mus musculus]
-Length=110
-
- Score = 85.5 bits (210),  Expect = 5e-19, Method: Compositional matrix adjust.
- Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
-
-Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
-Sbjct  63   VAQLELGGGPGAGDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
+Query  590  KEVLEGTRAELDTVCRHNYEVAFRGILQRRGERRRPSVRPTLGR  633
+            K+ LE TRAE DTVCRHNY+V      QR+ E   P+V   L R
+Sbjct  97   KDFLEQTRAEADTVCRHNYQVEAPFTWQRQVE---PTVTIFLSR  137
 
 
->P01323.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin-2 B 
-chain; Contains: RecName: Full=Insulin-2 A chain; Flags: Precursor 
+>P14483.1 RecName: Full=H-2 class II histocompatibility antigen, A beta 
+chain; Flags: Precursor [Mus musculus]
+Length=265
+
+ Score = 141 bits (355),  Expect = 9e-36, Method: Compositional matrix adjust.
+ Identities = 63/78 (81%), Positives = 69/78 (88%), Gaps = 0/78 (0%)
+
+Query  532  FVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKE  591
+            FV+QF G CYFTNGT+R+R VTRYIYNREEY R+DSDVG +RAVT  GRPDAEYWNSQ E
+Sbjct  34   FVYQFMGECYFTNGTQRIRYVTRYIYNREEYVRYDSDVGEHRAVTELGRPDAEYWNSQPE  93
+
+Query  592  VLEGTRAELDTVCRHNYE  609
+            +LE TRAELDTVCRHNYE
+Sbjct  94   ILERTRAELDTVCRHNYE  111
+
+
+>P06342.1 RecName: Full=H-2 class II histocompatibility antigen, A-Q beta 
+chain; Flags: Precursor [Mus musculus]
+Length=265
+
+ Score = 138 bits (348),  Expect = 7e-35, Method: Compositional matrix adjust.
+ Identities = 69/102 (68%), Positives = 77/102 (75%), Gaps = 2/102 (2%)
+
+Query  532  FVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKE  591
+            FV Q KG CYFTNGT+R+R V RYIYNREE+ RFDSDVG YRAVT  GRPDAEYWNSQ E
+Sbjct  34   FVAQLKGECYFTNGTQRIRSVNRYIYNREEWVRFDSDVGEYRAVTELGRPDAEYWNSQPE  93
+
+Query  592  VLEGTRAELDTVCRHNYEVAFRGILQRRGERRRPSVRPTLGR  633
+            +LE TRAE+DTVCRHNYE        RR E  +P+V  +L R
+Sbjct  94   ILERTRAEVDTVCRHNYEGVETHTSLRRLE--QPNVAISLSR  133
+
+
+>P15982.1 RecName: Full=SLA class II histocompatibility antigen, DQ haplotype 
+C beta chain; Flags: Precursor [Sus scrofa]
+Length=261
+
+ Score = 138 bits (347),  Expect = 9e-35, Method: Compositional matrix adjust.
+ Identities = 66/106 (62%), Positives = 80/106 (75%), Gaps = 7/106 (7%)
+
+Query  530  EDFVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQ  589
+            +DFVFQFKG CYF NGT+RVR V RYIYN+EE+ RFDSDVG +RAVTP GRP+A+ WNSQ
+Sbjct  37   QDFVFQFKGECYFYNGTQRVRGVARYIYNQEEHLRFDSDVGEFRAVTPLGRPEADSWNSQ  96
+
+Query  590  KEVLEGTRAELDTVCRHNYEVAFRGILQRRGERRRPSVRPTLGRDP  635
+            K+VLE  RAE+D VC+HNY++     LQRR       V+PT+   P
+Sbjct  97   KDVLEQMRAEVDRVCKHNYQIEEGTTLQRR-------VQPTVTISP  135
+
+
+ Score = 37.4 bits (85),  Expect = 1.1, Method: Compositional matrix adjust.
+ Identities = 19/36 (53%), Positives = 25/36 (69%), Gaps = 0/36 (0%)
+
+Query  17  MSWKKALRIPGDLRVATVTLMLAMLSSLLAEGRDSP  52
+           MS   ALR+P  L  A +T+ML +L + +AEGRDSP
+Sbjct  1   MSGMVALRLPRGLWTAALTVMLVVLGAPVAEGRDSP  36
+
+
+>P15983.1 RecName: Full=SLA class II histocompatibility antigen, DQ haplotype 
+D beta chain; Flags: Precursor [Sus scrofa]
+Length=258
+
+ Score = 135 bits (339),  Expect = 1e-33, Method: Compositional matrix adjust.
+ Identities = 66/106 (62%), Positives = 77/106 (73%), Gaps = 7/106 (7%)
+
+Query  530  EDFVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQ  589
+            +DFV QFKG CYF NGT+RV  V RYIYN+EE+ RFDSD+G YRAVTP GRPDA+Y N Q
+Sbjct  34   QDFVVQFKGECYFYNGTQRVWSVDRYIYNQEEFLRFDSDMGEYRAVTPLGRPDADYLNGQ  93
+
+Query  590  KEVLEGTRAELDTVCRHNYEVAFRGILQRRGERRRPSVRPTLGRDP  635
+            KE LE  RAELDTVC+HNY++     LQRR       V+PT+   P
+Sbjct  94   KEALEQKRAELDTVCKHNYQIEEGTTLQRR-------VQPTVTISP  132
+
+
+ Score = 36.2 bits (82),  Expect = 2.8, Method: Compositional matrix adjust.
+ Identities = 17/31 (55%), Positives = 23/31 (74%), Gaps = 0/31 (0%)
+
+Query  22  ALRIPGDLRVATVTLMLAMLSSLLAEGRDSP  52
+           ALR+P  L  A +T+ML +L + +AEGRDSP
+Sbjct  3   ALRLPRGLWTAALTVMLVVLGAPVAEGRDSP  33
+
+
+>P06345.1 RecName: Full=H-2 class II histocompatibility antigen, A-S beta 
+chain; Flags: Precursor [Mus musculus]
+Length=263
+
+ Score = 134 bits (337),  Expect = 2e-33, Method: Compositional matrix adjust.
+ Identities = 70/102 (69%), Positives = 77/102 (75%), Gaps = 4/102 (4%)
+
+Query  532  FVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKE  591
+            FVFQFKG CYFTNGT+R+R V RYIYNREEY RFDSDVG YRAVT  GRPDAEY+N  K+
+Sbjct  34   FVFQFKGECYFTNGTQRIRSVDRYIYNREEYLRFDSDVGEYRAVTELGRPDAEYYN--KQ  91
+
+Query  592  VLEGTRAELDTVCRHNYEVAFRGILQRRGERRRPSVRPTLGR  633
+             LE TRAELDTVCRHNYE        RR E  +P+V  +L R
+Sbjct  92   YLEQTRAELDTVCRHNYEGVETHTSLRRLE--QPNVVISLSR  131
+
+
+>P06343.1 RecName: Full=H-2 class II histocompatibility antigen, A-K beta 
+chain; Flags: Precursor [Mus musculus]
+Length=263
+
+ Score = 133 bits (334),  Expect = 6e-33, Method: Compositional matrix adjust.
+ Identities = 70/102 (69%), Positives = 76/102 (75%), Gaps = 4/102 (4%)
+
+Query  532  FVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKE  591
+            FV QF+  CYFTNGT+R+RLV RYIYNREEY RFDSDVG YRAVT  GRPDAEYWN  K+
+Sbjct  34   FVHQFQPFCYFTNGTQRIRLVIRYIYNREEYVRFDSDVGEYRAVTELGRPDAEYWN--KQ  91
+
+Query  592  VLEGTRAELDTVCRHNYEVAFRGILQRRGERRRPSVRPTLGR  633
+             LE TRAELDTVCRHNYE        RR E  +PSV  +L R
+Sbjct  92   YLERTRAELDTVCRHNYEKTETPTSLRRLE--QPSVVISLSR  131
+
+
+>P29826.1 RecName: Full=Rano class II histocompatibility antigen, B-1 beta 
+chain; AltName: Full=RT1 class II histocompatibility antigen, 
+B-1 beta chain; AltName: Full=RT1.B-beta(1); Flags: Precursor 
 [Rattus norvegicus]
-Length=110
+Length=263
 
- Score = 85.1 bits (209),  Expect = 6e-19, Method: Compositional matrix adjust.
- Identities = 40/48 (83%), Positives = 43/48 (90%), Gaps = 0/48 (0%)
+ Score = 128 bits (321),  Expect = 3e-31, Method: Compositional matrix adjust.
+ Identities = 65/103 (63%), Positives = 79/103 (77%), Gaps = 4/103 (4%)
 
-Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            V Q+ELGGGPGAG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
-Sbjct  63   VAQLELGGGPGAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
+Query  531  DFVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQK  590
+            DFV+QFKG+CY+TNGT+R+R V RYIYN+EEY R+DSDVG YRA+T  GRP AEY+N  K
+Sbjct  33   DFVYQFKGLCYYTNGTQRIRDVIRYIYNQEEYLRYDSDVGEYRALTELGRPSAEYFN--K  90
 
+Query  591  EVLEGTRAELDTVCRHNYEVAFRGILQRRGERRRPSVRPTLGR  633
+            + LE TRAELDTVCRHNYE +      RR E  +P+V  +L R
+Sbjct  91   QYLEQTRAELDTVCRHNYEGSEVRTSLRRLE--QPNVAISLSR  131
 
->P01313.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Cricetulus longicaudatus]
-Length=110
 
- Score = 83.2 bits (204),  Expect = 3e-18, Method: Compositional matrix adjust.
- Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
-
-Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            V Q+ELGGGPGA  LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
-Sbjct  63   VAQLELGGGPGADDLQTLALEVAQQKRGIVDQCCTSICSLYQLENYCN  110
-
-
->P01322.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin-1 B 
-chain; Contains: RecName: Full=Insulin-1 A chain; Flags: Precursor 
-[Rattus norvegicus]
-Length=110
-
- Score = 80.9 bits (198),  Expect = 2e-17, Method: Compositional matrix adjust.
- Identities = 39/48 (81%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
-
-Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            V Q+ELGGGP AG LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
-Sbjct  63   VPQLELGGGPEAGDLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  110
-
-
->Q62587.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Psammomys obesus]
-Length=110
-
- Score = 78.6 bits (192),  Expect = 1e-16, Method: Compositional matrix adjust.
- Identities = 37/46 (80%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
-
-Query  406  QVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            Q+ELGG PGAG L+ LALE + QKRGIVEQCCT ICSLYQLENYCN
-Sbjct  65   QLELGGSPGAGDLRALALEVARQKRGIVEQCCTGICSLYQLENYCN  110
-
-
->P67972.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Aotus trivirgatus]
-Length=108
-
- Score = 75.1 bits (183),  Expect = 3e-15, Method: Compositional matrix adjust.
- Identities = 38/50 (76%), Positives = 42/50 (84%), Gaps = 2/50 (4%)
-
-Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            L VGQVELGGG   GSL PL  EG +QKRG+V+QCCTSICSLYQL+NYCN
-Sbjct  61   LQVGQVELGGGSITGSLPPL--EGPMQKRGVVDQCCTSICSLYQLQNYCN  108
-
-
->P01311.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Oryctolagus cuniculus]
-Length=110
-
- Score = 74.7 bits (182),  Expect = 4e-15, Method: Composition-based stats.
- Identities = 44/50 (88%), Positives = 45/50 (90%), Gaps = 0/50 (0%)
-
-Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            L VGQ ELGGGPGAG LQP ALE +LQKRGIVEQCCTSICSLYQLENYCN
-Sbjct  61   LQVGQAELGGGPGAGGLQPSALELALQKRGIVEQCCTSICSLYQLENYCN  110
-
-
->P01325.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin-1 B 
-chain; Contains: RecName: Full=Insulin-1 A chain; Flags: Precursor 
-[Mus musculus]
-Length=108
-
- Score = 74.3 bits (181),  Expect = 4e-15, Method: Compositional matrix adjust.
- Identities = 37/48 (77%), Positives = 40/48 (83%), Gaps = 2/48 (4%)
-
-Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            V Q+ELGG PG   LQ LALE + QKRGIV+QCCTSICSLYQLENYCN
-Sbjct  63   VEQLELGGSPG--DLQTLALEVARQKRGIVDQCCTSICSLYQLENYCN  108
-
-
->P06306.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Felis catus]
-Length=110
-
- Score = 74.3 bits (181),  Expect = 5e-15, Method: Compositional matrix adjust.
- Identities = 35/44 (80%), Positives = 37/44 (84%), Gaps = 0/44 (0%)
-
-Query  408  ELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            ELG  PGAG LQP ALE  LQKRGIVEQCC S+CSLYQLE+YCN
-Sbjct  67   ELGEAPGAGGLQPSALEAPLQKRGIVEQCCASVCSLYQLEHYCN  110
-
-
->P01327.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Chinchilla chinchilla]
-Length=86
-
- Score = 73.2 bits (178),  Expect = 7e-15, Method: Composition-based stats.
- Identities = 35/48 (73%), Positives = 39/48 (81%), Gaps = 0/48 (0%)
-
-Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            VGQ + G  P AG LQPLALE +LQ  GIV+QCCTSIC+LYQLENYCN
-Sbjct  39   VGQADPGVVPEAGRLQPLALEMTLQXXGIVDQCCTSICTLYQLENYCN  86
-
-
->Q91XI3.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Ictidomys tridecemlineatus]
-Length=110
-
- Score = 72.4 bits (176),  Expect = 2e-14, Method: Compositional matrix adjust.
- Identities = 43/47 (91%), Positives = 44/47 (94%), Gaps = 0/47 (0%)
-
-Query  405  GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            GQVELGGGPGAG  QPLALE +LQKRGIVEQCCTSICSLYQLENYCN
-Sbjct  64   GQVELGGGPGAGLPQPLALEMALQKRGIVEQCCTSICSLYQLENYCN  110
-
-
->P21563.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Rodentia sp.]
-Length=108
-
- Score = 62.8 bits (151),  Expect = 5e-11, Method: Compositional matrix adjust.
- Identities = 35/48 (73%), Positives = 38/48 (79%), Gaps = 2/48 (4%)
-
-Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            VGQVELG GPGAGS Q LALE + Q R IV+QC + ICSLYQ ENYCN
-Sbjct  63   VGQVELGAGPGAGSEQTLALEVARQAR-IVQQCTSGICSLYQ-ENYCN  108
-
-
->P17715.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Octodon degus]
-Length=109
-
- Score = 62.0 bits (149),  Expect = 1e-10, Method: Compositional matrix adjust.
- Identities = 32/50 (64%), Positives = 36/50 (72%), Gaps = 2/50 (4%)
-
-Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            L V Q ELG    AG LQP ALE  LQKRGIV+QCC +IC+  QL+NYCN
-Sbjct  60   LQVEQAELG--LEAGGLQPSALEMILQKRGIVDQCCNNICTFNQLQNYCN  107
-
-
->P01315.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Sus scrofa]
-Length=108
-
- Score = 56.2 bits (134),  Expect = 1e-08, Method: Compositional matrix adjust.
- Identities = 26/28 (93%), Positives = 26/28 (93%), Gaps = 0/28 (0%)
-
-Query  424  EGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            EG  QKRGIVEQCCTSICSLYQLENYCN
-Sbjct  81   EGPPQKRGIVEQCCTSICSLYQLENYCN  108
-
-
->P01310.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Equus caballus]
-Length=86
-
- Score = 54.3 bits (129),  Expect = 3e-08, Method: Composition-based stats.
- Identities = 39/48 (81%), Positives = 40/48 (83%), Gaps = 0/48 (0%)
-
-Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            VG+VELGGGPG G LQPLAL G  Q  GIVEQCCT ICSLYQLENYCN
-Sbjct  39   VGEVELGGGPGLGGLQPLALAGPQQXXGIVEQCCTGICSLYQLENYCN  86
-
-
->P67973.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Balaenoptera physalus]
- P67974.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Physeter catodon]
-Length=51
-
- Score = 53.1 bits (126),  Expect = 3e-08, Method: Composition-based stats.
- Identities = 22/23 (96%), Positives = 22/23 (96%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCCTSICSLYQLENYCN
-Sbjct  29   KAGIVEQCCTSICSLYQLENYCN  51
-
-
->P01329.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Cavia porcellus]
-Length=110
-
- Score = 55.1 bits (131),  Expect = 3e-08, Method: Compositional matrix adjust.
- Identities = 33/48 (69%), Positives = 39/48 (81%), Gaps = 0/48 (0%)
-
-Query  404  VGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            V Q ELG G GAG LQPLALE +LQKRGIV+QCCT  C+ +QL++YCN
-Sbjct  63   VEQTELGMGLGAGGLQPLALEMALQKRGIVDQCCTGTCTRHQLQSYCN  110
-
-
->P01317.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Bos taurus]
-Length=105
-
- Score = 53.5 bits (127),  Expect = 8e-08, Method: Compositional matrix adjust.
- Identities = 22/24 (92%), Positives = 23/24 (96%), Gaps = 0/24 (0%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
-            QKRGIVEQCC S+CSLYQLENYCN
-Sbjct  82   QKRGIVEQCCASVCSLYQLENYCN  105
-
-
->P01324.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Acomys cahirinus]
-Length=51
-
- Score = 52.0 bits (123),  Expect = 8e-08, Method: Composition-based stats.
- Identities = 21/23 (91%), Positives = 22/23 (96%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIV+QCCTSICSLYQLENYCN
-Sbjct  29   KSGIVDQCCTSICSLYQLENYCN  51
-
-
->P01316.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Elephas maximus]
-Length=51
-
- Score = 50.4 bits (119),  Expect = 2e-07, Method: Composition-based stats.
- Identities = 20/23 (87%), Positives = 21/23 (91%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCCT +CSLYQLENYCN
-Sbjct  29   KTGIVEQCCTGVCSLYQLENYCN  51
-
-
->P01320.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Camelus dromedarius]
-Length=51
-
- Score = 50.1 bits (118),  Expect = 4e-07, Method: Composition-based stats.
- Identities = 20/23 (87%), Positives = 21/23 (91%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC S+CSLYQLENYCN
-Sbjct  29   KAGIVEQCCASVCSLYQLENYCN  51
-
-
->P01318.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Ovis aries]
-Length=105
-
- Score = 51.2 bits (121),  Expect = 5e-07, Method: Compositional matrix adjust.
- Identities = 21/24 (88%), Positives = 22/24 (92%), Gaps = 0/24 (0%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
-            QKRGIVEQCC  +CSLYQLENYCN
-Sbjct  82   QKRGIVEQCCAGVCSLYQLENYCN  105
-
-
->P01314.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Balaenoptera borealis]
-Length=51
-
- Score = 48.9 bits (115),  Expect = 1e-06, Method: Composition-based stats.
- Identities = 20/23 (87%), Positives = 20/23 (87%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC S CSLYQLENYCN
-Sbjct  29   KAGIVEQCCASTCSLYQLENYCN  51
-
-
->P18109.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Didelphis virginiana]
-Length=51
-
- Score = 48.9 bits (115),  Expect = 1e-06, Method: Composition-based stats.
- Identities = 20/23 (87%), Positives = 20/23 (87%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC SICSLYQLE YCN
-Sbjct  29   KAGIVEQCCNSICSLYQLETYCN  51
-
-
->P67971.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Saimiri sciureus]
-Length=51
-
- Score = 48.5 bits (114),  Expect = 1e-06, Method: Composition-based stats.
- Identities = 19/23 (83%), Positives = 22/23 (96%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K G+V+QCCTSICSLYQL+NYCN
-Sbjct  29   KTGVVDQCCTSICSLYQLQNYCN  51
-
-
->P01319.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Capra hircus]
-Length=51
-
- Score = 48.5 bits (114),  Expect = 1e-06, Method: Composition-based stats.
- Identities = 19/23 (83%), Positives = 20/23 (87%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC  +CSLYQLENYCN
-Sbjct  29   KAGIVEQCCAGVCSLYQLENYCN  51
-
-
->P12707.2 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin-2 B 
-chain; Contains: RecName: Full=Insulin-2 A chain; Flags: Precursor 
-[Xenopus laevis]
-Length=106
-
- Score = 50.1 bits (118),  Expect = 1e-06, Method: Composition-based stats.
- Identities = 20/23 (87%), Positives = 21/23 (91%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            KRGIVEQCC S CSL+QLENYCN
-Sbjct  84   KRGIVEQCCHSTCSLFQLENYCN  106
-
-
->P01328.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Hystrix cristata]
-Length=51
-
- Score = 48.1 bits (113),  Expect = 2e-06, Method: Composition-based stats.
- Identities = 18/23 (78%), Positives = 21/23 (91%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIV+QCCT +CSLYQL+NYCN
-Sbjct  29   KAGIVDQCCTGVCSLYQLQNYCN  51
-
-
->P51463.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Selasphorus rufus]
-Length=103
-
- Score = 49.3 bits (116),  Expect = 2e-06, Method: Compositional matrix adjust.
- Identities = 26/46 (57%), Positives = 28/46 (61%), Gaps = 3/46 (7%)
-
-Query  409  LGGGPGAGSLQPLAL---EGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            L  GP  G +  L     E    KRGIVEQCC + CSLYQLENYCN
-Sbjct  58   LVNGPLHGEVGDLPFQQEEFEKVKRGIVEQCCHNTCSLYQLENYCN  103
-
-
->P67970.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Gallus gallus]
-Length=107
-
- Score = 48.9 bits (115),  Expect = 4e-06, Method: Compositional matrix adjust.
- Identities = 20/23 (87%), Positives = 21/23 (91%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            KRGIVEQCC + CSLYQLENYCN
-Sbjct  85   KRGIVEQCCHNTCSLYQLENYCN  107
-
-
->P12706.2 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin-1 B 
-chain; Contains: RecName: Full=Insulin-1 A chain; Flags: Precursor 
-[Xenopus laevis]
-Length=106
-
- Score = 48.5 bits (114),  Expect = 6e-06, Method: Composition-based stats.
- Identities = 25/46 (54%), Positives = 28/46 (61%), Gaps = 3/46 (7%)
-
-Query  409  LGGGPGAGSLQPLAL---EGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            L  GP    L  + L   E    KRGIVEQCC S CSL+QLE+YCN
-Sbjct  61   LVSGPQDNELDGMQLQPQEYQKMKRGIVEQCCHSTCSLFQLESYCN  106
-
-
->P67968.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Meleagris gallopavo]
- P67969.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Struthio camelus]
- P69047.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Trachemys dorbigni]
- P69048.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Trachemys scripta]
-Length=51
-
- Score = 46.2 bits (108),  Expect = 8e-06, Method: Composition-based stats.
- Identities = 19/23 (83%), Positives = 20/23 (87%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC + CSLYQLENYCN
-Sbjct  29   KAGIVEQCCHNTCSLYQLENYCN  51
-
-
->P12703.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Alligator mississippiensis]
-Length=51
-
- Score = 45.4 bits (106),  Expect = 1e-05, Method: Composition-based stats.
- Identities = 19/23 (83%), Positives = 20/23 (87%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC + CSLYQLENYCN
-Sbjct  29   KGGIVEQCCHNTCSLYQLENYCN  51
-
-
->Q9TQY7.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Ornithorhynchus 
-anatinus]
-Length=51
-
- Score = 45.1 bits (105),  Expect = 2e-05, Method: Composition-based stats.
- Identities = 16/25 (64%), Positives = 21/25 (84%), Gaps = 0/25 (0%)
-
-Query  427  LQKRGIVEQCCTSICSLYQLENYCN  451
-            + + GIVE+CC  +CS+YQLENYCN
-Sbjct  27   IPRMGIVEECCKGVCSMYQLENYCN  51
-
-
->P68243.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Cairina moschata]
- P68245.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Anser anser anser]
-Length=51
-
- Score = 45.1 bits (105),  Expect = 2e-05, Method: Composition-based stats.
- Identities = 19/23 (83%), Positives = 20/23 (87%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC + CSLYQLENYCN
-Sbjct  29   KTGIVEQCCENPCSLYQLENYCN  51
-
-
->P01334.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Crotalus atrox]
-Length=51
-
- Score = 44.7 bits (104),  Expect = 3e-05, Method: Composition-based stats.
- Identities = 18/23 (78%), Positives = 20/23 (87%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            + GIVEQCC + CSLYQLENYCN
-Sbjct  29   RSGIVEQCCENTCSLYQLENYCN  51
-
-
->P01333.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Anas platyrhynchos]
-Length=81
-
- Score = 45.1 bits (105),  Expect = 5e-05, Method: Composition-based stats.
- Identities = 24/44 (55%), Positives = 27/44 (61%), Gaps = 1/44 (2%)
-
-Query  409  LGGGPGAGSLQPLALEGS-LQKRGIVEQCCTSICSLYQLENYCN  451
-            L  GP  G +  L  +    Q  GIVEQCC + CSLYQLENYCN
-Sbjct  38   LVNGPLHGEVGELPFQHEEYQXXGIVEQCCENPCSLYQLENYCN  81
-
-
->C0HJI8.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin-2 B 
-chain; Contains: RecName: Full=Insulin-2 A chain [Huso dauricus]
-Length=52
-
- Score = 43.9 bits (102),  Expect = 6e-05, Method: Composition-based stats.
- Identities = 19/23 (83%), Positives = 19/23 (83%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC S CSLY LENYCN
-Sbjct  30   KVGIVEQCCHSPCSLYDLENYCN  52
-
-
->P01342.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Myxine glutinosa]
-Length=115
-
- Score = 45.8 bits (107),  Expect = 6e-05, Method: Composition-based stats.
- Identities = 18/23 (78%), Positives = 19/23 (83%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            KRGIVEQCC   CS+Y LENYCN
-Sbjct  93   KRGIVEQCCHKRCSIYDLENYCN  115
-
-
->P81423.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Acipenser gueldenstaedtii]
-Length=52
-
- Score = 43.9 bits (102),  Expect = 6e-05, Method: Composition-based stats.
- Identities = 19/23 (83%), Positives = 19/23 (83%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC S CSLY LENYCN
-Sbjct  30   KVGIVEQCCHSPCSLYDLENYCN  52
-
-
->P12708.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Ptyas dhumnades]
-Length=51
-
- Score = 43.5 bits (101),  Expect = 7e-05, Method: Composition-based stats.
- Identities = 17/23 (74%), Positives = 20/23 (87%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            + GIVEQCC + CSLY+LENYCN
-Sbjct  29   RTGIVEQCCENTCSLYELENYCN  51
-
-
->C0HJI7.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin-1 B 
-chain; Contains: RecName: Full=Insulin-1 A chain [Huso dauricus]
-Length=58
-
- Score = 43.5 bits (101),  Expect = 8e-05, Method: Composition-based stats.
- Identities = 19/23 (83%), Positives = 19/23 (83%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC S CSLY LENYCN
-Sbjct  36   KVGIVEQCCHSPCSLYDLENYCN  58
-
-
->P13190.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Callorhinchus milii]
-Length=89
-
- Score = 43.5 bits (101),  Expect = 2e-04, Method: Compositional matrix adjust.
- Identities = 20/29 (69%), Positives = 21/29 (72%), Gaps = 0/29 (0%)
-
-Query  423  LEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            L GS  KRGIVEQCC + CSL  LE YCN
-Sbjct  61   LAGSKMKRGIVEQCCHNTCSLVNLEGYCN  89
-
-
->P01335.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Cyprinus carpio]
-Length=108
-
- Score = 43.5 bits (101),  Expect = 3e-04, Method: Compositional matrix adjust.
- Identities = 16/25 (64%), Positives = 22/25 (88%), Gaps = 0/25 (0%)
-
-Query  427  LQKRGIVEQCCTSICSLYQLENYCN  451
-            ++KRGIVEQCC   CS+++L+NYCN
-Sbjct  84   IRKRGIVEQCCHKPCSIFELQNYCN  108
-
-
->P09476.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Atractosteus spatula]
-Length=52
-
- Score = 42.0 bits (97),  Expect = 3e-04, Method: Composition-based stats.
- Identities = 16/23 (70%), Positives = 19/23 (83%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC   C++Y+LENYCN
-Sbjct  30   KVGIVEQCCHKPCTIYELENYCN  52
-
-
->C0HJI5.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin-1 B 
-chain; Contains: RecName: Full=Insulin-1 A chain [Thunnus orientalis]
-Length=50
-
- Score = 41.6 bits (96),  Expect = 3e-04, Method: Composition-based stats.
- Identities = 16/22 (73%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
-
-Query  430  RGIVEQCCTSICSLYQLENYCN  451
-            RGIVEQCC   CS+++LENYCN
-Sbjct  29   RGIVEQCCHRPCSMFELENYCN  50
-
-
->O73727.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Danio rerio]
-Length=108
-
- Score = 43.1 bits (100),  Expect = 4e-04, Method: Compositional matrix adjust.
- Identities = 16/25 (64%), Positives = 22/25 (88%), Gaps = 0/25 (0%)
-
-Query  427  LQKRGIVEQCCTSICSLYQLENYCN  451
-            ++KRGIVEQCC   CS+++L+NYCN
-Sbjct  84   IRKRGIVEQCCHKPCSIFELQNYCN  108
-
-
->C0HJI2.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin-1 B 
-chain; Contains: RecName: Full=Insulin-1 A chain [Katsuwonus 
-pelamis]
-Length=50
-
- Score = 41.6 bits (96),  Expect = 4e-04, Method: Composition-based stats.
- Identities = 16/22 (73%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
-
-Query  430  RGIVEQCCTSICSLYQLENYCN  451
-            RGIVEQCC   CS+++LENYCN
-Sbjct  29   RGIVEQCCHRPCSIFELENYCN  50
-
-
->P68987.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Petromyzon marinus]
- P68988.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Lampetra fluviatilis]
-Length=57
-
- Score = 40.4 bits (93),  Expect = 0.001, Method: Composition-based stats.
- Identities = 16/23 (70%), Positives = 18/23 (78%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC   CS+Y +ENYCN
-Sbjct  35   KTGIVEQCCHRKCSIYDMENYCN  57
-
-
->P0C236.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Polypterus senegalus]
-Length=52
-
- Score = 40.0 bits (92),  Expect = 0.001, Method: Composition-based stats.
- Identities = 17/23 (74%), Positives = 18/23 (78%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC + CSLY  ENYCN
-Sbjct  30   KMGIVEQCCDTPCSLYDPENYCN  52
-
-
->Q9W7R2.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Verasper moseri]
-Length=115
-
- Score = 41.6 bits (96),  Expect = 0.002, Method: Composition-based stats.
- Identities = 15/23 (65%), Positives = 19/23 (83%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            KRGIVEQCC   C+++ L+NYCN
-Sbjct  93   KRGIVEQCCHKPCNIFDLQNYCN  115
-
-
->P69045.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Lophius americanus]
-Length=116
-
- Score = 41.2 bits (95),  Expect = 0.002, Method: Composition-based stats.
- Identities = 15/23 (65%), Positives = 19/23 (83%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            KRGIVEQCC   C+++ L+NYCN
-Sbjct  94   KRGIVEQCCHRPCNIFDLQNYCN  116
-
-
->P04667.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Oncorhynchus keta]
-Length=105
-
- Score = 40.8 bits (94),  Expect = 0.002, Method: Composition-based stats.
- Identities = 15/23 (65%), Positives = 19/23 (83%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            KRGIVEQCC   C+++ L+NYCN
-Sbjct  83   KRGIVEQCCHKPCNIFDLQNYCN  105
-
-
->Q98TA8.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Pantodon buchholzi]
-Length=110
-
- Score = 40.8 bits (94),  Expect = 0.003, Method: Composition-based stats.
- Identities = 18/33 (55%), Positives = 24/33 (73%), Gaps = 1/33 (3%)
-
-Query  420  PLALEGSLQ-KRGIVEQCCTSICSLYQLENYCN  451
-            P   +G L+ KRGIVEQCC   C+++ L+NYCN
-Sbjct  78   PYKDQGDLKVKRGIVEQCCHHPCNIFDLQNYCN  110
-
-
->P42633.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Anguilla rostrata]
-Length=51
-
- Score = 38.9 bits (89),  Expect = 0.003, Method: Composition-based stats.
- Identities = 15/23 (65%), Positives = 18/23 (78%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC   CS++ L+NYCN
-Sbjct  29   KDGIVEQCCHKPCSIFDLQNYCN  51
-
-
->P29335.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Amia calva]
-Length=52
-
- Score = 38.9 bits (89),  Expect = 0.003, Method: Composition-based stats.
- Identities = 14/23 (61%), Positives = 18/23 (78%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQCC   C++Y++E YCN
-Sbjct  30   KSGIVEQCCLKPCTIYEMEKYCN  52
-
-
->P81025.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Oreochromis niloticus]
-Length=113
-
- Score = 39.7 bits (91),  Expect = 0.006, Method: Compositional matrix adjust.
- Identities = 14/25 (56%), Positives = 20/25 (80%), Gaps = 0/25 (0%)
-
-Query  427  LQKRGIVEQCCTSICSLYQLENYCN  451
-            + KRGIVE+CC   C+++ L+NYCN
-Sbjct  89   MVKRGIVEECCHKPCTIFDLQNYCN  113
-
-
->P01330.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Myocastor coypus]
-Length=51
-
- Score = 37.7 bits (86),  Expect = 0.007, Method: Composition-based stats.
- Identities = 15/21 (71%), Positives = 18/21 (86%), Gaps = 0/21 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN  451
-            GIV+QCCT+ICS  QL +YCN
-Sbjct  30   GIVDQCCTNICSRNQLMSYCN  50
-
-
->P68989.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Oncorhynchus gorbuscha]
- P68990.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Oncorhynchus kisutch]
-Length=50
-
- Score = 37.7 bits (86),  Expect = 0.009, Method: Composition-based stats.
- Identities = 13/22 (59%), Positives = 18/22 (82%), Gaps = 0/22 (0%)
-
-Query  430  RGIVEQCCTSICSLYQLENYCN  451
-            +GIVEQCC   C+++ L+NYCN
-Sbjct  29   KGIVEQCCHKPCNIFDLQNYCN  50
-
-
->P12704.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Squalus acanthias]
-Length=54
-
- Score = 37.4 bits (85),  Expect = 0.011, Method: Composition-based stats.
- Identities = 15/21 (71%), Positives = 16/21 (76%), Gaps = 0/21 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN  451
-            GIVE CC + CSLY LE YCN
-Sbjct  33   GIVEHCCHNTCSLYDLEGYCN  53
-
-
->P69046.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Lophius piscatorius]
-Length=51
-
- Score = 36.6 bits (83),  Expect = 0.020, Method: Composition-based stats.
- Identities = 13/22 (59%), Positives = 18/22 (82%), Gaps = 0/22 (0%)
-
-Query  430  RGIVEQCCTSICSLYQLENYCN  451
-            +GIVEQCC   C+++ L+NYCN
-Sbjct  30   KGIVEQCCHRPCNIFDLQNYCN  51
-
-
->P01331.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Proechimys guairae]
-Length=50
-
- Score = 36.6 bits (83),  Expect = 0.022, Method: Composition-based stats.
- Identities = 15/21 (71%), Positives = 17/21 (81%), Gaps = 0/21 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN  451
-            GIV+QCCT+ICS  QL  YCN
-Sbjct  30   GIVDQCCTNICSRNQLLTYCN  50
-
-
->P81881.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Piaractus mesopotamicus]
-Length=52
-
- Score = 36.2 bits (82),  Expect = 0.026, Method: Composition-based stats.
- Identities = 14/22 (64%), Positives = 18/22 (82%), Gaps = 0/22 (0%)
-
-Query  430  RGIVEQCCTSICSLYQLENYCN  451
-            +GIVEQCC   CS++ L+NYCN
-Sbjct  31   KGIVEQCCHKPCSIFDLQNYCN  52
-
-
->P09477.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Platichthys flesus]
-Length=51
-
- Score = 36.2 bits (82),  Expect = 0.027, Method: Composition-based stats.
- Identities = 13/22 (59%), Positives = 18/22 (82%), Gaps = 0/22 (0%)
-
-Query  430  RGIVEQCCTSICSLYQLENYCN  451
-            +GIVEQCC   C+++ L+NYCN
-Sbjct  30   KGIVEQCCHKPCNIFDLQNYCN  51
-
-
->C0HJI1.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Caranx sexfasciatus]
- C0HJI6.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin-2 B 
-chain; Contains: RecName: Full=Insulin-2 A chain [Thunnus orientalis]
- C0HJT9.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Seriola quinqueradiata]
- P01339.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Thunnus thynnus]
-Length=51
-
- Score = 36.2 bits (82),  Expect = 0.027, Method: Composition-based stats.
- Identities = 13/22 (59%), Positives = 18/22 (82%), Gaps = 0/22 (0%)
-
-Query  430  RGIVEQCCTSICSLYQLENYCN  451
-            +GIVEQCC   C+++ L+NYCN
-Sbjct  30   KGIVEQCCHKPCNIFDLQNYCN  51
-
-
->P41522.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin A chain; 
-Flags: Precursor [Anguilla anguilla]
-Length=53
-
- Score = 36.2 bits (82),  Expect = 0.031, Method: Composition-based stats.
- Identities = 13/21 (62%), Positives = 17/21 (81%), Gaps = 0/21 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN  451
-            GIVEQCC   C+++ L+NYCN
-Sbjct  33   GIVEQCCHKPCNIFDLQNYCN  53
-
-
->C0HJI4.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Pagrus major]
- C0HJU0.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Platax teira]
-Length=51
-
- Score = 35.8 bits (81),  Expect = 0.035, Method: Composition-based stats.
- Identities = 13/22 (59%), Positives = 18/22 (82%), Gaps = 0/22 (0%)
-
-Query  430  RGIVEQCCTSICSLYQLENYCN  451
-            +GIVEQCC   C+++ L+NYCN
-Sbjct  30   KGIVEQCCHRPCNIFDLQNYCN  51
-
-
->C0HJI3.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin-2 B 
-chain; Contains: RecName: Full=Insulin-2 A chain [Katsuwonus 
-pelamis]
-Length=51
-
- Score = 35.8 bits (81),  Expect = 0.039, Method: Composition-based stats.
- Identities = 13/22 (59%), Positives = 18/22 (82%), Gaps = 0/22 (0%)
-
-Query  430  RGIVEQCCTSICSLYQLENYCN  451
-            +GIVEQCC   C+++ L+NYCN
-Sbjct  30   KGIVEQCCHKPCNIFDLQNYCN  51
-
-
->P22334.1 RecName: Full=Insulin-like peptide; Contains: RecName: Full=Insulin-like 
-peptide B chain; Contains: RecName: Full=Insulin-like 
-peptide A chain; Flags: Precursor [Branchiostoma californiense]
-Length=305
-
- Score = 39.7 bits (91),  Expect = 0.040, Method: Compositional matrix adjust.
- Identities = 13/24 (54%), Positives = 20/24 (83%), Gaps = 0/24 (0%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
-            ++RG+VE+CC ++C   QLE+YCN
-Sbjct  78   RRRGLVEECCYNVCDYSQLESYCN  101
-
-
->P12705.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain; Flags: Precursor 
-[Torpedo marmorata]
-Length=70
-
- Score = 36.2 bits (82),  Expect = 0.042, Method: Composition-based stats.
- Identities = 14/21 (67%), Positives = 16/21 (76%), Gaps = 0/21 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN  451
-            GIVE CC + CSL+ LE YCN
-Sbjct  50   GIVEHCCHNTCSLFDLEGYCN  70
-
-
->P01340.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Katsuwonus pelamis]
-Length=50
-
- Score = 35.4 bits (80),  Expect = 0.056, Method: Composition-based stats.
- Identities = 10/24 (42%), Positives = 18/24 (75%), Gaps = 0/24 (0%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
-            Q +GI ++CC   C +++L++YCN
-Sbjct  27   QPKGIHZZCCHKPCBIFZLZBYCN  50
-
-
->P07453.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Myoxocephalus scorpius]
-Length=50
-
- Score = 35.4 bits (80),  Expect = 0.061, Method: Composition-based stats.
- Identities = 14/22 (64%), Positives = 17/22 (77%), Gaps = 0/22 (0%)
-
-Query  430  RGIVEQCCTSICSLYQLENYCN  451
-            +GIVEQCC   C++  LENYCN
-Sbjct  29   KGIVEQCCHRPCNIRVLENYCN  50
-
-
->P01336.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Gadus morhua callarias]
-Length=51
-
- Score = 34.7 bits (78),  Expect = 0.11, Method: Composition-based stats.
- Identities = 12/22 (55%), Positives = 17/22 (77%), Gaps = 0/22 (0%)
-
-Query  430  RGIVEQCCTSICSLYQLENYCN  451
-            +GIV+QCC   C ++ L+NYCN
-Sbjct  30   KGIVDQCCHRPCDIFDLQNYCN  51
-
-
->P83770.1 RecName: Full=Insulin-like protein; Contains: RecName: Full=Insulin-like 
-protein B chain; Contains: RecName: Full=Insulin-like 
-protein A chain [Vigna unguiculata]
-Length=51
-
- Score = 34.7 bits (78),  Expect = 0.11, Method: Composition-based stats.
- Identities = 16/23 (70%), Positives = 17/23 (74%), Gaps = 0/23 (0%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN  451
-            K GIVEQ   S+ SLYQLENY N
-Sbjct  29   KAGIVEQXXASVXSLYQLENYXN  51
-
-
->P68991.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Chimaera monstrosa]
- P68992.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Hydrolagus colliei]
-Length=59
-
- Score = 34.3 bits (77),  Expect = 0.16, Method: Compositional matrix adjust.
- Identities = 15/21 (71%), Positives = 16/21 (76%), Gaps = 0/21 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN  451
-            GIVEQCC + CSL  LE YCN
-Sbjct  39   GIVEQCCHNTCSLANLEGYCN  59
-
-
->P01337.1 RecName: Full=Insulin-1 [Batrachoididae gen. sp.]
-Length=51
-
- Score = 33.5 bits (75),  Expect = 0.26, Method: Composition-based stats.
- Identities = 12/22 (55%), Positives = 17/22 (77%), Gaps = 0/22 (0%)
-
-Query  430  RGIVEQCCTSICSLYQLENYCN  451
-            +GIVEQCC   C ++ L++YCN
-Sbjct  30   KGIVEQCCHRPCDIFDLQSYCN  51
-
-
->P33722.1 RecName: Full=Bombyxin B-2 homolog; Contains: RecName: Full=Bombyxin 
-B-2 homolog B chain; Contains: RecName: Full=Bombyxin 
-B-2 homolog A chain; Flags: Precursor [Samia cynthia]
-Length=91
-
- Score = 34.3 bits (77),  Expect = 0.33, Method: Composition-based stats.
- Identities = 14/31 (45%), Positives = 22/31 (71%), Gaps = 0/31 (0%)
-
-Query  420  PLALEGSLQKRGIVEQCCTSICSLYQLENYC  450
-            P + EG+  KRG+V++CC + C+L  L +YC
-Sbjct  61   PESREGARGKRGVVDECCYNSCTLDVLLSYC  91
-
-
->P33721.1 RecName: Full=Bombyxin B-1 homolog; Contains: RecName: Full=Bombyxin 
-B-1 homolog B chain; Contains: RecName: Full=Bombyxin 
-B-1 homolog A chain; Flags: Precursor [Samia cynthia]
-Length=91
-
- Score = 33.9 bits (76),  Expect = 0.43, Method: Composition-based stats.
- Identities = 15/35 (43%), Positives = 23/35 (66%), Gaps = 0/35 (0%)
-
-Query  416  GSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYC  450
-            G   P + EG+  KRG+V++CC + C+L  L +YC
-Sbjct  57   GWQSPESREGARGKRGVVDECCYNSCTLDVLLSYC  91
-
-
->P26742.1 RecName: Full=Bombyxin B-8; Short=BBX-B8; AltName: Full=4K-prothoracicotropic 
-hormone; Short=4K-PTTH; Contains: RecName: 
-Full=Bombyxin B-8 B chain; Contains: RecName: Full=Bombyxin 
-B-8 A chain; Flags: Precursor [Bombyx mori]
-Length=88
-
- Score = 33.5 bits (75),  Expect = 0.57, Method: Compositional matrix adjust.
- Identities = 20/49 (41%), Positives = 26/49 (53%), Gaps = 0/49 (0%)
-
-Query  402  LAVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYC  450
-            L  G V+ GG   A      A  GS  KRG+V++CC   C+L  L +YC
-Sbjct  39   LCFGVVKRGGAQYAPYFWQKAYLGSRGKRGVVDECCFRPCTLDVLASYC  87
-
-
->O09210.1 RecName: Full=Bombyxin-related peptide B; AltName: Full=ABRP; 
-Contains: RecName: Full=Bombyxin-related peptide B chain B; 
-Contains: RecName: Full=Bombyxin-related peptide B chain A; 
-Flags: Precursor [Agrius convolvuli]
-Length=93
-
- Score = 33.5 bits (75),  Expect = 0.68, Method: Compositional matrix adjust.
- Identities = 14/29 (48%), Positives = 20/29 (69%), Gaps = 0/29 (0%)
-
-Query  422  ALEGSLQKRGIVEQCCTSICSLYQLENYC  450
-            A+ G+  KRG+VE+CC   C+L +L  YC
-Sbjct  65   AMGGNRGKRGVVEECCYQSCTLDELLTYC  93
-
-
->Q90325.1 RecName: Full=Insulin-like growth factor I, adult form; Flags: 
-Precursor [Cyprinus carpio]
-Length=161
-
- Score = 34.7 bits (78),  Expect = 0.70, Method: Compositional matrix adjust.
- Identities = 14/32 (44%), Positives = 19/32 (59%), Gaps = 0/32 (0%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYCN*TQPAGSP  459
-              RGIV++CC   C L +LE YC   +P  +P
-Sbjct  83   HNRGIVDECCFQSCELRRLEMYCAPVKPGKTP  114
-
-
->Q90326.1 RecName: Full=Insulin-like growth factor I, juvenile form; Flags: 
-Precursor [Cyprinus carpio]
-Length=161
-
- Score = 34.7 bits (78),  Expect = 0.71, Method: Compositional matrix adjust.
- Identities = 14/32 (44%), Positives = 19/32 (59%), Gaps = 0/32 (0%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYCN*TQPAGSP  459
-              RGIV++CC   C L +LE YC   +P  +P
-Sbjct  83   HNRGIVDECCFQSCELRRLEMYCAPVKPGKTP  114
-
-
->Q02816.1 RecName: Full=Insulin-like growth factor II; Short=IGF-II; AltName: 
-Full=Erythrotropin; Flags: Precursor [Oncorhynchus mykiss]
-Length=214
-
- Score = 35.0 bits (79),  Expect = 0.73, Method: Compositional matrix adjust.
- Identities = 17/31 (55%), Positives = 19/31 (61%), Gaps = 2/31 (6%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYCN*TQPAGS  458
-            Q RGIVE+CC   C L  LE YC   +PA S
-Sbjct  88   QNRGIVEECCFRSCDLNLLEQYC--AKPAKS  116
-
-
->P01338.1 RecName: Full=Insulin 2; Contains: RecName: Full=Insulin B chain; 
-Contains: RecName: Full=Insulin A chain [Batrachoididae 
-gen. sp.]
-Length=50
-
- Score = 32.0 bits (71),  Expect = 0.88, Method: Composition-based stats.
- Identities = 13/27 (48%), Positives = 16/27 (59%), Gaps = 0/27 (0%)
-
-Query  425  GSLQKRGIVEQCCTSICSLYQLENYCN  451
-            G     GIVEQCC   C  + L++YCN
-Sbjct  24   GFFYNSGIVEQCCHRPCDKFDLQSYCN  50
-
-
->Q08279.1 RecName: Full=Insulin-like growth factor II; Short=IGF-II; AltName: 
-Full=Somatomedin-A; Contains: RecName: Full=Insulin-like 
-growth factor II; Contains: RecName: Full=Preptin; Flags: 
-Precursor [Cavia porcellus]
-Length=128
-
- Score = 33.9 bits (76),  Expect = 0.96, Method: Compositional matrix adjust.
- Identities = 21/44 (48%), Positives = 23/44 (52%), Gaps = 10/44 (23%)
-
-Query  426  SLQKRGIVEQCCTSICSLYQLENYCN*TQPAGSPTPAASCTERD  469
-            S + RGIVE+CC   C L  LE YC         TPA S  ERD
-Sbjct  60   SRRSRGIVEECCFRSCDLALLETYC--------ATPAKS--ERD  93
-
-
->P84775.1 RecName: Full=Insulin-like growth factor I-B; Short=IGF-I''; 
-Short=IGF-IB; AltName: Full=Somatomedin; Flags: Precursor [Xenopus 
-laevis]
-Length=44
-
- Score = 31.6 bits (70),  Expect = 1.1, Method: Composition-based stats.
- Identities = 14/29 (48%), Positives = 18/29 (62%), Gaps = 0/29 (0%)
-
-Query  430  RGIVEQCCTSICSLYQLENYCN*TQPAGS  458
-            RGIV++CC   C   +LE YC   +PA S
-Sbjct  8    RGIVDECCFQSCDFRRLEMYCAPAKPAKS  36
-
-
->P01344.1 RecName: Full=Insulin-like growth factor II; Short=IGF-II; AltName: 
-Full=Somatomedin-A; AltName: Full=T3M-11-derived growth 
-factor; Contains: RecName: Full=Insulin-like growth factor 
-II; Contains: RecName: Full=Insulin-like growth factor II 
-Ala-25 Del; Contains: RecName: Full=Preptin; Flags: Precursor 
-[Homo sapiens]
-Length=180
-
- Score = 34.3 bits (77),  Expect = 1.2, Method: Compositional matrix adjust.
- Identities = 22/48 (46%), Positives = 24/48 (50%), Gaps = 10/48 (21%)
-
-Query  426  SLQKRGIVEQCCTSICSLYQLENYCN*TQPAGSPTPAASCTERDGIKP  473
-            S + RGIVE+CC   C L  LE YC         TPA S  ERD   P
-Sbjct  60   SRRSRGIVEECCFRSCDLALLETYC--------ATPAKS--ERDVSTP  97
-
-
->P07456.4 RecName: Full=Insulin-like growth factor II; Short=IGF-II; AltName: 
-Full=Erythrotropin; Contains: RecName: Full=Insulin-like 
-growth factor II; Contains: RecName: Full=Preptin; Flags: 
-Precursor [Bos taurus]
-Length=179
-
- Score = 34.3 bits (77),  Expect = 1.2, Method: Compositional matrix adjust.
- Identities = 20/42 (48%), Positives = 22/42 (52%), Gaps = 10/42 (24%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYCN*TQPAGSPTPAASCTERD  469
-            + RGIVE+CC   C L  LE YC         TPA S  ERD
-Sbjct  62   RSRGIVEECCFRSCDLALLETYC--------ATPAKS--ERD  93
-
-
->P01346.1 RecName: Full=Insulin-like growth factor II; Short=IGF-II; AltName: 
-Full=Multiplication-stimulating activity; Short=MSA; 
-AltName: Full=Multiplication-stimulating polypeptide; Contains: 
-RecName: Full=Insulin-like growth factor II; Contains: RecName: 
-Full=Preptin; Flags: Precursor [Rattus norvegicus]
-Length=180
-
- Score = 34.3 bits (77),  Expect = 1.3, Method: Compositional matrix adjust.
- Identities = 20/42 (48%), Positives = 22/42 (52%), Gaps = 10/42 (24%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYCN*TQPAGSPTPAASCTERD  469
-            + RGIVE+CC   C L  LE YC         TPA S  ERD
-Sbjct  62   RSRGIVEECCFRSCDLALLETYC--------ATPAKS--ERD  93
-
-
->P09535.1 RecName: Full=Insulin-like growth factor II; AltName: Full=IGF-II; 
-AltName: Full=Multiplication-stimulating polypeptide; 
-Contains: RecName: Full=Insulin-like growth factor II; Contains: 
-RecName: Full=Preptin; Flags: Precursor [Mus musculus]
-Length=180
-
- Score = 33.9 bits (76),  Expect = 1.4, Method: Compositional matrix adjust.
- Identities = 20/42 (48%), Positives = 22/42 (52%), Gaps = 10/42 (24%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYCN*TQPAGSPTPAASCTERD  469
-            + RGIVE+CC   C L  LE YC         TPA S  ERD
-Sbjct  62   RSRGIVEECCFRSCDLALLETYC--------ATPAKS--ERD  93
-
-
->P29519.1 RecName: Full=Bombyxin B-12; Short=BBX-B12; AltName: Full=4K-prothoracicotropic 
-hormone; Short=4K-PTTH; Contains: RecName: 
-Full=Bombyxin B-12 B chain; Contains: RecName: Full=Bombyxin 
-B-12 A chain; Flags: Precursor [Bombyx mori]
-Length=90
-
- Score = 32.3 bits (72),  Expect = 1.5, Method: Composition-based stats.
- Identities = 13/26 (50%), Positives = 18/26 (69%), Gaps = 0/26 (0%)
-
-Query  425  GSLQKRGIVEQCCTSICSLYQLENYC  450
-            GS  KRG+V++CC   C+L  L +YC
-Sbjct  64   GSRGKRGVVDECCFQPCTLDVLLSYC  89
-
-
->P51462.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Coturnix japonica]
-Length=124
-
- Score = 33.1 bits (74),  Expect = 1.5, Method: Compositional matrix adjust.
- Identities = 13/29 (45%), Positives = 18/29 (62%), Gaps = 0/29 (0%)
-
-Query  427  LQKRGIVEQCCTSICSLYQLENYCN*TQP  455
-            L  +GIV++CC   C L +LE YC   +P
-Sbjct  57   LHHKGIVDECCFQSCDLRRLEMYCAPIKP  85
-
-
->P51459.2 RecName: Full=Insulin-like growth factor II; Short=IGF-II; AltName: 
-Full=Somatomedin-A; Contains: RecName: Full=Insulin-like 
-growth factor II; Contains: RecName: Full=Preptin; Flags: 
-Precursor [Equus caballus]
-Length=181
-
- Score = 33.9 bits (76),  Expect = 1.7, Method: Compositional matrix adjust.
- Identities = 21/46 (46%), Positives = 23/46 (50%), Gaps = 10/46 (22%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYCN*TQPAGSPTPAASCTERDGIKP  473
-            + RGIVE+CC   C L  LE YC         TPA S  ERD   P
-Sbjct  62   RSRGIVEECCFRSCDLALLETYC--------ATPAKS--ERDVSTP  97
-
-
->P23695.2 RecName: Full=Insulin-like growth factor II; Short=IGF-II; Contains: 
-RecName: Full=Insulin-like growth factor II; Contains: 
-RecName: Full=Preptin; Flags: Precursor [Sus scrofa]
-Length=181
-
- Score = 33.9 bits (76),  Expect = 1.7, Method: Compositional matrix adjust.
- Identities = 21/46 (46%), Positives = 23/46 (50%), Gaps = 10/46 (22%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYCN*TQPAGSPTPAASCTERDGIKP  473
-            + RGIVE+CC   C L  LE YC         TPA S  ERD   P
-Sbjct  62   RSRGIVEECCFRSCDLALLETYC--------ATPAKS--ERDVSTP  97
-
-
->Q28933.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Suncus murinus]
-Length=81
-
- Score = 32.0 bits (71),  Expect = 1.8, Method: Compositional matrix adjust.
- Identities = 13/26 (50%), Positives = 17/26 (65%), Gaps = 0/26 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN*TQPA  456
-            GIV++CC   C L +LE YC   +PA
-Sbjct  46   GIVDECCFRSCDLRRLEMYCAPLKPA  71
-
-
->P26737.1 RecName: Full=Bombyxin B-3; Short=BBX-B3; AltName: Full=4K-prothoracicotropic 
-hormone; Short=4K-PTTH; Contains: RecName: 
-Full=Bombyxin B-3 B chain; Contains: RecName: Full=Bombyxin 
-B-3 A chain; Flags: Precursor [Bombyx mori]
-Length=90
-
- Score = 32.3 bits (72),  Expect = 1.8, Method: Composition-based stats.
- Identities = 13/26 (50%), Positives = 18/26 (69%), Gaps = 0/26 (0%)
-
-Query  425  GSLQKRGIVEQCCTSICSLYQLENYC  450
-            GS  KRG+V++CC   C+L  L +YC
-Sbjct  64   GSRGKRGVVDECCFRPCTLDVLLSYC  89
-
-
->P17647.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Cavia porcellus]
-Length=130
-
- Score = 33.1 bits (74),  Expect = 1.9, Method: Compositional matrix adjust.
- Identities = 14/28 (50%), Positives = 18/28 (64%), Gaps = 0/28 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN*TQPAGS  458
-            GIV++CC   C L +LE YC   +PA S
-Sbjct  67   GIVDECCFRSCDLRRLEMYCAPLKPAKS  94
-
-
->P26740.1 RecName: Full=Bombyxin B-6; Short=BBX-B6; AltName: Full=4K-prothoracicotropic 
-hormone; Short=4K-PTTH; Contains: RecName: 
-Full=Bombyxin B-6 B chain; Contains: RecName: Full=Bombyxin 
-B-6 A chain; Flags: Precursor [Bombyx mori]
-Length=90
-
- Score = 32.0 bits (71),  Expect = 2.0, Method: Composition-based stats.
- Identities = 13/26 (50%), Positives = 18/26 (69%), Gaps = 0/26 (0%)
-
-Query  425  GSLQKRGIVEQCCTSICSLYQLENYC  450
-            GS  KRG+V++CC   C+L  L +YC
-Sbjct  64   GSRGKRGVVDECCFRPCTLDVLLSYC  89
-
-
->P10764.2 RecName: Full=Insulin-like growth factor II; Short=IGF-II; Contains: 
-RecName: Full=Insulin-like growth factor II; Contains: 
-RecName: Full=Preptin; Flags: Precursor [Ovis aries]
-Length=179
-
- Score = 33.5 bits (75),  Expect = 2.1, Method: Compositional matrix adjust.
- Identities = 13/23 (57%), Positives = 15/23 (65%), Gaps = 0/23 (0%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYC  450
-            + RGIVE+CC   C L  LE YC
-Sbjct  62   RSRGIVEECCFRSCDLALLETYC  84
-
-
->A0A0B5A8P8.1 RecName: Full=Con-Ins Im2; AltName: Full=Insulin 2; Contains: 
-RecName: Full=Con-Ins I2 B chain; Contains: RecName: Full=Con-Ins 
-I2 A chain; Flags: Precursor [Conus imperialis]
-Length=140
-
- Score = 33.1 bits (74),  Expect = 2.2, Method: Compositional matrix adjust.
- Identities = 13/33 (39%), Positives = 20/33 (61%), Gaps = 0/33 (0%)
-
-Query  419  QPLALEGSLQKRGIVEQCCTSICSLYQLENYCN  451
-            +P A  G+   +GI  +CC + C+ Y+L  YCN
-Sbjct  108  EPRATRGTFGSQGITCECCFNQCTYYELLQYCN  140
-
-
->P18254.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Gallus gallus]
-Length=153
-
- Score = 33.1 bits (74),  Expect = 2.4, Method: Composition-based stats.
- Identities = 14/32 (44%), Positives = 19/32 (59%), Gaps = 0/32 (0%)
-
-Query  427  LQKRGIVEQCCTSICSLYQLENYCN*TQPAGS  458
-            L  +GIV++CC   C L +LE YC   +P  S
-Sbjct  86   LHHKGIVDECCFQSCDLRRLEMYCAPIKPPKS  117
-
-
->P26738.1 RecName: Full=Bombyxin B-4; Short=BBX-B4; AltName: Full=4K-prothoracicotropic 
-hormone; Short=4K-PTTH; Contains: RecName: 
-Full=Bombyxin B-4 B chain; Contains: RecName: Full=Bombyxin 
-B-4 A chain; Flags: Precursor [Bombyx mori]
-Length=90
-
- Score = 32.0 bits (71),  Expect = 2.5, Method: Composition-based stats.
- Identities = 13/26 (50%), Positives = 18/26 (69%), Gaps = 0/26 (0%)
-
-Query  425  GSLQKRGIVEQCCTSICSLYQLENYC  450
-            GS  KRG+V++CC   C+L  L +YC
-Sbjct  64   GSRGKRGVVDECCFRPCTLDVLLSYC  89
-
-
->Q68LC0.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Rhinopithecus roxellana]
- Q6IVA5.2 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Ailurus fulgens]
-Length=153
-
- Score = 33.1 bits (74),  Expect = 2.6, Method: Compositional matrix adjust.
- Identities = 14/28 (50%), Positives = 18/28 (64%), Gaps = 0/28 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN*TQPAGS  458
-            GIV++CC   C L +LE YC   +PA S
-Sbjct  90   GIVDECCFRSCDLRRLEMYCAPLKPAKS  117
-
-
->P26734.1 RecName: Full=Bombyxin B-2; Short=BBX-B2; AltName: Full=4K-prothoracicotropic 
-hormone; Short=4K-PTTH; Contains: RecName: 
-Full=Bombyxin B-2 B chain; Contains: RecName: Full=Bombyxin 
-B-2 A chain; Flags: Precursor [Bombyx mori]
-Length=89
-
- Score = 31.6 bits (70),  Expect = 2.7, Method: Composition-based stats.
- Identities = 13/26 (50%), Positives = 18/26 (69%), Gaps = 0/26 (0%)
-
-Query  425  GSLQKRGIVEQCCTSICSLYQLENYC  450
-            GS  KRG+V++CC   C+L  L +YC
-Sbjct  63   GSRGKRGVVDECCFRPCTLDVLLSYC  88
-
-
->P33717.2 RecName: Full=Insulin-like growth factor II; Short=IGF-II; Flags: 
-Precursor [Gallus gallus]
-Length=187
-
- Score = 33.1 bits (74),  Expect = 2.8, Method: Compositional matrix adjust.
- Identities = 16/40 (40%), Positives = 19/40 (48%), Gaps = 0/40 (0%)
-
-Query  411  GGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYC  450
-            G  G    +P+        RGIVE+CC   C L  LE YC
-Sbjct  45   GDRGFYFSRPVGRNNRRINRGIVEECCFRSCDLALLETYC  84
-
-
->P33712.2 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Canis lupus familiaris]
-Length=153
-
- Score = 32.7 bits (73),  Expect = 2.9, Method: Compositional matrix adjust.
- Identities = 14/28 (50%), Positives = 18/28 (64%), Gaps = 0/28 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN*TQPAGS  458
-            GIV++CC   C L +LE YC   +PA S
-Sbjct  90   GIVDECCFRSCDLRRLEMYCAPLKPAKS  117
-
-
->P22618.1 RecName: Full=Insulin-like growth factor; Short=IGF; Flags: Precursor 
-[Myxine glutinosa]
-Length=139
-
- Score = 32.7 bits (73),  Expect = 2.9, Method: Compositional matrix adjust.
- Identities = 19/45 (42%), Positives = 24/45 (53%), Gaps = 10/45 (22%)
-
-Query  429  KRGIVEQCCTSICSLYQLENYCN*TQPAGSPTPAASCTERDGIKP  473
-            ++GIVE+CC   CSL  LE YC        P+ A    ERD  +P
-Sbjct  81   RKGIVEECCFKGCSLRLLEMYC------ARPSKA----ERDVARP  115
-
-
->Q6GUL6.2 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Panthera tigris altaica]
-Length=153
-
- Score = 32.7 bits (73),  Expect = 3.0, Method: Compositional matrix adjust.
- Identities = 14/28 (50%), Positives = 18/28 (64%), Gaps = 0/28 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN*TQPAGS  458
-            GIV++CC   C L +LE YC   +PA S
-Sbjct  90   GIVDECCFRSCDLRRLEMYCAPLKPAKS  117
-
-
->P51458.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Equus caballus]
-Length=122
-
- Score = 32.3 bits (72),  Expect = 3.0, Method: Compositional matrix adjust.
- Identities = 14/28 (50%), Positives = 18/28 (64%), Gaps = 0/28 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN*TQPAGS  458
-            GIV++CC   C L +LE YC   +PA S
-Sbjct  90   GIVDECCFRSCDLRRLEMYCAPLKPAKS  117
-
-
->Q6JLX1.2 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Ailuropoda melanoleuca]
-Length=153
-
- Score = 32.7 bits (73),  Expect = 3.1, Method: Compositional matrix adjust.
- Identities = 14/28 (50%), Positives = 18/28 (64%), Gaps = 0/28 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN*TQPAGS  458
-            GIV++CC   C L +LE YC   +PA S
-Sbjct  90   GIVDECCFRSCDLRRLEMYCAPLKPAKS  117
-
-
->P07455.2 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Bos taurus]
-Length=154
-
- Score = 32.7 bits (73),  Expect = 3.1, Method: Compositional matrix adjust.
- Identities = 14/28 (50%), Positives = 18/28 (64%), Gaps = 0/28 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN*TQPAGS  458
-            GIV++CC   C L +LE YC   +PA S
-Sbjct  91   GIVDECCFRSCDLRRLEMYCAPLKPAKS  118
-
-
->P16545.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Sus scrofa]
-Length=153
-
- Score = 32.7 bits (73),  Expect = 3.3, Method: Compositional matrix adjust.
- Identities = 14/28 (50%), Positives = 18/28 (64%), Gaps = 0/28 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN*TQPAGS  458
-            GIV++CC   C L +LE YC   +PA S
-Sbjct  90   GIVDECCFRSCDLRRLEMYCAPLKPAKS  117
-
-
->P05019.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Mechano growth factor; Short=MGF; AltName: Full=Somatomedin-C; 
+>P05538.2 RecName: Full=HLA class II histocompatibility antigen, DQ beta 
+2 chain; AltName: Full=HLA class II histocompatibility antigen, 
+DX beta chain; AltName: Full=MHC class II antigen DQB2; 
 Flags: Precursor [Homo sapiens]
-Length=195
+Length=268
 
- Score = 33.1 bits (74),  Expect = 3.3, Method: Compositional matrix adjust.
- Identities = 14/28 (50%), Positives = 18/28 (64%), Gaps = 0/28 (0%)
+ Score = 127 bits (320),  Expect = 5e-31, Method: Compositional matrix adjust.
+ Identities = 64/98 (65%), Positives = 72/98 (73%), Gaps = 2/98 (2%)
 
-Query  431  GIVEQCCTSICSLYQLENYCN*TQPAGS  458
-            GIV++CC   C L +LE YC   +PA S
-Sbjct  90   GIVDECCFRSCDLRRLEMYCAPLKPAKS  117
+Query  524  GR*FPAEDFVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDA  583
+             R FP +DF+ QFKGMCYFTNGTERVR V RYIYNREEY RFDSDVG ++AVT  GR   
+Sbjct  32   ARDFP-KDFLVQFKGMCYFTNGTERVRGVARYIYNREEYGRFDSDVGEFQAVTELGR-SI  89
 
-
->P26733.1 RecName: Full=Bombyxin B-1; Short=BBX-B1; AltName: Full=4K-prothoracicotropic 
-hormone; Short=4K-PTTH; Contains: RecName: 
-Full=Bombyxin B-1 B chain; Contains: RecName: Full=Bombyxin 
-B-1 A chain; Flags: Precursor [Bombyx mori]
-Length=89
-
- Score = 31.6 bits (70),  Expect = 3.5, Method: Composition-based stats.
- Identities = 13/26 (50%), Positives = 18/26 (69%), Gaps = 0/26 (0%)
-
-Query  425  GSLQKRGIVEQCCTSICSLYQLENYC  450
-            GS  KRG+V++CC   C+L  L +YC
-Sbjct  63   GSRGKRGVVDECCFRPCTLDVLLSYC  88
+Query  584  EYWNSQKEVLEGTRAELDTVCRHNYEVAFRGILQRRGE  621
+            E WN+ K+ LE  RA +D VCRHNYE   R  LQR+ E
+Sbjct  90   EDWNNYKDFLEQERAAVDKVCRHNYEAELRTTLQRQVE  127
 
 
->P26741.1 RecName: Full=Bombyxin B-7; Short=BBX-B7; AltName: Full=4K-prothoracicotropic 
-hormone; Short=4K-PTTH; Contains: RecName: 
-Full=Bombyxin B-7 B chain; Contains: RecName: Full=Bombyxin 
-B-7 A chain; Flags: Precursor [Bombyx mori]
-Length=90
+ Score = 46.6 bits (109),  Expect = 0.001, Method: Compositional matrix adjust.
+ Identities = 22/36 (61%), Positives = 26/36 (72%), Gaps = 0/36 (0%)
 
- Score = 31.6 bits (70),  Expect = 3.5, Method: Composition-based stats.
- Identities = 13/26 (50%), Positives = 18/26 (69%), Gaps = 0/26 (0%)
-
-Query  425  GSLQKRGIVEQCCTSICSLYQLENYC  450
-            GS  KRG+V++CC   C+L  L +YC
-Sbjct  64   GSRGKRGVVDECCFRPCTLDVLLSYC  89
+Query  17  MSWKKALRIPGDLRVATVTLMLAMLSSLLAEGRDSP  52
+           MSWK AL+IPG    A VT+ML MLS+ +AE RD P
+Sbjct  1   MSWKMALQIPGGFWAAAVTVMLVMLSTPVAEARDFP  36
 
 
->Q9VT51.1 RecName: Full=Probable insulin-like peptide 2; Short=dILP2; AltName: 
-Full=Insulin-related peptide 2; Contains: RecName: Full=Probable 
-insulin-like peptide 2 A chain; Contains: RecName: 
-Full=Probable insulin-like peptide 2 B chain; Flags: Precursor 
-[Drosophila melanogaster]
-Length=137
+>P06346.1 RecName: Full=H-2 class II histocompatibility antigen, A-F beta 
+chain; Flags: Precursor [Mus musculus]
+Length=252
 
- Score = 32.3 bits (72),  Expect = 3.7, Method: Composition-based stats.
- Identities = 11/24 (46%), Positives = 16/24 (67%), Gaps = 0/24 (0%)
+ Score = 126 bits (317),  Expect = 7e-31, Method: Compositional matrix adjust.
+ Identities = 61/78 (78%), Positives = 65/78 (83%), Gaps = 2/78 (3%)
 
-Query  428  QKRGIVEQCCTSICSLYQLENYCN  451
-            Q++GIVE+CC   C +  L  YC+
-Sbjct  110  QRQGIVERCCKKSCDMKALREYCS  133
+Query  532  FVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKE  591
+            FV QFKG CYFTNGT+R+R V RYIYNREEY RFDSDVG YRAVT  GR DAEY+N  K+
+Sbjct  23   FVSQFKGECYFTNGTQRIRSVDRYIYNREEYLRFDSDVGEYRAVTELGRSDAEYYN--KQ  80
 
-
->Q02815.1 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Oncorhynchus mykiss]
-Length=176
-
- Score = 32.7 bits (73),  Expect = 4.0, Method: Compositional matrix adjust.
- Identities = 12/23 (52%), Positives = 15/23 (65%), Gaps = 0/23 (0%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYC  450
-              RGIV++CC   C L +LE YC
-Sbjct  83   HNRGIVDECCFQSCELRRLEMYC  105
+Query  592  VLEGTRAELDTVCRHNYE  609
+             LE TRAELDTVCRHNYE
+Sbjct  81   YLERTRAELDTVCRHNYE  98
 
 
->Q6INW9.2 RecName: Full=Insulin-like growth factor II-B; Short=IGF-II-B; 
-AltName: Full=Insulin-like growth factor 2-B; Flags: Precursor 
-[Xenopus laevis]
-Length=217
+>P06344.1 RecName: Full=H-2 class II histocompatibility antigen, A-U beta 
+chain; Flags: Precursor [Mus musculus]
+Length=263
 
- Score = 33.1 bits (74),  Expect = 4.1, Method: Compositional matrix adjust.
- Identities = 13/21 (62%), Positives = 14/21 (67%), Gaps = 0/21 (0%)
+ Score = 125 bits (315),  Expect = 2e-30, Method: Compositional matrix adjust.
+ Identities = 60/78 (77%), Positives = 66/78 (85%), Gaps = 2/78 (3%)
 
-Query  430  RGIVEQCCTSICSLYQLENYC  450
-            RGIVE+CC   C L  LE YC
-Sbjct  96   RGIVEECCFRSCDLELLETYC  116
+Query  532  FVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKE  591
+            FV QF+  CYFTNGT+R+R VTRYIYNREEY RFDSDVG YRAVT  GRPDAEY+N  K+
+Sbjct  34   FVVQFQPFCYFTNGTQRIRYVTRYIYNREEYLRFDSDVGEYRAVTELGRPDAEYYN--KQ  91
 
-
->Q95222.3 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Oryctolagus cuniculus]
-Length=143
-
- Score = 32.3 bits (72),  Expect = 4.2, Method: Compositional matrix adjust.
- Identities = 13/28 (46%), Positives = 18/28 (64%), Gaps = 0/28 (0%)
-
-Query  431  GIVEQCCTSICSLYQLENYCN*TQPAGS  458
-            GIV++CC   C L +LE YC   +PA +
-Sbjct  74   GIVDECCFRSCDLRRLEMYCAPLKPAKA  101
+Query  592  VLEGTRAELDTVCRHNYE  609
+             LE TRAELDTVCR+NYE
+Sbjct  92   YLERTRAELDTVCRYNYE  109
 
 
->P21808.4 RecName: Full=Bombyxin E-1; Short=BBX-E1; AltName: Full=4K-prothoracicotropic 
-hormone IV; Short=4K-PTTH-IV; AltName: Full=Bombyxin 
-IV; Contains: RecName: Full=Bombyxin E-1 B chain; 
-Contains: RecName: Full=Bombyxin E-1 A chain; Flags: Precursor 
-[Bombyx mori]
-Length=98
+>P06341.1 RecName: Full=Rano class II histocompatibility antigen, A beta 
+chain; AltName: Full=RT1 class II histocompatibility antigen, 
+A beta chain [Rattus norvegicus]
+Length=233
 
- Score = 31.2 bits (69),  Expect = 4.3, Method: Composition-based stats.
- Identities = 11/25 (44%), Positives = 18/25 (72%), Gaps = 0/25 (0%)
+ Score = 121 bits (304),  Expect = 2e-29, Method: Compositional matrix adjust.
+ Identities = 60/103 (58%), Positives = 76/103 (74%), Gaps = 2/103 (2%)
 
-Query  426  SLQKRGIVEQCCTSICSLYQLENYC  450
-            +++KRG+V++CC   C+L  L  YC
-Sbjct  74   AIKKRGVVDECCIQPCTLDVLATYC  98
+Query  531  DFVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQK  590
+            DFV+QFKG+CY+TNGT+R+R V R  YN+EE+ R+DSDVG +RA+T  GR  A+ WNSQK
+Sbjct  1    DFVYQFKGLCYYTNGTQRIRSVDRRFYNQEEFLRYDSDVGEFRALTELGRSWADDWNSQK  60
 
-
->P17085.2 RecName: Full=Insulin-like growth factor I; Short=IGF-I; AltName: 
-Full=Somatomedin; Flags: Precursor [Oncorhynchus kisutch]
-Length=188
-
- Score = 32.3 bits (72),  Expect = 5.3, Method: Compositional matrix adjust.
- Identities = 12/23 (52%), Positives = 15/23 (65%), Gaps = 0/23 (0%)
-
-Query  428  QKRGIVEQCCTSICSLYQLENYC  450
-              RGIV++CC   C L +LE YC
-Sbjct  83   HNRGIVDECCFQSCELRRLEMYC  105
+Query  591  EVLEGTRAELDTVCRHNYEVAFRGILQRRGERRRPSVRPTLGR  633
+            E+LE  RAE+DTVCR+NYE        RR E  RP+V  +L R
+Sbjct  61   EILEQKRAEMDTVCRYNYEETEVPTSLRRLE--RPNVAISLSR  101
 
 
->Q17194.1 RecName: Full=Bombyxin B-10; Short=BBX-B10; AltName: Full=4K-prothoracicotropic 
-hormone; Short=4K-PTTH; Contains: RecName: 
-Full=Bombyxin B-10 B chain; Contains: RecName: Full=Bombyxin 
-B-10 A chain; Flags: Precursor [Bombyx mori]
-Length=87
+>P18469.1 RecName: Full=H-2 class II histocompatibility antigen, I-E beta 
+chain; Flags: Precursor [Mus musculus]
+Length=264
 
- Score = 30.8 bits (68),  Expect = 6.3, Method: Composition-based stats.
- Identities = 12/27 (44%), Positives = 18/27 (67%), Gaps = 0/27 (0%)
+ Score = 122 bits (306),  Expect = 3e-29, Method: Compositional matrix adjust.
+ Identities = 56/82 (68%), Positives = 64/82 (78%), Gaps = 0/82 (0%)
 
-Query  425  GSLQKRGIVEQCCTSICSLYQLENYCN  451
-            GS  KR +V++CC   C+L  L +YC+
-Sbjct  61   GSRGKRSVVDECCFRPCTLDVLLSYCD  87
+Query  540  CYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKEVLEGTRAE  599
+            C+F NGT+RVR + RYIYNREEY RFDSDVG YRAVT  GRPDAEYWNSQ E+LE  RA 
+Sbjct  42   CHFYNGTQRVRFLERYIYNREEYVRFDSDVGEYRAVTELGRPDAEYWNSQPEILEDARAT  101
+
+Query  600  LDTVCRHNYEVAFRGILQRRGE  621
+            +DT CRHNYE+    ++ RR E
+Sbjct  102  VDTYCRHNYEIFDNFLVPRRVE  123
+
+
+>P01911.2 RecName: Full=HLA class II histocompatibility antigen, DRB1 beta 
+chain; AltName: Full=Human leukocyte antigen DRB1; Short=HLA-DRB1; 
+Flags: Precursor [Homo sapiens]
+Length=266
+
+ Score = 120 bits (300),  Expect = 2e-28, Method: Compositional matrix adjust.
+ Identities = 56/88 (64%), Positives = 66/88 (75%), Gaps = 0/88 (0%)
+
+Query  532  FVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKE  591
+            F++Q K  C+F NGTERVR + RY YN+EE  RFDSDVG +RAVT  GRPDAEYWNSQK+
+Sbjct  36   FLWQPKRECHFFNGTERVRFLDRYFYNQEESVRFDSDVGEFRAVTELGRPDAEYWNSQKD  95
+
+Query  592  VLEGTRAELDTVCRHNYEVAFRGILQRR  619
+            +LE  RA +DT CRHNY V     +QRR
+Sbjct  96   ILEQARAAVDTYCRHNYGVVESFTVQRR  123
+
+
+>P18470.1 RecName: Full=DLA class II histocompatibility antigen, DR-1 beta 
+chain; Flags: Precursor [Canis lupus familiaris]
+Length=266
+
+ Score = 119 bits (298),  Expect = 3e-28, Method: Compositional matrix adjust.
+ Identities = 57/85 (67%), Positives = 63/85 (74%), Gaps = 0/85 (0%)
+
+Query  537  KGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKEVLEGT  596
+            K  CYFTNGTERVR V RYI+NREE+ RFDSDVG +RAVT  GRP AE WN QKE+LE  
+Sbjct  41   KSECYFTNGTERVRFVERYIHNREEFVRFDSDVGEFRAVTELGRPVAESWNGQKEILEQE  100
+
+Query  597  RAELDTVCRHNYEVAFRGILQRRGE  621
+            RA +DT CRHNY V     +QRR E
+Sbjct  101  RATVDTYCRHNYGVIESFTVQRRVE  125
+
+
+>P18211.1 RecName: Full=Rano class II histocompatibility antigen, D-1 beta 
+chain; AltName: Full=RT1 class II histocompatibility antigen, 
+D-1 beta chain; Flags: Precursor [Rattus norvegicus]
+Length=264
+
+ Score = 118 bits (295),  Expect = 1e-27, Method: Compositional matrix adjust.
+ Identities = 52/84 (62%), Positives = 64/84 (76%), Gaps = 0/84 (0%)
+
+Query  528  PAEDFVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWN  587
+            P   F+ Q KG C+F NGT+RVR + RYIYNREEY RFDSDVG +RAVT  GRP AEY+N
+Sbjct  30   PTPRFLEQVKGECHFYNGTQRVRFLARYIYNREEYTRFDSDVGEFRAVTELGRPSAEYYN  89
+
+Query  588  SQKEVLEGTRAELDTVCRHNYEVA  611
+             QKE +E  RA +DT C+H+YE++
+Sbjct  90   KQKEYMEQLRATVDTACKHDYEIS  113
+
+
+>Q30154.1 RecName: Full=HLA class II histocompatibility antigen, DR beta 
+5 chain; AltName: Full=DR beta-5; AltName: Full=DR2-beta-2; 
+AltName: Full=Dw2; AltName: Full=MHC class II antigen DRB5; 
+Flags: Precursor [Homo sapiens]
+Length=266
+
+ Score = 116 bits (290),  Expect = 4e-27, Method: Compositional matrix adjust.
+ Identities = 58/90 (64%), Positives = 65/90 (72%), Gaps = 0/90 (0%)
+
+Query  532  FVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKE  591
+            F+ Q K  C+F NGTERVR + R IYN+EE  RFDSDVG YRAVT  GRPDAEYWNSQK+
+Sbjct  36   FLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKD  95
+
+Query  592  VLEGTRAELDTVCRHNYEVAFRGILQRRGE  621
+             LE  RA +DT CRHNY V     +QRR E
+Sbjct  96   FLEDRRAAVDTYCRHNYGVGESFTVQRRVE  125
+
+
+>P04230.1 RecName: Full=H-2 class II histocompatibility antigen, E-B beta 
+chain; Flags: Precursor [Mus musculus]
+Length=264
+
+ Score = 115 bits (288),  Expect = 7e-27, Method: Compositional matrix adjust.
+ Identities = 54/85 (64%), Positives = 65/85 (76%), Gaps = 0/85 (0%)
+
+Query  537  KGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKEVLEGT  596
+            K  C+F NGT+RVRL+ RY YN EE  RFDSDVG + AVT  GRPDAE WNSQ E LE  
+Sbjct  39   KSECHFYNGTQRVRLLERYFYNLEENLRFDSDVGEFHAVTELGRPDAENWNSQPEFLEQK  98
+
+Query  597  RAELDTVCRHNYEVAFRGILQRRGE  621
+            RAE+DTVCRHNYE++ + +++RR E
+Sbjct  99   RAEVDTVCRHNYEISDKFLVRRRVE  123
+
+
+>P13762.2 RecName: Full=HLA class II histocompatibility antigen, DR beta 
+4 chain; AltName: Full=MHC class II antigen DRB4; Flags: Precursor 
+[Homo sapiens]
+Length=266
+
+ Score = 115 bits (288),  Expect = 7e-27, Method: Compositional matrix adjust.
+ Identities = 55/88 (63%), Positives = 68/88 (77%), Gaps = 0/88 (0%)
+
+Query  532  FVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKE  591
+            F+ Q K  C+F NGTERV  + RYIYN+EEYAR++SD+G Y+AVT  GRPDAEYWNSQK+
+Sbjct  36   FLEQAKCECHFLNGTERVWNLIRYIYNQEEYARYNSDLGEYQAVTELGRPDAEYWNSQKD  95
+
+Query  592  VLEGTRAELDTVCRHNYEVAFRGILQRR  619
+            +LE  RAE+DT CR+NY V     +QRR
+Sbjct  96   LLERRRAEVDTYCRYNYGVVESFTVQRR  123
+
+
+>P01915.1 RecName: Full=H-2 class II histocompatibility antigen, E-D beta 
+chain; Flags: Precursor [Mus musculus]
+Length=264
+
+ Score = 115 bits (287),  Expect = 1e-26, Method: Compositional matrix adjust.
+ Identities = 53/90 (59%), Positives = 66/90 (73%), Gaps = 0/90 (0%)
+
+Query  532  FVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKE  591
+            F+      C+F NGT+ VR + R+IYNREE  RFDSDVG YRAVT  GRPDAE WNSQ E
+Sbjct  34   FLEYVTSECHFYNGTQHVRFLERFIYNREENLRFDSDVGEYRAVTELGRPDAENWNSQPE  93
+
+Query  592  VLEGTRAELDTVCRHNYEVAFRGILQRRGE  621
+            +LE  RA +DT CRHNYE++ + +++RR E
+Sbjct  94   ILEDARASVDTYCRHNYEISDKFLVRRRVE  123
+
+
+>P04440.1 RecName: Full=HLA class II histocompatibility antigen, DP beta 
+1 chain; AltName: Full=HLA class II histocompatibility antigen, 
+DP(W4) beta chain; AltName: Full=MHC class II antigen 
+DPB1; Flags: Precursor [Homo sapiens]
+Length=258
+
+ Score = 114 bits (286),  Expect = 1e-26, Method: Compositional matrix adjust.
+ Identities = 59/102 (58%), Positives = 73/102 (72%), Gaps = 3/102 (3%)
+
+Query  522  LTGR*FPAEDFVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRP  581
+            + GR  P E+++FQ +  CY  NGT+R   + RYIYNREE+ARFDSDVG +RAVT  GRP
+Sbjct  27   VQGRATP-ENYLFQGRQECYAFNGTQR--FLERYIYNREEFARFDSDVGEFRAVTELGRP  83
+
+Query  582  DAEYWNSQKEVLEGTRAELDTVCRHNYEVAFRGILQRRGERR  623
+             AEYWNSQK++LE  RA  D +CRHNYE+     LQRR + R
+Sbjct  84   AAEYWNSQKDILEEKRAVPDRMCRHNYELGGPMTLQRRVQPR  125
+
+
+>P18467.1 RecName: Full=Patr class II histocompatibility antigen, DO beta 
+chain; AltName: Full=ChLa class II histocompatibility antigen, 
+DO beta chain; AltName: Full=MHC class II antigen DOB; 
+Flags: Precursor [Pan troglodytes]
+Length=273
+
+ Score = 113 bits (282),  Expect = 6e-26, Method: Compositional matrix adjust.
+ Identities = 49/82 (60%), Positives = 63/82 (77%), Gaps = 0/82 (0%)
+
+Query  530  EDFVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQ  589
+            EDFV Q K  CYFTNGTE+V+ V R+I+N EEY RFDSDVG++ A+T  G+PDAE WNS+
+Sbjct  31   EDFVIQAKADCYFTNGTEKVQFVVRFIFNLEEYVRFDSDVGMFVALTKLGQPDAEQWNSR  90
+
+Query  590  KEVLEGTRAELDTVCRHNYEVA  611
+             ++LE +R  +D VCRHNY + 
+Sbjct  91   LDLLERSRQAVDGVCRHNYRLG  112
+
+
+>P13765.1 RecName: Full=HLA class II histocompatibility antigen, DO beta 
+chain; AltName: Full=MHC class II antigen DOB; Flags: Precursor 
+[Homo sapiens]
+Length=273
+
+ Score = 113 bits (282),  Expect = 6e-26, Method: Compositional matrix adjust.
+ Identities = 49/82 (60%), Positives = 63/82 (77%), Gaps = 0/82 (0%)
+
+Query  530  EDFVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQ  589
+            EDFV Q K  CYFTNGTE+V+ V R+I+N EEY RFDSDVG++ A+T  G+PDAE WNS+
+Sbjct  31   EDFVIQAKADCYFTNGTEKVQFVVRFIFNLEEYVRFDSDVGMFVALTKLGQPDAEQWNSR  90
+
+Query  590  KEVLEGTRAELDTVCRHNYEVA  611
+             ++LE +R  +D VCRHNY + 
+Sbjct  91   LDLLERSRQAVDGVCRHNYRLG  112
+
+
+>P20040.1 RecName: Full=H-2 class II histocompatibility antigen, E-Q beta 
+chain; AltName: Full=E-W17; Flags: Precursor [Mus musculus]
+Length=264
+
+ Score = 111 bits (277),  Expect = 2e-25, Method: Compositional matrix adjust.
+ Identities = 56/94 (60%), Positives = 64/94 (68%), Gaps = 1/94 (1%)
+
+Query  537  KGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKEVLEGT  596
+            K  C+F NGT+RVR + RY YN EE  RFDSDVG +RAVT  GRPDAE WNSQ E+LE  
+Sbjct  39   KSECHFYNGTQRVRFLKRYFYNLEENLRFDSDVGEFRAVTELGRPDAENWNSQPEILEQK  98
+
+Query  597  RAELDTVCRHNYEVAFRGILQRRGERRRPSVRPT  630
+            RA +DT CRHNYE+ F   L RR      +V PT
+Sbjct  99   RAAVDTYCRHNYEI-FDNFLVRRRVEPTVTVYPT  131
+
+
+>P04231.1 RecName: Full=H-2 class II histocompatibility antigen, E-S beta 
+chain [Mus musculus]
+Length=232
+
+ Score = 108 bits (270),  Expect = 7e-25, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 61/82 (74%), Gaps = 0/82 (0%)
+
+Query  540  CYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKEVLEGTRAE  599
+            C+F NGT+RVRL+ RY YN EE  RFDSDVG +RAVT  GRPDAE WNSQ E LE  RA 
+Sbjct  10   CHFYNGTQRVRLLERYFYNLEENLRFDSDVGEFRAVTELGRPDAENWNSQPEFLEQRRAA  69
+
+Query  600  LDTVCRHNYEVAFRGILQRRGE  621
+            +DT CRHNYE+  + ++ RR E
+Sbjct  70   VDTYCRHNYEILDKFLVPRRVE  91
+
+
+>P18468.1 RecName: Full=H-2 class II histocompatibility antigen, I-A beta 
+chain; Flags: Precursor [Mus musculus]
+Length=264
+
+ Score = 108 bits (271),  Expect = 1e-24, Method: Compositional matrix adjust.
+ Identities = 51/85 (60%), Positives = 61/85 (72%), Gaps = 0/85 (0%)
+
+Query  537  KGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKEVLEGT  596
+            K  C+F NGT+RVR + RY YN EE  RFDSDVG +RAVT  GRPDAE WNSQ E+L+  
+Sbjct  39   KSECHFYNGTQRVRFLKRYFYNLEENLRFDSDVGEFRAVTELGRPDAENWNSQPEILDEK  98
+
+Query  597  RAELDTVCRHNYEVAFRGILQRRGE  621
+            RA +DT CRHNYE+    ++ RR E
+Sbjct  99   RAAVDTYCRHNYEIFDNFLVPRRVE  123
+
+
+>P79483.1 RecName: Full=HLA class II histocompatibility antigen, DR beta 
+3 chain; AltName: Full=MHC class II antigen DRB3; Flags: Precursor 
+[Homo sapiens]
+Length=266
+
+ Score = 107 bits (266),  Expect = 7e-24, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 59/83 (71%), Gaps = 0/83 (0%)
+
+Query  537  KGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKEVLEGT  596
+            K  C+F NGTERVR + RY +N+EE+ RFDSDVG YRAVT  GRP AE WNSQK++LE  
+Sbjct  41   KSECHFFNGTERVRYLDRYFHNQEEFLRFDSDVGEYRAVTELGRPVAESWNSQKDLLEQK  100
+
+Query  597  RAELDTVCRHNYEVAFRGILQRR  619
+            R  +D  CRHNY V     +QRR
+Sbjct  101  RGRVDNYCRHNYGVGESFTVQRR  123
+
+
+>P23068.1 RecName: Full=Class II histocompatibility antigen, B-L beta chain 
+[Gallus gallus]
+Length=231
+
+ Score = 93.2 bits (230),  Expect = 2e-19, Method: Compositional matrix adjust.
+ Identities = 42/85 (49%), Positives = 59/85 (69%), Gaps = 0/85 (0%)
+
+Query  540  CYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRPDAEYWNSQKEVLEGTRAE  599
+            C+F NGTERVR + R++YNR++Y  FDSDVG++ A T  G P A+ +NSQ +VLE  RA 
+Sbjct  10   CHFLNGTERVRFLVRHVYNRQQYVHFDSDVGLFVADTVLGEPSAKLFNSQPDVLEKNRAA  69
+
+Query  600  LDTVCRHNYEVAFRGILQRRGERRR  624
+            ++ +C +NYE+     LQRR  + R
+Sbjct  70   VEMLCNYNYEIVAPLTLQRREPKVR  94
+
+
+>P15464.1 RecName: Full=SMH class II histocompatibility antigen, beta-1 
+chain; Flags: Precursor [Nannospalax ehrenbergi]
+Length=258
+
+ Score = 92.4 bits (228),  Expect = 5e-19, Method: Compositional matrix adjust.
+ Identities = 50/92 (54%), Positives = 64/92 (70%), Gaps = 3/92 (3%)
+
+Query  522  LTGR*FPAEDFVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGRP  581
+            + GR  P E+++F+    C+ T+G  R R V RYIYN+EEY RFDSDVGV+RAVT  GR 
+Sbjct  27   VQGRTTP-ENYLFRAWQECHLTHG--RYRYVERYIYNQEEYVRFDSDVGVFRAVTELGRS  83
+
+Query  582  DAEYWNSQKEVLEGTRAELDTVCRHNYEVAFR  613
+             A+ +NS+KE LE  RA  DT CRHN+E+  R
+Sbjct  84   WADDFNSRKEALEQKRAAPDTGCRHNHELNQR  115
+
+
+>P20756.1 RecName: Full=RLA class II histocompatibility antigen, DP beta 
+chain; AltName: Full=D10 haplotype; Flags: Precursor [Oryctolagus 
+cuniculus]
+Length=257
+
+ Score = 88.2 bits (217),  Expect = 1e-17, Method: Compositional matrix adjust.
+ Identities = 52/110 (47%), Positives = 71/110 (65%), Gaps = 8/110 (7%)
+
+Query  524  GR*FPAE---DFVFQFKGMCYFTNGTERVRLVTRYIYNREEYARFDSDVGVYRAVTPQGR  580
+            GR  P E   ++++Q +  CY +NGT+R  L+ R  YNREE+ RFDSD+G +RAV+  GR
+Sbjct  26   GRATPGESEQNYLWQRRYECYASNGTQR--LLDRCAYNREEFVRFDSDIGEFRAVSELGR  83
+
+Query  581  PDAEYWNSQKEVLEGTRAELDTVCRHNYEVAFRGILQRRGERRRPSVRPT  630
+              AE WN   E L+  RAE+D VCRHNYE+ F+G+      + R SV P+
+Sbjct  84   QVAESWN--LEYLQQARAEVDRVCRHNYEL-FQGLPVLLQTQPRVSVSPS  130
+
+
+>Q8YDH0.1 RecName: Full=Putative peptide import ATP-binding protein BMEII0206 
+[Brucella melitensis bv. 1 str. 16M]
+Length=332
+
+ Score = 37.7 bits (86),  Expect = 1.1, Method: Compositional matrix adjust.
+ Identities = 20/54 (37%), Positives = 28/54 (52%), Gaps = 4/54 (7%)
+
+Query  689  RLPSVPPSLPVRRPRPPLCTFLASCLM----CLPPRTLPSLSSSLCPQCPPSSP  738
+            RLP++P S+P    RPP C F   C      C+ P+ + SL+     +CPP  P
+Sbjct  273  RLPTIPGSIPEPSRRPPGCRFAPRCTFAQASCVKPQPIMSLTGGRASRCPPRLP  326
+
+
+>Q2YJJ9.1 RecName: Full=Putative peptide import ATP-binding protein BAB2_1052 
+[Brucella abortus 2308]
+ Q8FUW8.1 RecName: Full=Putative peptide import ATP-binding protein BRA1094/BS1330_II1086 
+[Brucella suis 1330]
+ Q8VQK6.1 RecName: Full=Putative peptide import ATP-binding protein BruAb2_1033 
+[Brucella abortus bv. 1 str. 9-941]
+Length=332
+
+ Score = 37.7 bits (86),  Expect = 1.2, Method: Compositional matrix adjust.
+ Identities = 20/54 (37%), Positives = 28/54 (52%), Gaps = 4/54 (7%)
+
+Query  689  RLPSVPPSLPVRRPRPPLCTFLASCLM----CLPPRTLPSLSSSLCPQCPPSSP  738
+            RLP++P S+P    RPP C F   C      C+ P+ + SL+     +CPP  P
+Sbjct  273  RLPTIPGSIPEPSRRPPGCRFAPRCTFAQASCVKPQPIMSLTGGRASRCPPRLP  326
 
 
 
 Lambda      K        H        a         alpha
-   0.326    0.141    0.502    0.792     4.96 
+   0.350    0.155    0.561    0.792     4.96 
 
 Gapped
 Lambda      K        H        a         alpha    sigma
    0.267   0.0410    0.140     1.90     42.6     43.6 
 
-Effective search space used: 44070615900
+Effective search space used: 266575176189
 
 
   Database: swissprot
-    Posted date:  Sep 26, 2022  8:49 PM
+    Posted date:  Oct 3, 2022  8:12 PM
   Number of letters in database: 182,233,107
   Number of sequences in database:  480,087
 

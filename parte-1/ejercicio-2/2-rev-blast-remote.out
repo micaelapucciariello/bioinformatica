@@ -18,36 +18,15 @@ Res. 29:2994-3005.
 
 Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
 excluding environmental samples from WGS projects
-           507,975,733 sequences; 197,816,729,863 total letters
+           509,498,107 sequences; 198,558,003,220 total letters
 
-
-
-Query= NC_000011 Homo sapiens chromosome 11, GRCh38.p14 Primary Assembly.
-
-Length=476
-
-RID: K4VNP9RC013
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.333    0.147    0.543 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 34374431112702
 
 
   Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
 excluding environmental samples from WGS projects
-    Posted date:  Sep 23, 2022 03:14 AM
-  Number of letters in database: 197,816,729,863
-  Number of sequences in database:  507,975,733
+    Posted date:  Oct 1, 2022 03:21 AM
+  Number of letters in database: 198,558,003,220
+  Number of sequences in database:  509,498,107
 
 
 
