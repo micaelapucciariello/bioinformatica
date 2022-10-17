@@ -1,0 +1,9 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: sp|P06344.1|HB2U_MOUSE  100.00   80.95   85.55
+     2: sp|P06341.1|HB2A_RAT     80.95  100.00   88.31
+     3: sp|P29826.1|HB2B_RAT     85.55   88.31  100.00
