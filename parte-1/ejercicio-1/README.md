@@ -9,7 +9,7 @@ Es necesario contar con un SO linux y tener instalados los componentes perl y bi
 ## Ejecución
 Para ejecutar el sistema es necesario desplazarse al directorio *parte-1/ejercicio-1/* y correr el siguiente comando:
 ```
-perl script1.pl ./sequence.gb out
+perl Ex1.pl ./sequence.gb out
 ```
 
 ## Resultados

@@ -14,7 +14,7 @@ realice algún análisis sobre la una secuencia de nucleótidos fasta (del Ej. 1
 - **Input**:  Archivo de secuencias Fasta (por ej. Xxxxx.fas con una o más secuencias de aa).
 - **Output**: Archivo de resultados del dominios encontrados en las secuencias de aa.
 
-#### Ejercicio 6. Trabajo con Bases de Datos Biológicas (útil para la presentación del Ejercicio 8)
+#### Ejercicio 6. Trabajo con Bases de Datos Biológicas 
 a) A partir del gen o proteína de interés para ustedes dar su link a NCBI-Gene como una entrada de Entrez, por ej.: http://www.ncbi.nlm.nih.gov/gene/3630 Expliquen brevemente lo que hace la proteína y por qué la eligieron.
 b) ¿Cuántos genes / proteínas homólogas se conocen en otros organismos? Utilicen la información que está en la base de datos de HomoloGene y en la bases de datos Ensembl. Describan los resultados en ambas bases de datos, y en qué se diferencian. Mencionen sobre qué tan común creen son estos genes o proteínas y a qué grupos taxonómicos pertenecen (sólo en las bacterias, en los vertebrados, etc.)
 c) ¿Cuántos transcriptos y cuántas formas alternativas de splicing son conocidos para este gen / proteína? ¿Cuáles de estos splicing alternativos se expresan? ¿Tienen funciones alternativas? Buscar evidencia de

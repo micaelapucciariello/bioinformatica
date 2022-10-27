@@ -13,7 +13,7 @@ Para poder ejecutar el script-2 es necesario instalar los siguientes componentes
 ## Ejecución
 Para ejecutar el script ejecutar sobre *parte-1/ejercicio-2/* el comando 
 ```
-perl script2.pl ./sequence.gb out
+perl Ex2.pl ./sequence.gb out
 ```
 
 ## Resultados
