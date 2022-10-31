@@ -1,0 +1,491 @@
+BLASTP 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: swissprot
+           480,087 sequences; 182,233,107 total letters
+
+
+
+Query= NC_000006 Homo sapiens chromosome 6, GRCh38.p14 Primary Assembly.
+
+Length=2397
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+P06341.1 RecName: Full=Rano class II histocompatibility antigen, ...  65.1    6e-10
+P29826.1 RecName: Full=Rano class II histocompatibility antigen, ...  65.9    7e-10
+P06344.1 RecName: Full=H-2 class II histocompatibility antigen, A...  63.5    3e-09
+P01921.1 RecName: Full=H-2 class II histocompatibility antigen, A...  63.5    3e-09
+P06345.1 RecName: Full=H-2 class II histocompatibility antigen, A...  63.5    4e-09
+P06343.1 RecName: Full=H-2 class II histocompatibility antigen, A...  63.5    4e-09
+P06342.1 RecName: Full=H-2 class II histocompatibility antigen, A...  63.5    4e-09
+P06346.1 RecName: Full=H-2 class II histocompatibility antigen, A...  62.8    5e-09
+P14483.1 RecName: Full=H-2 class II histocompatibility antigen, A...  62.0    1e-08
+P18470.1 RecName: Full=DLA class II histocompatibility antigen, D...  58.5    2e-07
+P18468.1 RecName: Full=H-2 class II histocompatibility antigen, I...  57.0    5e-07
+P15464.1 RecName: Full=SMH class II histocompatibility antigen, b...  52.4    2e-05
+P18467.1 RecName: Full=Patr class II histocompatibility antigen, ...  48.1    4e-04
+P04440.1 RecName: Full=HLA class II histocompatibility antigen, D...  48.1    4e-04
+P13765.1 RecName: Full=HLA class II histocompatibility antigen, D...  47.8    6e-04
+P15983.1 RecName: Full=SLA class II histocompatibility antigen, D...  45.1    0.004
+P15982.1 RecName: Full=SLA class II histocompatibility antigen, D...  45.1    0.004
+Q9TVC8.1 RecName: Full=BoLa class II histocompatibility antigen, ...  43.5    0.012
+P01920.2 RecName: Full=HLA class II histocompatibility antigen, D...  42.7    0.024
+P05538.2 RecName: Full=HLA class II histocompatibility antigen, D...  42.4    0.031
+P23068.1 RecName: Full=Class II histocompatibility antigen, B-L b...  40.0    0.13 
+P01915.1 RecName: Full=H-2 class II histocompatibility antigen, E...  40.0    0.19 
+Q30154.1 RecName: Full=HLA class II histocompatibility antigen, D...  40.0    0.19 
+P20040.1 RecName: Full=H-2 class II histocompatibility antigen, E...  39.7    0.19 
+P04230.1 RecName: Full=H-2 class II histocompatibility antigen, E...  39.7    0.20 
+P13762.2 RecName: Full=HLA class II histocompatibility antigen, D...  39.3    0.32 
+P01911.2 RecName: Full=HLA class II histocompatibility antigen, D...  38.9    0.35 
+P04231.1 RecName: Full=H-2 class II histocompatibility antigen, E...  38.5    0.39 
+P79483.1 RecName: Full=HLA class II histocompatibility antigen, D...  38.9    0.41 
+P18469.1 RecName: Full=H-2 class II histocompatibility antigen, I...  38.9    0.42 
+P0C1Z6.1 RecName: Full=TCF3 fusion partner; AltName: Full=INO80 c...  36.2    2.3  
+P0A212.1 RecName: Full=DNA gyrase inhibitor [Salmonella enterica ...  34.3    5.4  
+
+
+>P06341.1 RecName: Full=Rano class II histocompatibility antigen, A beta 
+chain; AltName: Full=RT1 class II histocompatibility antigen, 
+A beta chain [Rattus norvegicus]
+Length=233
+
+ Score = 65.1 bits (157),  Expect = 6e-10, Method: Compositional matrix adjust.
+ Identities = 33/42 (79%), Positives = 36/42 (86%), Gaps = 2/42 (5%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGEEPQG  1776
+             AQSESAQSKMLSG+GG VLG+IFLGLGL IR + QKG  PQG
+Sbjct  186   AQSESAQSKMLSGIGGLVLGVIFLGLGLFIRHKRQKG--PQG  225
+
+
+>P29826.1 RecName: Full=Rano class II histocompatibility antigen, B-1 beta 
+chain; AltName: Full=RT1 class II histocompatibility antigen, 
+B-1 beta chain; AltName: Full=RT1.B-beta(1); Flags: Precursor 
+[Rattus norvegicus]
+Length=263
+
+ Score = 65.9 bits (159),  Expect = 7e-10, Method: Compositional matrix adjust.
+ Identities = 33/42 (79%), Positives = 37/42 (88%), Gaps = 2/42 (5%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGEEPQG  1776
+             AQSESAQSKMLSG+GGFVLG+IFLGLGL IR + QKG  P+G
+Sbjct  216   AQSESAQSKMLSGIGGFVLGVIFLGLGLFIRHKRQKG--PRG  255
+
+
+>P06344.1 RecName: Full=H-2 class II histocompatibility antigen, A-U beta 
+chain; Flags: Precursor [Mus musculus]
+Length=263
+
+ Score = 63.5 bits (153),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 33/42 (79%), Positives = 37/42 (88%), Gaps = 2/42 (5%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGEEPQG  1776
+             AQSESA+SKMLSG+GG VLG+IFLGLGL IR RSQKG  P+G
+Sbjct  216   AQSESARSKMLSGIGGCVLGVIFLGLGLFIRHRSQKG--PRG  255
+
+
+>P01921.1 RecName: Full=H-2 class II histocompatibility antigen, A-D beta 
+chain; Flags: Precursor [Mus musculus]
+Length=265
+
+ Score = 63.5 bits (153),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 33/42 (79%), Positives = 37/42 (88%), Gaps = 2/42 (5%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGEEPQG  1776
+             AQSESA+SKMLSG+GG VLG+IFLGLGL IR RSQKG  P+G
+Sbjct  218   AQSESARSKMLSGIGGCVLGVIFLGLGLFIRHRSQKG--PRG  257
+
+
+>P06345.1 RecName: Full=H-2 class II histocompatibility antigen, A-S beta 
+chain; Flags: Precursor [Mus musculus]
+Length=263
+
+ Score = 63.5 bits (153),  Expect = 4e-09, Method: Compositional matrix adjust.
+ Identities = 33/42 (79%), Positives = 37/42 (88%), Gaps = 2/42 (5%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGEEPQG  1776
+             AQSESA+SKMLSG+GG VLG+IFLGLGL IR RSQKG  P+G
+Sbjct  216   AQSESARSKMLSGIGGCVLGVIFLGLGLFIRHRSQKG--PRG  255
+
+
+>P06343.1 RecName: Full=H-2 class II histocompatibility antigen, A-K beta 
+chain; Flags: Precursor [Mus musculus]
+Length=263
+
+ Score = 63.5 bits (153),  Expect = 4e-09, Method: Compositional matrix adjust.
+ Identities = 33/42 (79%), Positives = 37/42 (88%), Gaps = 2/42 (5%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGEEPQG  1776
+             AQSESA+SKMLSG+GG VLG+IFLGLGL IR RSQKG  P+G
+Sbjct  216   AQSESARSKMLSGIGGCVLGVIFLGLGLFIRHRSQKG--PRG  255
+
+
+>P06342.1 RecName: Full=H-2 class II histocompatibility antigen, A-Q beta 
+chain; Flags: Precursor [Mus musculus]
+Length=265
+
+ Score = 63.5 bits (153),  Expect = 4e-09, Method: Compositional matrix adjust.
+ Identities = 33/42 (79%), Positives = 37/42 (88%), Gaps = 2/42 (5%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGEEPQG  1776
+             AQSESA+SKMLSG+GG VLG+IFLGLGL IR RSQKG  P+G
+Sbjct  218   AQSESARSKMLSGIGGCVLGVIFLGLGLFIRHRSQKG--PRG  257
+
+
+>P06346.1 RecName: Full=H-2 class II histocompatibility antigen, A-F beta 
+chain; Flags: Precursor [Mus musculus]
+Length=252
+
+ Score = 62.8 bits (151),  Expect = 5e-09, Method: Compositional matrix adjust.
+ Identities = 33/42 (79%), Positives = 37/42 (88%), Gaps = 2/42 (5%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGEEPQG  1776
+             AQSESA+SKMLSG+GG VLG+IFLGLGL IR RSQKG  P+G
+Sbjct  205   AQSESARSKMLSGIGGCVLGVIFLGLGLFIRYRSQKG--PRG  244
+
+
+>P14483.1 RecName: Full=H-2 class II histocompatibility antigen, A beta 
+chain; Flags: Precursor [Mus musculus]
+Length=265
+
+ Score = 62.0 bits (149),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 33/42 (79%), Positives = 36/42 (86%), Gaps = 2/42 (5%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGEEPQG  1776
+             AQSESA SKMLSG+GG VLG+IFLGLGL IR RSQKG  P+G
+Sbjct  218   AQSESAWSKMLSGIGGCVLGVIFLGLGLFIRHRSQKG--PRG  257
+
+
+>P18470.1 RecName: Full=DLA class II histocompatibility antigen, DR-1 beta 
+chain; Flags: Precursor [Canis lupus familiaris]
+Length=266
+
+ Score = 58.5 bits (140),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKG  1771
+             AQS+SAQSKMLSG+GGFVLGL+FL +GL I  R+QKG
+Sbjct  219   AQSDSAQSKMLSGIGGFVLGLLFLAVGLFIYFRNQKG  255
+
+
+>P18468.1 RecName: Full=H-2 class II histocompatibility antigen, I-A beta 
+chain; Flags: Precursor [Mus musculus]
+Length=264
+
+ Score = 57.0 bits (136),  Expect = 5e-07, Method: Compositional matrix adjust.
+ Identities = 30/47 (64%), Positives = 34/47 (72%), Gaps = 0/47 (0%)
+
+Query  1726  TDTQFCSLGAQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGE  1772
+             TD       AQS SAQ+KMLSGVGGFVLGL+FL  GL I  R+QKG+
+Sbjct  208   TDPVTVEWKAQSTSAQNKMLSGVGGFVLGLLFLRAGLFIYFRNQKGQ  254
+
+
+>P15464.1 RecName: Full=SMH class II histocompatibility antigen, beta-1 
+chain; Flags: Precursor [Nannospalax ehrenbergi]
+Length=258
+
+ Score = 52.4 bits (124),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 24/38 (63%), Positives = 32/38 (84%), Gaps = 0/38 (0%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGE  1772
+             AQS+SA++K L+GVGG VLGLIFL +GLI+  RS+K +
+Sbjct  217   AQSDSARNKTLTGVGGLVLGLIFLAVGLIMHVRSKKAQ  254
+
+
+>P18467.1 RecName: Full=Patr class II histocompatibility antigen, DO beta 
+chain; AltName: Full=ChLa class II histocompatibility antigen, 
+DO beta chain; AltName: Full=MHC class II antigen DOB; 
+Flags: Precursor [Pan troglodytes]
+Length=273
+
+ Score = 48.1 bits (113),  Expect = 4e-04, Method: Compositional matrix adjust.
+ Identities = 22/37 (59%), Positives = 30/37 (81%), Gaps = 0/37 (0%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKG  1771
+             AQSE +  KMLSG+  F+LGLIFL +G++I+ R+QKG
+Sbjct  216   AQSEYSWKKMLSGIAAFLLGLIFLLVGIVIQLRAQKG  252
+
+
+>P04440.1 RecName: Full=HLA class II histocompatibility antigen, DP beta 
+1 chain; AltName: Full=HLA class II histocompatibility antigen, 
+DP(W4) beta chain; AltName: Full=MHC class II antigen 
+DPB1; Flags: Precursor [Homo sapiens]
+Length=258
+
+ Score = 48.1 bits (113),  Expect = 4e-04, Method: Compositional matrix adjust.
+ Identities = 22/36 (61%), Positives = 30/36 (83%), Gaps = 0/36 (0%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQK  1770
+             AQS+SA+SK L+G GGFVLGLI  G+G+ + +RS+K
+Sbjct  217   AQSDSARSKTLTGAGGFVLGLIICGVGIFMHRRSKK  252
+
+
+>P13765.1 RecName: Full=HLA class II histocompatibility antigen, DO beta 
+chain; AltName: Full=MHC class II antigen DOB; Flags: Precursor 
+[Homo sapiens]
+Length=273
+
+ Score = 47.8 bits (112),  Expect = 6e-04, Method: Compositional matrix adjust.
+ Identities = 22/37 (59%), Positives = 30/37 (81%), Gaps = 0/37 (0%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKG  1771
+             AQSE +  KMLSG+  F+LGLIFL +G++I+ R+QKG
+Sbjct  216   AQSEYSWRKMLSGIAAFLLGLIFLLVGIVIQLRAQKG  252
+
+
+>P15983.1 RecName: Full=SLA class II histocompatibility antigen, DQ haplotype 
+D beta chain; Flags: Precursor [Sus scrofa]
+Length=258
+
+ Score = 45.1 bits (105),  Expect = 0.004, Method: Composition-based stats.
+ Identities = 35/37 (95%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKG  1771
+             AQSESAQSKMLSGVGGFVLGLIFLGLGL IR RSQKG
+Sbjct  219   AQSESAQSKMLSGVGGFVLGLIFLGLGLFIRHRSQKG  255
+
+
+>P15982.1 RecName: Full=SLA class II histocompatibility antigen, DQ haplotype 
+C beta chain; Flags: Precursor [Sus scrofa]
+Length=261
+
+ Score = 45.1 bits (105),  Expect = 0.004, Method: Composition-based stats.
+ Identities = 35/37 (95%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKG  1771
+             AQSESAQSKMLSGVGGFVLGLIFLGLGL IR RSQKG
+Sbjct  222   AQSESAQSKMLSGVGGFVLGLIFLGLGLFIRHRSQKG  258
+
+
+>Q9TVC8.1 RecName: Full=BoLa class II histocompatibility antigen, DQB*0101 
+beta chain; Short=DQB1*1A; Flags: Precursor [Bos taurus]
+Length=261
+
+ Score = 43.5 bits (101),  Expect = 0.012, Method: Composition-based stats.
+ Identities = 33/37 (89%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKG  1771
+             AQSESAQSKMLSG+GGFVLGLIFLGLGLI+  RSQKG
+Sbjct  222   AQSESAQSKMLSGIGGFVLGLIFLGLGLIVHHRSQKG  258
+
+
+>P01920.2 RecName: Full=HLA class II histocompatibility antigen, DQ beta 
+1 chain; AltName: Full=MHC class II antigen DQB1; Flags: Precursor 
+[Homo sapiens]
+Length=261
+
+ Score = 42.7 bits (99),  Expect = 0.024, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKG  1771
+             AQSESAQSKMLSG+GGFVLGLIFLGLGLII  RSQKG
+Sbjct  222   AQSESAQSKMLSGIGGFVLGLIFLGLGLIIHHRSQKG  258
+
+
+>P05538.2 RecName: Full=HLA class II histocompatibility antigen, DQ beta 
+2 chain; AltName: Full=HLA class II histocompatibility antigen, 
+DX beta chain; AltName: Full=MHC class II antigen DQB2; 
+Flags: Precursor [Homo sapiens]
+Length=268
+
+ Score = 42.4 bits (98),  Expect = 0.031, Method: Compositional matrix adjust.
+ Identities = 36/42 (86%), Positives = 38/42 (90%), Gaps = 2/42 (5%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGEEPQG  1776
+             AQSESAQSKMLSG+GGFVLGLIFLGLGLIIR R QKG  P+G
+Sbjct  221   AQSESAQSKMLSGIGGFVLGLIFLGLGLIIRHRGQKG--PRG  260
+
+
+>P23068.1 RecName: Full=Class II histocompatibility antigen, B-L beta chain 
+[Gallus gallus]
+Length=231
+
+ Score = 40.0 bits (92),  Expect = 0.13, Method: Compositional matrix adjust.
+ Identities = 18/35 (51%), Positives = 27/35 (77%), Gaps = 0/35 (0%)
+
+Query  1738  ESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGE  1772
+             + ++SK+L GVGGFVLGL++L LG+     S+KG+
+Sbjct  187   DVSRSKLLMGVGGFVLGLVYLALGIFFFLCSKKGQ  221
+
+
+>P01915.1 RecName: Full=H-2 class II histocompatibility antigen, E-D beta 
+chain; Flags: Precursor [Mus musculus]
+Length=264
+
+ Score = 40.0 bits (92),  Expect = 0.19, Method: Compositional matrix adjust.
+ Identities = 31/47 (66%), Positives = 35/47 (74%), Gaps = 0/47 (0%)
+
+Query  1726  TDTQFCSLGAQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGE  1772
+             TD       AQS SAQ+KMLSGVGGFVLGL+FLG GL I  R+QKG+
+Sbjct  208   TDPVTVEWKAQSTSAQNKMLSGVGGFVLGLLFLGAGLFIYFRNQKGQ  254
+
+
+>Q30154.1 RecName: Full=HLA class II histocompatibility antigen, DR beta 
+5 chain; AltName: Full=DR beta-5; AltName: Full=DR2-beta-2; 
+AltName: Full=Dw2; AltName: Full=MHC class II antigen DRB5; 
+Flags: Precursor [Homo sapiens]
+Length=266
+
+ Score = 40.0 bits (92),  Expect = 0.19, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKG  1771
+             AQSESAQSKMLSGVGGFVLGL+FLG GL I  ++QKG
+Sbjct  219   AQSESAQSKMLSGVGGFVLGLLFLGAGLFIYFKNQKG  255
+
+
+>P20040.1 RecName: Full=H-2 class II histocompatibility antigen, E-Q beta 
+chain; AltName: Full=E-W17; Flags: Precursor [Mus musculus]
+Length=264
+
+ Score = 39.7 bits (91),  Expect = 0.19, Method: Compositional matrix adjust.
+ Identities = 31/47 (66%), Positives = 35/47 (74%), Gaps = 0/47 (0%)
+
+Query  1726  TDTQFCSLGAQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGE  1772
+             TD       AQS SAQ+KMLSGVGGFVLGL+FLG GL I  R+QKG+
+Sbjct  208   TDPVTVEWKAQSTSAQNKMLSGVGGFVLGLLFLGAGLFIYFRNQKGQ  254
+
+
+>P04230.1 RecName: Full=H-2 class II histocompatibility antigen, E-B beta 
+chain; Flags: Precursor [Mus musculus]
+Length=264
+
+ Score = 39.7 bits (91),  Expect = 0.20, Method: Compositional matrix adjust.
+ Identities = 31/47 (66%), Positives = 35/47 (74%), Gaps = 0/47 (0%)
+
+Query  1726  TDTQFCSLGAQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGE  1772
+             TD       AQS SAQ+KMLSGVGGFVLGL+FLG GL I  R+QKG+
+Sbjct  208   TDPVTVEWKAQSTSAQNKMLSGVGGFVLGLLFLGAGLFIYFRNQKGQ  254
+
+
+>P13762.2 RecName: Full=HLA class II histocompatibility antigen, DR beta 
+4 chain; AltName: Full=MHC class II antigen DRB4; Flags: Precursor 
+[Homo sapiens]
+Length=266
+
+ Score = 39.3 bits (90),  Expect = 0.32, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKG  1771
+             A+SESAQSKMLSGVGGFVLGL+FLG GL I  R+QKG
+Sbjct  219   ARSESAQSKMLSGVGGFVLGLLFLGTGLFIYFRNQKG  255
+
+
+>P01911.2 RecName: Full=HLA class II histocompatibility antigen, DRB1 beta 
+chain; AltName: Full=Human leukocyte antigen DRB1; Short=HLA-DRB1; 
+Flags: Precursor [Homo sapiens]
+Length=266
+
+ Score = 38.9 bits (89),  Expect = 0.35, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKG  1771
+             A+SESAQSKMLSGVGGFVLGL+FLG GL I  R+QKG
+Sbjct  219   ARSESAQSKMLSGVGGFVLGLLFLGAGLFIYFRNQKG  255
+
+
+>P04231.1 RecName: Full=H-2 class II histocompatibility antigen, E-S beta 
+chain [Mus musculus]
+Length=232
+
+ Score = 38.5 bits (88),  Expect = 0.39, Method: Composition-based stats.
+ Identities = 33/54 (61%), Positives = 38/54 (70%), Gaps = 3/54 (6%)
+
+Query  1726  TDTQFCSLGAQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGE---EPQG  1776
+             TD       AQS SAQ+KMLSGVGGFVLGL+FLG GL I  R+QKG+   +P G
+Sbjct  176   TDPVTVEWKAQSTSAQNKMLSGVGGFVLGLLFLGAGLFIYFRNQKGQSGLQPTG  229
+
+
+>P79483.1 RecName: Full=HLA class II histocompatibility antigen, DR beta 
+3 chain; AltName: Full=MHC class II antigen DRB3; Flags: Precursor 
+[Homo sapiens]
+Length=266
+
+ Score = 38.9 bits (89),  Expect = 0.41, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1735  AQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKG  1771
+             A+SESAQSKMLSGVGGFVLGL+FLG GL I  R+QKG
+Sbjct  219   ARSESAQSKMLSGVGGFVLGLLFLGAGLFIYFRNQKG  255
+
+
+>P18469.1 RecName: Full=H-2 class II histocompatibility antigen, I-E beta 
+chain; Flags: Precursor [Mus musculus]
+Length=264
+
+ Score = 38.9 bits (89),  Expect = 0.42, Method: Composition-based stats.
+ Identities = 33/54 (61%), Positives = 38/54 (70%), Gaps = 3/54 (6%)
+
+Query  1726  TDTQFCSLGAQSESAQSKMLSGVGGFVLGLIFLGLGLIIRQRSQKGE---EPQG  1776
+             TD       AQS SAQ+KMLSGVGGFVLGL+FLG GL I  R+QKG+   +P G
+Sbjct  208   TDPVTVEWKAQSTSAQNKMLSGVGGFVLGLLFLGAGLFIYFRNQKGQSGLQPTG  261
+
+
+>P0C1Z6.1 RecName: Full=TCF3 fusion partner; AltName: Full=INO80 complex 
+subunit F; AltName: Full=Protein FB1 [Homo sapiens]
+Length=253
+
+ Score = 36.2 bits (82),  Expect = 2.3, Method: Composition-based stats.
+ Identities = 15/30 (50%), Positives = 17/30 (57%), Gaps = 0/30 (0%)
+
+Query  1529  DFPDPGDAGNDSPAWRCLHLPRGAPQPPEP  1558
+             D P PG+A N+ P    L  PR  P PPEP
+Sbjct  149   DAPTPGNAENEPPEKETLSPPRRTPAPPEP  178
+
+
+>P0A212.1 RecName: Full=DNA gyrase inhibitor [Salmonella enterica subsp. 
+enterica serovar Typhimurium str. LT2]
+ P0A213.1 RecName: Full=DNA gyrase inhibitor [Salmonella enterica subsp. 
+enterica serovar Typhi]
+Length=155
+
+ Score = 34.3 bits (77),  Expect = 5.4, Method: Composition-based stats.
+ Identities = 30/109 (28%), Positives = 48/109 (44%), Gaps = 18/109 (17%)
+
+Query  1574  WAHKTKSSF*PIPSHLLSLMSLLSWESQETRAPLAPWQVHQKNPGLITFPDAREITLHTV  1633
+             W H  K  F            L++W  ++   P+    V+  NP ++     R  T+ +V
+Sbjct  22    WEHTVKQGF----------EQLMTWVDRQRIVPVEWIAVYYDNPDVVPAEKLRCDTVVSV  71
+
+Query  1634  ALN-PSPDSSEGLILRA---GDWDLRV*GYG*VLEEQRFASPLSHLFTV  1678
+             A N   PD+SEG+I+ A   G++   V      +E++ FA P    F V
+Sbjct  72    AENFILPDNSEGVIVTAIEGGEYATAVAR----VEDRDFAKPWERFFDV  116
+
+
+
+Lambda      K        H        a         alpha
+   0.348    0.154    0.554    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 266810979087
+
+
+  Database: swissprot
+    Posted date:  Oct 3, 2022  8:12 PM
+  Number of letters in database: 182,233,107
+  Number of sequences in database:  480,087
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

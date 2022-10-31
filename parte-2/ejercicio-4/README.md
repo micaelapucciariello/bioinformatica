@@ -8,7 +8,7 @@ Escribir un script para analizar (parsear) un reporte de salida de blast que ide
 
 ## Ejecución
 ```
-perl Ex4.pl "pattern"
+perl Ex4.pl "mus musculus"
 ```
 
 ## Resultados
