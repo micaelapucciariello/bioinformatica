@@ -1,0 +1,156 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Mon 31 Oct 2022 20:31:11
+# Commandline: patmatmotifs
+#    -full
+#    -sequence 0.fasta
+#    -outfile 0.patmatmotifs
+# Report_format: dbmotif
+# Report_file: 0.patmatmotifs
+########################################
+
+#=======================================
+#
+# Sequence: NC_000006     from: 1   to: 2397
+# HitCount: 7
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 2311 of sequence
+End = position 2314 of sequence
+
+Motif = AMIDATION
+
+VRVGRGGRKXFNCR
+     |  |
+  2311  2314
+
+Length = 4
+Start = position 2043 of sequence
+End = position 2046 of sequence
+
+Motif = AMIDATION
+
+KRLLVVGKRYHPIS
+     |  |
+  2043  2046
+
+Length = 4
+Start = position 1775 of sequence
+End = position 1778 of sequence
+
+Motif = AMIDATION
+
+KGEEPQGKRGRWAV
+     |  |
+  1775  1778
+
+Length = 4
+Start = position 1448 of sequence
+End = position 1451 of sequence
+
+Motif = AMIDATION
+
+GGILPHGRRGVCSH
+     |  |
+  1448  1451
+
+Length = 4
+Start = position 256 of sequence
+End = position 259 of sequence
+
+Motif = AMIDATION
+
+GGLNLVGRRMXRRE
+     |  |
+   256  259
+
+Length = 4
+Start = position 19 of sequence
+End = position 22 of sequence
+
+Motif = AMIDATION
+
+SSQLCLGRRLCGSP
+     |  |
+    19  22
+
+Length = 3
+Start = position 642 of sequence
+End = position 644 of sequence
+
+Motif = RGD
+
+SFCAGRGDGGEVS
+     | |
+   642 644
+
+
+#---------------------------------------
+#
+# Motif: AMIDATION
+# Count: 6
+# 
+# ******************
+# * Amidation site *
+# ******************
+# 
+# The precursor of  hormones  and other active  peptides  which are C-terminally
+# amidated is always directly followed [1,2] by a glycine residue which provides
+# the amide group, and  most often by at  least two  consecutive  basic residues
+# (Arg or Lys) which generally function as an active peptide  precursor cleavage
+# site.  Although all amino acids can be amidated,  neutral hydrophobic residues
+# such as Val or Phe are good substrates, while  charged residues such as Asp or
+# Arg  are much less reactive.  C-terminal  amidation has not  yet been shown to
+# occur in unicellular organisms or in plants.
+# 
+# -Consensus pattern: x-G-[RK]-[RK]
+#                     [x is the amidation site]
+# -Last update: June 1988 / First entry.
+# 
+# [ 1] Kreil G.
+#      "Occurrence, detection, and biosynthesis of carboxy-terminal amides."
+#      Methods Enzymol. 106:218-223(1984).
+#      PubMed=6548541
+# [ 2] Bradbury A.F., Smyth D.G.
+#      "Biosynthesis of the C-terminal amide in peptide hormones."
+#      Biosci. Rep. 7:907-916(1987).
+#      PubMed=3331120
+# 
+# ***************
+# 
+# Motif: RGD
+# Count: 1
+# 
+# ****************************
+# * Cell attachment sequence *
+# ****************************
+# 
+# The sequence Arg-Gly-Asp, found in fibronectin, is crucial for its interaction
+# with its cell surface receptor, an integrin [1,2].  What  has  been called the
+# 'RGD' tripeptide is also found in the sequences of a number of other proteins,
+# where it has been shown to play a role in cell adhesion.   These proteins are:
+# some forms of collagens, fibrinogen, vitronectin, von Willebrand factor (VWF),
+# snake disintegrins, and slime mold discoidins.   The 'RGD'  tripeptide is also
+# found in other proteins  where  it  may also,  but not always,  serve the same
+# purpose.
+# 
+# -Consensus pattern: R-G-D
+# -Last update: December 1991 / Text revised.
+# 
+# [ 1] Ruoslahti E., Pierschbacher M.D.
+#      "Arg-Gly-Asp: a versatile cell recognition signal."
+#      Cell 44:517-518(1986).
+#      PubMed=2418980
+# [ 2] d'Souza S.E., Ginsberg M.H., Plow E.F.
+#      Trends Biochem. Sci. 16:246-250(1991).
+# 
+# ***************
+# 
+#
+#---------------------------------------
