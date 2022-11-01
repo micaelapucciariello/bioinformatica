@@ -11,8 +11,8 @@ try{
     $progEmboss->run({-sequence => $input,-outfile => "$input.emboss" });
     use Bio::AlignIO;
     my $alnin = Bio::AlignIO->new(-file => "$input.emboss", -format => 'emboss');
-    print "DONE"
+    print "SUCCESS"
 }
 catch{
-    warn "caught error: $_"
+    warn "error: $_"
 }
